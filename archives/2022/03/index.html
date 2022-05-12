@@ -177,30 +177,32 @@
   </div>
 
 
-{# Blogroll #}
-{% if theme.recent_posts %}
-<div class="links-of-blogroll motion-element {{ "links-of-blogroll-" + theme.recent_posts_layout  }}">
-<br>
-<div class="links-of-blogroll-title">
-    <!-- 設定你要的fa fa icon-->
-    <i class="fa fa-history fa-{{ theme.recent_posts_icon | lower }}" aria-hidden="true"></i>
-    {{ theme.recent_posts_title }}
-</div>
-<ul class="links-of-blogroll-list">
-    <!--{% set posts = site.posts.sort('-date') %}-->
-    {% set posts = site.posts.sort('-date').toArray() %}
-    {% for post in posts.slice('0', '5') %}
-    <li class='pull-left' style="white-space:normal; text-align:left" >
-      <time title="{{ __('post.created') }}" itemprop="dateCreated datePublished" datetime="{{ moment(post.date).format() }}">
-        {{ date(post.date, 'MM/DD') }}
-      </time>
-      <a href="{{ url_for(post.path) }}" title="{{ post.title }}">{{ post.title }}</a>
-      <br>
-    </li>
-    {% endfor %}
-</ul>
-</div>
-{% endif %}
+ <hr/>
+ 
+ <!--noindex-->
+  <div class="post-toc-wrap sidebar-panel">
+  </div>
+  <!--/noindex-->
+  <div class="links-of-blogroll motion-element links-of-blogroll-block">
+  <div class="links-of-blogroll-title">
+      <!-- 設定你要的fa fa icon-->
+      <i class="fa fa-history fa-" aria-hidden="true" style="margin: 1rem 0.25rem 0.5rem 0"></i>
+      近期文章
+  </div>
+  
+  <ul class="links-of-blogroll-list" style="text-algin: left;">
+      <li>
+          <a href="/chantmoon/%E6%97%A5%E5%B8%B8%E5%85%B6%E4%BB%96/20220325/414986548/" title="[Hexo] Themes Stellar" target="_blank">[Hexo] Themes Stellar</a>
+      </li>
+      <li>
+          <a href="/chantmoon/%E6%97%A5%E5%B8%B8%E5%85%B6%E4%BB%96/20220324/1243066710/" title="Hello World" target="_blank">Hello World</a>
+      </li>
+  </ul>
+  </div>
+    <div class="back-to-top motion-element">
+      <i class="fa fa-arrow-up"></i>
+      <span>0%</span>
+    </div>
         </div>
       </div>
         <div class="back-to-top animated" role="button" aria-label="回到頂端">

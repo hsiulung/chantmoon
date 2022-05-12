@@ -10,7 +10,7 @@
 </ul>
 </li>
 <li>hexo g &#x2F; 重新產生</li>
-<li>hexo d &#x2F; 發行</li>
+<li>hexo d &#x2F; 發行<span id="more"></span></li>
 </ul>
 <p>hexo clean &amp;&amp; hexo g &amp;&amp; hexo s<br>hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</p>
 <h3 id="Stellar"><a href="#Stellar" class="headerlink" title="Stellar"></a>Stellar</h3><ul>
@@ -21,7 +21,7 @@
 </li>
 <li><p>init<br>npm install -g hexo-cli<br>npm install &#x2F;&#x2F;安裝 Hexo<br>npm install hexo-deployer-git –save &#x2F;&#x2F;安裝 git 部署套件</p>
 </li>
-<li><p>setting<br>git config –global user.email “<a href="mailto:&#x68;&#115;&#105;&#117;&#108;&#x75;&#110;&#103;&#x34;&#x31;&#x37;&#64;&#104;&#x6f;&#x74;&#109;&#97;&#x69;&#108;&#x2e;&#x63;&#x6f;&#x6d;">&#x68;&#115;&#105;&#117;&#108;&#x75;&#110;&#103;&#x34;&#x31;&#x37;&#64;&#104;&#x6f;&#x74;&#109;&#97;&#x69;&#108;&#x2e;&#x63;&#x6f;&#x6d;</a>“<br>git config –global user.name “hsiulung”</p>
+<li><p>setting<br>git config –global user.email “<a href="mailto:&#x68;&#x73;&#x69;&#x75;&#108;&#x75;&#x6e;&#103;&#52;&#49;&#55;&#x40;&#104;&#x6f;&#116;&#109;&#97;&#x69;&#x6c;&#x2e;&#99;&#111;&#x6d;">&#x68;&#x73;&#x69;&#x75;&#108;&#x75;&#x6e;&#103;&#52;&#49;&#55;&#x40;&#104;&#x6f;&#116;&#109;&#97;&#x69;&#x6c;&#x2e;&#99;&#111;&#x6d;</a>“<br>git config –global user.name “hsiulung”</p>
 </li>
 </ol>
 <hr>
