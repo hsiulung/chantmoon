@@ -1,51 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>[Hexo] Themes Stellar</title>
-    <url>/chantmoon/others/20220325/414986548/</url>
-    <content><![CDATA[<h3 id="執行"><a href="#執行" class="headerlink" title="執行"></a>執行</h3><ul>
-<li>hexo s &#x2F; 預覽<ul>
-<li><a href="http://localhost:4000/">http://localhost:4000/</a></li>
-<li><a href="http://localhost:4000/admin/">http://localhost:4000/admin/</a></li>
-</ul>
-</li>
-<li>hexo g &#x2F; 重新產生</li>
-<li>hexo d &#x2F; 發行<span id="more"></span></li>
-</ul>
-<p>hexo clean &amp;&amp; hexo g &amp;&amp; hexo s<br>hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</p>
-<h3 id="Stellar"><a href="#Stellar" class="headerlink" title="Stellar"></a>Stellar</h3><ul>
-<li><a href="https://xaoxuu.com/wiki/stellar/wiki-settings/#%E9%A1%B9%E7%9B%AE%E7%9A%84-GitHub-%E4%BB%93%E5%BA%93%E4%BF%A1%E6%81%AF">https://xaoxuu.com/wiki/stellar/wiki-settings/#%E9%A1%B9%E7%9B%AE%E7%9A%84-GitHub-%E4%BB%93%E5%BA%93%E4%BF%A1%E6%81%AF</a></li>
-</ul>
-<h3 id="安裝"><a href="#安裝" class="headerlink" title="安裝"></a>安裝</h3><ol>
-<li><p>Hexo<br>install<br><a href="https://nodejs.org/en/">https://nodejs.org/en/</a></p>
-</li>
-<li><p>init<br>npm install -g hexo-cli<br>npm install &#x2F;&#x2F;安裝 Hexo<br>npm install hexo-deployer-git –save &#x2F;&#x2F;安裝 git 部署套件</p>
-</li>
-<li><p>setting<br>git config –global user.email “<a href="mailto:&#x68;&#x73;&#105;&#x75;&#x6c;&#117;&#x6e;&#x67;&#x34;&#x31;&#x37;&#x40;&#104;&#x6f;&#x74;&#x6d;&#97;&#105;&#x6c;&#x2e;&#x63;&#111;&#109;">&#x68;&#x73;&#105;&#x75;&#x6c;&#117;&#x6e;&#x67;&#x34;&#x31;&#x37;&#x40;&#104;&#x6f;&#x74;&#x6d;&#97;&#105;&#x6c;&#x2e;&#x63;&#111;&#109;</a>“<br>git config –global user.name “hsiulung”</p>
-</li>
-</ol>
-<hr>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>日常其他</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>新居落成</title>
     <url>/chantmoon/others/20220512/336246304/</url>
     <content><![CDATA[<h2 id="閒聊"><a href="#閒聊" class="headerlink" title="閒聊"></a>閒聊</h2><p>其實hexo + github 大概三月就開始研究了，後來因為一些問題一直擱著，最近才剛撿回來。<br>可是把資料塞滿又產生新的問題，hexo g 指令總是出錯誤。<br>因為能力有限，後來就把一部分的網頁搬到hack.md上，也算是迴避了該問題。</p>
@@ -72,6 +27,51 @@
       </categories>
       <tags>
         <tag>202205</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>[Hexo] Themes Stellar</title>
+    <url>/chantmoon/others/20220325/414986548/</url>
+    <content><![CDATA[<h3 id="執行"><a href="#執行" class="headerlink" title="執行"></a>執行</h3><ul>
+<li>hexo s &#x2F; 預覽<ul>
+<li><a href="http://localhost:4000/">http://localhost:4000/</a></li>
+<li><a href="http://localhost:4000/admin/">http://localhost:4000/admin/</a></li>
+</ul>
+</li>
+<li>hexo g &#x2F; 重新產生</li>
+<li>hexo d &#x2F; 發行<span id="more"></span></li>
+</ul>
+<p>hexo clean &amp;&amp; hexo g &amp;&amp; hexo s<br>hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</p>
+<h3 id="Stellar"><a href="#Stellar" class="headerlink" title="Stellar"></a>Stellar</h3><ul>
+<li><a href="https://xaoxuu.com/wiki/stellar/wiki-settings/#%E9%A1%B9%E7%9B%AE%E7%9A%84-GitHub-%E4%BB%93%E5%BA%93%E4%BF%A1%E6%81%AF">https://xaoxuu.com/wiki/stellar/wiki-settings/#%E9%A1%B9%E7%9B%AE%E7%9A%84-GitHub-%E4%BB%93%E5%BA%93%E4%BF%A1%E6%81%AF</a></li>
+</ul>
+<h3 id="安裝"><a href="#安裝" class="headerlink" title="安裝"></a>安裝</h3><ol>
+<li><p>Hexo<br>install<br><a href="https://nodejs.org/en/">https://nodejs.org/en/</a></p>
+</li>
+<li><p>init<br>npm install -g hexo-cli<br>npm install &#x2F;&#x2F;安裝 Hexo<br>npm install hexo-deployer-git –save &#x2F;&#x2F;安裝 git 部署套件</p>
+</li>
+<li><p>setting<br>git config –global user.email “<a href="mailto:&#104;&#115;&#105;&#x75;&#108;&#117;&#x6e;&#x67;&#52;&#x31;&#55;&#x40;&#x68;&#x6f;&#116;&#x6d;&#x61;&#105;&#x6c;&#46;&#x63;&#111;&#109;">&#104;&#115;&#105;&#x75;&#108;&#117;&#x6e;&#x67;&#52;&#x31;&#55;&#x40;&#x68;&#x6f;&#116;&#x6d;&#x61;&#105;&#x6c;&#46;&#x63;&#111;&#109;</a>“<br>git config –global user.name “hsiulung”</p>
+</li>
+</ol>
+<hr>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>日常其他</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
