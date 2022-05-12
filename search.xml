@@ -1,31 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/chantmoon/others/20220324/1243066710/</url>
-    <content><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<span id="more"></span>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>日常其他</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>[Hexo] Themes Stellar</title>
     <url>/chantmoon/others/20220325/414986548/</url>
     <content><![CDATA[<h3 id="執行"><a href="#執行" class="headerlink" title="執行"></a>執行</h3><ul>
@@ -46,7 +21,7 @@
 </li>
 <li><p>init<br>npm install -g hexo-cli<br>npm install &#x2F;&#x2F;安裝 Hexo<br>npm install hexo-deployer-git –save &#x2F;&#x2F;安裝 git 部署套件</p>
 </li>
-<li><p>setting<br>git config –global user.email “<a href="mailto:&#x68;&#x73;&#105;&#x75;&#x6c;&#117;&#110;&#x67;&#52;&#49;&#x37;&#x40;&#x68;&#x6f;&#116;&#109;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">&#x68;&#x73;&#105;&#x75;&#x6c;&#117;&#110;&#x67;&#52;&#49;&#x37;&#x40;&#x68;&#x6f;&#116;&#109;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a>“<br>git config –global user.name “hsiulung”</p>
+<li><p>setting<br>git config –global user.email “<a href="mailto:&#x68;&#x73;&#105;&#x75;&#x6c;&#117;&#x6e;&#x67;&#x34;&#x31;&#x37;&#x40;&#104;&#x6f;&#x74;&#x6d;&#97;&#105;&#x6c;&#x2e;&#x63;&#111;&#109;">&#x68;&#x73;&#105;&#x75;&#x6c;&#117;&#x6e;&#x67;&#x34;&#x31;&#x37;&#x40;&#104;&#x6f;&#x74;&#x6d;&#97;&#105;&#x6c;&#x2e;&#x63;&#111;&#109;</a>“<br>git config –global user.name “hsiulung”</p>
 </li>
 </ol>
 <hr>
@@ -97,6 +72,31 @@
       </categories>
       <tags>
         <tag>202205</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/chantmoon/others/20220324/1243066710/</url>
+    <content><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>日常其他</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
       </tags>
   </entry>
 </search>
