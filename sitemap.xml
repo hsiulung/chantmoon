@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hsiulung.github.io/chantmoon/uncategorized/20220512/336246304/</loc>
+    <loc>https://hsiulung.github.io/chantmoon/others/20220512/336246304/</loc>
+    
+    <lastmod>2022-05-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsiulung.github.io/chantmoon/about/index.html</loc>
     
     <lastmod>2022-05-12</lastmod>
     
@@ -46,15 +55,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://hsiulung.github.io/chantmoon/about/index.html</loc>
-    
-    <lastmod>2022-05-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://hsiulung.github.io/chantmoon</loc>
@@ -66,6 +66,13 @@
   
   <url>
     <loc>https://hsiulung.github.io/chantmoon/tags/hexo/</loc>
+    <lastmod>2022-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsiulung.github.io/chantmoon/tags/202205/</loc>
     <lastmod>2022-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

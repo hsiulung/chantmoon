@@ -71,8 +71,32 @@
       </tags>
   </entry>
   <entry>
-    <title>page</title>
-    <url>/chantmoon/uncategorized/20220512/336246304/</url>
-    <content><![CDATA[]]></content>
+    <title>新居落成</title>
+    <url>/chantmoon/others/20220512/336246304/</url>
+    <content><![CDATA[<h2 id="閒聊"><a href="#閒聊" class="headerlink" title="閒聊"></a>閒聊</h2><p>其實hexo + github 大概三月就開始研究了，後來因為一些問題一直擱著，最近才剛撿回來。<br>可是把資料塞滿又產生新的問題，hexo g 指令總是出錯誤。<br>因為能力有限，後來就把一部分的網頁搬到hack.md上，也算是迴避了該問題。</p>
+<span id="more"></span>
+
+<p>產生的靜態網頁其實內容不算大，<br>在金鑰設定總是卡關出錯，後來研究幾篇文章也不知道為什麼莫名其妙就成功了。<br>linux指令我是幾百年前學的，現在用起來套在windows上也不曉得到底為何成功還是失敗……</p>
+<p>寫文的部分用的是Stellar，<br>本主題受到所有朋友一致好評，但有些東西還是要摸索所以過程比較痛苦。</p>
+<p>第二個想寫日記的改用很夯的Next主題，<br>閱讀時間我在stellar嘗試永遠都是失敗，至少讓我直接套next的時候可以比較快樂。<br>我喜歡next的一點是他字很大www<br>作為一個看到文字永遠都想用150%來閱覽的人，這個文字大小我很喜歡。</p>
+<p>目前還沒想到部落格要寫點什麼，以前常常寫觀後感之類的，現在就沒這興致了。</p>
+<h2 id="近況"><a href="#近況" class="headerlink" title="近況"></a>近況</h2><p>最近藍月寫得仍舊不是很順，但比四月的時候好多了。<br>唯一不太好的是最近也不像之前那麼早睡，但也比起三月前好多了？</p>
+<p>工作方面一堆人臨時請假 (不是因為疫情)，<br>接下來可以預料到的是會面臨很大的變革。<br>希望遇事情的人都能逢凶化吉，一切順利。</p>
+<p>今天跟人聊到時才發現，這該死的肺炎已經過了2年了，即將邁入第三年。<br>盼望烏惡戰爭跟疫情能夠在今年結束，能夠早日恢復常軌。<br>雖說2019前的世界可能已經很遙遠，但在一路上也獲得了很多。<br>這個世界與我們都有很大的改變。</p>
+<h2 id="TODO"><a href="#TODO" class="headerlink" title="TODO"></a>TODO</h2><p>有關部落格留言跟GA還沒設定，主題也有不少功能可以研究，<br>可能會想用看看套用失敗的applayer放個音樂看看？</p>
+<ul>
+<li>GA</li>
+<li>留言</li>
+<li>Likecoin</li>
+<li>Google-fonts套用</li>
+<li>音樂播放</li>
+</ul>
+]]></content>
+      <categories>
+        <category>日常其他</category>
+      </categories>
+      <tags>
+        <tag>202205</tag>
+      </tags>
   </entry>
 </search>
