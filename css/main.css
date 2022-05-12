@@ -1278,7 +1278,7 @@ pre code {
 .sidebar-inner {
   color: #999;
   max-height: calc(100vh - 24px);
-  padding: 18px 10px;
+  padding: 16px 10px;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -1315,12 +1315,6 @@ pre code {
 }
 .links-of-author a {
   font-size: 0.8125em;
-}
-.links-of-author .fa,
-.links-of-author .fab,
-.links-of-author .far,
-.links-of-author .fas {
-  margin-right: 2px;
 }
 .sidebar .sidebar-button:not(:first-child) {
   margin-top: 15px;
@@ -2752,7 +2746,6 @@ mark.search-keyword {
 }
 .links-of-author-item {
   margin: 5px 0 0;
-  width: 50%;
 }
 .links-of-author-item a {
   box-sizing: border-box;
@@ -2814,4 +2807,36 @@ body {
   color: #04f;
   border-bottom: none;
   border-bottom: 1px solid #04f;
+}
+ul {
+  list-style-type: '✦ '; /*自定使用字元符*/
+}
+:link {
+  cursor: url("/images/pointer.cur"), auto;
+}
+.post-body p a {
+  color: #0593d3;
+  border-bottom: none;
+  border-bottom: 1px solid #0593d3;
+}
+.post-body p a:hover {
+  color: #fc6423;
+  border-bottom: none;
+  border-bottom: 1px solid #fc6423;
+}
+/* 網頁捲軸【寬度】 */
+::-webkit-scrollbar {
+  width: 5px;
+}
+/* 網頁捲軸【背景】顏色 */
+::-webkit-scrollbar-track {
+  background: #fff;
+}
+/* 網頁捲軸【把手】顏色 */
+::-webkit-scrollbar-thumb {
+  background: #f5f5f5;
+}
+/* 網頁捲軸【滑過時】把手的顏色 */
+::-webkit-scrollbar-thumb:hover {
+  background: #fff;
 }
