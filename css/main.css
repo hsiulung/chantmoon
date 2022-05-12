@@ -2798,16 +2798,6 @@ body {
   background-size: cover;
   background-position: 50% 50%;
 }
-.post-body p a {
-  color: #00c3ff;
-  border-bottom: none;
-  border-bottom: 1px solid #00c3ff;
-}
-.post-body p a:hover {
-  color: #04f;
-  border-bottom: none;
-  border-bottom: 1px solid #04f;
-}
 ul {
   list-style-type: '✦ '; /*自定使用字元符*/
 }
