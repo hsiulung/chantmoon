@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hsiulung.github.io/chantmoon/notebook/20220325/414986548/</loc>
-    
-    <lastmod>2022-05-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hsiulung.github.io/chantmoon/notebook/20220324/1243066710/</loc>
     
     <lastmod>2022-05-14</lastmod>
@@ -20,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://hsiulung.github.io/chantmoon/%E6%97%A5%E5%B8%B8/20220512/336246304/</loc>
+    <loc>https://hsiulung.github.io/chantmoon/diary/20220512/336246304/</loc>
     
     <lastmod>2022-05-14</lastmod>
     
@@ -134,7 +125,7 @@
   </url>
   
   <url>
-    <loc>https://hsiulung.github.io/chantmoon/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>https://hsiulung.github.io/chantmoon/categories/diary/</loc>
     <lastmod>2022-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
