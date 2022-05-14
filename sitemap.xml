@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hsiulung.github.io/chantmoon/games/20211027/3569558471/</loc>
+    
+    <lastmod>2022-05-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hsiulung.github.io/chantmoon/politics/20220513/65909004/</loc>
     
     <lastmod>2022-05-13</lastmod>
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://hsiulung.github.io/chantmoon/others/20220512/336246304/</loc>
+    <loc>https://hsiulung.github.io/chantmoon/%E6%97%A5%E5%B8%B8%E5%85%B6%E4%BB%96/20220512/336246304/</loc>
     
     <lastmod>2022-05-12</lastmod>
     
@@ -47,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://hsiulung.github.io/chantmoon/others/20220325/414986548/</loc>
+    <loc>https://hsiulung.github.io/chantmoon/%E6%97%A5%E5%B8%B8%E5%85%B6%E4%BB%96/20220325/414986548/</loc>
     
     <lastmod>2022-05-12</lastmod>
     
@@ -56,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://hsiulung.github.io/chantmoon/others/20220324/1243066710/</loc>
+    <loc>https://hsiulung.github.io/chantmoon/%E6%97%A5%E5%B8%B8%E5%85%B6%E4%BB%96/20220324/1243066710/</loc>
     
     <lastmod>2022-05-12</lastmod>
     
@@ -67,7 +76,7 @@
 
   <url>
     <loc>https://hsiulung.github.io/chantmoon</loc>
-    <lastmod>2022-05-13</lastmod>
+    <lastmod>2022-05-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,14 +84,28 @@
   
   <url>
     <loc>https://hsiulung.github.io/chantmoon/tags/202205/</loc>
-    <lastmod>2022-05-13</lastmod>
+    <lastmod>2022-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hsiulung.github.io/chantmoon/tags/hexo/</loc>
-    <lastmod>2022-05-13</lastmod>
+    <lastmod>2022-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsiulung.github.io/chantmoon/tags/ganshin-impact/</loc>
+    <lastmod>2022-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsiulung.github.io/chantmoon/tags/202110/</loc>
+    <lastmod>2022-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -91,14 +114,21 @@
   
   <url>
     <loc>https://hsiulung.github.io/chantmoon/categories/politics/</loc>
-    <lastmod>2022-05-13</lastmod>
+    <lastmod>2022-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hsiulung.github.io/chantmoon/categories/others/</loc>
-    <lastmod>2022-05-13</lastmod>
+    <loc>https://hsiulung.github.io/chantmoon/categories/%E6%97%A5%E5%B8%B8%E5%85%B6%E4%BB%96/</loc>
+    <lastmod>2022-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsiulung.github.io/chantmoon/categories/games/</loc>
+    <lastmod>2022-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

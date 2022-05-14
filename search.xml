@@ -30,8 +30,78 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/chantmoon/%E6%97%A5%E5%B8%B8%E5%85%B6%E4%BB%96/20220324/1243066710/</url>
+    <content><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>日常其他</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>[Hexo] Themes Stellar</title>
+    <url>/chantmoon/%E6%97%A5%E5%B8%B8%E5%85%B6%E4%BB%96/20220325/414986548/</url>
+    <content><![CDATA[<h3 id="執行"><a href="#執行" class="headerlink" title="執行"></a>執行</h3><ul>
+<li>hexo s &#x2F; 預覽<ul>
+<li><a href="http://localhost:4000/">http://localhost:4000/</a></li>
+<li><a href="http://localhost:4000/admin/">http://localhost:4000/admin/</a></li>
+</ul>
+</li>
+<li>hexo g &#x2F; 重新產生</li>
+<li>hexo d &#x2F; 發行<span id="more"></span></li>
+</ul>
+<p>hexo clean &amp;&amp; hexo g &amp;&amp; hexo s<br>hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</p>
+<h3 id="Stellar"><a href="#Stellar" class="headerlink" title="Stellar"></a>Stellar</h3><ul>
+<li><a href="https://xaoxuu.com/wiki/stellar/wiki-settings/#%E9%A1%B9%E7%9B%AE%E7%9A%84-GitHub-%E4%BB%93%E5%BA%93%E4%BF%A1%E6%81%AF">https://xaoxuu.com/wiki/stellar/wiki-settings/#%E9%A1%B9%E7%9B%AE%E7%9A%84-GitHub-%E4%BB%93%E5%BA%93%E4%BF%A1%E6%81%AF</a></li>
+</ul>
+<h3 id="安裝"><a href="#安裝" class="headerlink" title="安裝"></a>安裝</h3><ol>
+<li><p>Hexo<br>install<br><a href="https://nodejs.org/en/">https://nodejs.org/en/</a></p>
+</li>
+<li><p>init<br>npm install -g hexo-cli<br>npm install &#x2F;&#x2F;安裝 Hexo<br>npm install hexo-deployer-git –save &#x2F;&#x2F;安裝 git 部署套件</p>
+</li>
+<li><p>setting<br>git config –global user.email “<a href="mailto:&#x68;&#x73;&#105;&#x75;&#x6c;&#117;&#110;&#103;&#x34;&#49;&#55;&#64;&#x68;&#x6f;&#x74;&#109;&#97;&#x69;&#108;&#x2e;&#99;&#111;&#109;">&#x68;&#x73;&#105;&#x75;&#x6c;&#117;&#110;&#103;&#x34;&#49;&#55;&#64;&#x68;&#x6f;&#x74;&#109;&#97;&#x69;&#108;&#x2e;&#99;&#111;&#109;</a>“<br>git config –global user.name “hsiulung”</p>
+</li>
+</ol>
+<hr>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>日常其他</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>新居落成</title>
-    <url>/chantmoon/others/20220512/336246304/</url>
+    <url>/chantmoon/%E6%97%A5%E5%B8%B8%E5%85%B6%E4%BB%96/20220512/336246304/</url>
     <content><![CDATA[<h2 id="閒聊"><a href="#閒聊" class="headerlink" title="閒聊"></a>閒聊</h2><p>其實hexo + github 大概三月就開始研究了，後來因為一些問題一直擱著，最近才剛撿回來。<br>可是把資料塞滿又產生新的問題，hexo g 指令總是出錯誤。<br>因為能力有限，後來就把一部分的網頁搬到hack.md上，也算是迴避了該問題。</p>
 <span id="more"></span>
 
@@ -59,73 +129,165 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/chantmoon/others/20220324/1243066710/</url>
-    <content><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
+    <title>原神遊戲感想</title>
+    <url>/chantmoon/games/20211027/3569558471/</url>
+    <content><![CDATA[<blockquote>
+<p> 20211027版</p>
+</blockquote>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>就結論上這是個你可以玩得很休閒的遊戲，要蓋房可以蓋房，要釣魚也是可以釣魚，開始打不過可以降世界等級或者找人幫你打。</p>
+<p>我大概算是技術一般<del>或偏低</del>的玩家，按照遊戲見聞指引鍛鍊角色不會有大問題。</p>
+<p>但你要很強還是要課金，而且要課不少，因為角色不好抽。刷首抽可以，不刷還是可以跑完所有劇情。←只跑劇情冒險等級 (41&#x2F;60就跑完主線)</p>
 <span id="more"></span>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>日常其他</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>[Hexo] Themes Stellar</title>
-    <url>/chantmoon/others/20220325/414986548/</url>
-    <content><![CDATA[<h3 id="執行"><a href="#執行" class="headerlink" title="執行"></a>執行</h3><ul>
-<li>hexo s &#x2F; 預覽<ul>
-<li><a href="http://localhost:4000/">http://localhost:4000/</a></li>
-<li><a href="http://localhost:4000/admin/">http://localhost:4000/admin/</a></li>
-</ul>
-</li>
-<li>hexo g &#x2F; 重新產生</li>
-<li>hexo d &#x2F; 發行<span id="more"></span></li>
-</ul>
-<p>hexo clean &amp;&amp; hexo g &amp;&amp; hexo s<br>hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</p>
-<h3 id="Stellar"><a href="#Stellar" class="headerlink" title="Stellar"></a>Stellar</h3><ul>
-<li><a href="https://xaoxuu.com/wiki/stellar/wiki-settings/#%E9%A1%B9%E7%9B%AE%E7%9A%84-GitHub-%E4%BB%93%E5%BA%93%E4%BF%A1%E6%81%AF">https://xaoxuu.com/wiki/stellar/wiki-settings/#%E9%A1%B9%E7%9B%AE%E7%9A%84-GitHub-%E4%BB%93%E5%BA%93%E4%BF%A1%E6%81%AF</a></li>
-</ul>
-<h3 id="安裝"><a href="#安裝" class="headerlink" title="安裝"></a>安裝</h3><ol>
-<li><p>Hexo<br>install<br><a href="https://nodejs.org/en/">https://nodejs.org/en/</a></p>
-</li>
-<li><p>init<br>npm install -g hexo-cli<br>npm install &#x2F;&#x2F;安裝 Hexo<br>npm install hexo-deployer-git –save &#x2F;&#x2F;安裝 git 部署套件</p>
-</li>
-<li><p>setting<br>git config –global user.email “<a href="mailto:&#x68;&#115;&#105;&#117;&#108;&#117;&#x6e;&#103;&#52;&#x31;&#x37;&#x40;&#x68;&#x6f;&#x74;&#109;&#97;&#105;&#108;&#46;&#x63;&#x6f;&#109;">&#x68;&#115;&#105;&#117;&#108;&#117;&#x6e;&#103;&#52;&#x31;&#x37;&#x40;&#x68;&#x6f;&#x74;&#109;&#97;&#105;&#108;&#46;&#x63;&#x6f;&#109;</a>“<br>git config –global user.name “hsiulung”</p>
-</li>
-</ol>
 <hr>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
+<h2 id="限制-amp-優點"><a href="#限制-amp-優點" class="headerlink" title="限制 &amp; 優點"></a>限制 &amp; 優點</h2><ul>
+<li><strong>優點</strong><ul>
+<li>沒有PVP不用社交，基本是單機版</li>
+<li>不跟其他人連線也不會怎樣</li>
+<li>有劇情跟活動，<u>活動獎勵放在最低等</u>很好取得 </li>
+<li>很多雜事可以做，釣魚 &#x2F; 蓋房&#x2F;每日任務，但你不爽打也可以完全不打也不刷裝備。</li>
+<li>二創很多，大概掃一下BG的二創遠大於BL</li>
+</ul>
+</li>
+<li><strong>限制</strong><ul>
+<li>3D暈 <ul>
+<li>無解，我也不只暈這遊戲也不會每天發作。</li>
+</ul>
+</li>
+<li>電腦配備限制 &#x2F; 16G+ | 儲存空間30G+<ul>
+<li>其他友表示電腦8G也可以跑但是略卡 </li>
+<li>光下載就會載到惱羞。</li>
+</ul>
+</li>
+<li>一般狀況找不太到人討論，在噗浪上會被嫌棄要特別低調。</li>
+<li>有些限時任務很吃操作，跟我玩過的其他遊戲相比也還好。</li>
+<li>多平台，還可以在PS4上玩。手機除非夠強否則也不推薦。</li>
+</ul>
+</li>
+<li>適合喜歡少年角色&#x2F;羅莉&#x2F;傲嬌的人玩，體感這類角色在遊戲數量真心多</li>
+</ul>
+<hr>
+<h2 id="抄襲爭議"><a href="#抄襲爭議" class="headerlink" title="抄襲爭議"></a>抄襲爭議</h2><ul>
+<li><p>介面跟地圖立體化 &#x2F; 解謎 &#x2F; 許多元素顯然大量借鑑曠野之息。</p>
+<ul>
+<li>😥 實際上解謎跟立體找寶箱很勸退，我每次在立體地圖找傳送點都很崩潰，解謎也讓我快要發瘋，還好都能google到。<br><del>最後我沒考慮曠野之息就是因為原神解謎已經不難但我感到很崩潰</del></li>
+</ul>
+</li>
+<li><p>中資，很介意的人完全不要玩比較好。</p>
+<ul>
+<li>遊戲可以用推特登入，不需要提供其他資料。</li>
+</ul>
+</li>
+<li><p><strong>相似處</strong></p>
+<ul>
+<li>料理：然而只是固定菜單+補品，很多遊戲都有</li>
+<li>爬山&#x2F;游泳&#x2F;爬牆：<br>我遊戲玩得不多，所以還沒碰過，不是只有曠野之息有，但確實這算是太多接近得少有元素。<br>立體地圖令人崩潰，可以的話我希望把山拿掉我不想爬山找進化材料，有些有圍欄的地圖沒操作好也會跨過圍欄差點跳樓 <del>超討厭璃月的矮圍欄</del></li>
+<li>解謎：對我來說解謎越少越好，但這也很多遊戲都有，但其實我沒玩過不知道哪裡像</li>
+<li>大地圖上的怪物部落 ← 真的超像</li>
+<li>滑翔翼：有飛行系統，但飛行又會加入解謎跟限時間任務我也不算喜歡就是。</li>
+</ul>
+</li>
+<li><p><strong>比較少見的系統</strong></p>
+<ul>
+<li><strong>元素反應</strong><ul>
+<li>遊戲非常吃元素反應組合，不出反應會很難打怪。</li>
+<li>屬性會造成元素反應，雖然一次可以操作1個角色，但可以通過切換角色造成特效，戰鬥方法完全不同。</li>
+<li>很多角色可以使用，實際上他是卡片養成系的遊戲。遊戲中後期很多時間都會花在練腳色天賦 &#x2F; 聖遺物等。</li>
+</ul>
+</li>
+<li><strong>飛行系統的進化版</strong><ul>
+<li>有大地圖限時飛行任務 &amp; 風場 (加速&#x2F;飛空)，戰場立體化也有多種戰法 <del>一開始完全不會操作</del></li>
+</ul>
+</li>
+<li>七國 &#x3D; 七組劇情，建築風格跟野外風格可以玩出很多變化。</li>
+<li>初期蓋房會出現中國風跟日本風跟歐風混雜的詭異組合。<br><del>醜到不想承認這是自己蓋的</del></li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="新手給新手的提醒"><a href="#新手給新手的提醒" class="headerlink" title="新手給新手的提醒"></a>新手給新手的提醒</h3><ul>
+<li>無聊可以亂打路邊的木頭，以後會用到。</li>
+<li>不要走雪山去璃月。</li>
+<li>不要抽常駐池。</li>
+<li>換主角向神像祈禱可以換屬性。</li>
+<li>遊戲公司送石很摳門，死不課金不要學我亂抽 :call_me_hand:</li>
+<li>要研究一下元素反應。</li>
+</ul>
+<hr>
+<h2 id="劇情"><a href="#劇情" class="headerlink" title="劇情"></a>劇情</h2><blockquote>
+<p> 故事的開端會讓你選男主還是女主，兩位主角是雙胞胎，選擇哪一位不影響劇情。但會影響你看起來是BL還是BG 😑</p>
+</blockquote>
+<h3 id="世界觀與劇情"><a href="#世界觀與劇情" class="headerlink" title="世界觀與劇情"></a>世界觀與劇情</h3><p>主角（旅行者）與雙胞胎哥哥&#x2F;妹妹失散，在由神領導的七個國家尋找血親的故事。在這個世界裡，擁有元素力量的人擁有神之眼，被稱呼為「原神」。</p>
+<p>主角不愧是主角，是罕見能使用多種元素力卻沒有神之眼的人類。</p>
+<h3 id="蒙德"><a href="#蒙德" class="headerlink" title="蒙德"></a>蒙德</h3><blockquote>
+<p>傍湖而生的自由城邦，受到風祝福的城市。</p>
+</blockquote>
+<p>風神巴巴托斯離開已久的「自由」城邦裡，風神眷屬風魔龍特瓦林因為某種原因正在肆虐這座曾經自由的城邦。失去記憶的旅行者在<del>看起來很可疑的</del>小精靈派蒙的幫助下開始探索提瓦特。</p>
+<ul>
+<li>經典中世紀RPG風，跑任務看劇情。</li>
+<li>偶爾會有解謎但是是順便的，只是在地圖上打副本。<ul>
+<li>想轉蛋再去打就好。</li>
+<li>戶外場景單調而且很醜，草跟石頭只有一種。</li>
+</ul>
+</li>
+<li>跟後面兩個城市比起來相對地圖比較小，故事雖然完整但地圖偏小，很多抽到的角色都完全不會出現在主線裡面。就算是五星角色也不會出現。</li>
+</ul>
+<h3 id="璃月"><a href="#璃月" class="headerlink" title="璃月"></a>璃月</h3><blockquote>
+<p> 群山環抱的契約之國「璃月」，擁有悠久的六千年歷史。</p>
+</blockquote>
+<p>初入璃月的旅行者旁觀「契約」之國璃月的請神儀式，見證了岩王帝君被刺殺，不曉得為什麼作賊心虛逃跑，還接受了愚人眾<del>明顯是轉蛋角</del>的爪牙幫助，導致自己看起來更加可疑，是個令人想要瘋狂吐槽但又覺得算了的故事。</p>
+<ul>
+<li>故事角色開始增加，嘗試讓一些可以曬好感的角色打醬油。</li>
+<li>還是很多角色都沒出現。<del>為什麼凝光這富婆是四星</del></li>
+<li>地點跟場景增加，關於仙人的設定很有趣，但故事主線太敷衍根本是跟在鐘離屁股後當移動錢包然後順便被公子耍，相較蒙德的劇情單調很多。</li>
+<li>嘗試透過反派「公子」讓愚人眾出場增加腳色厚度，但實際上效果很微妙，個人認為劇情體驗遠不如蒙德。<ul>
+<li>璃月有很大部分的角色完全沒見過，行秋只有出來曬臉，七七只有出來賣萌只有莫名其妙可以形容。</li>
+<li>開始嘗試讓路人談論其他國家的事情。</li>
+</ul>
+</li>
+<li>似乎在嘗試大場景戰鬥？最後的戰鬥滿有趣的，仙人們幫忙上滿buff打怪很愉快。</li>
+</ul>
+<h3 id="稻妻"><a href="#稻妻" class="headerlink" title="稻妻"></a>稻妻</h3><blockquote>
+<p>鎖國的島國，追求永恆的雷神「雷電將軍」統御的島國。</p>
+</blockquote>
+<h5 id="遊戲部分"><a href="#遊戲部分" class="headerlink" title="遊戲部分"></a>遊戲部分</h5><ul>
+<li>增加移動手段可以開船，很有趣。<ul>
+<li>但我開船技術很爛，常常擱淺。</li>
+<li>感覺自己方向感很爛的移動方式。</li>
+</ul>
+</li>
+<li>有一段地圖會被雷打到崩潰，可以注意地上先發光要先躲避，跟打怪的邏輯類似。地圖上的互動很多。</li>
+<li>體感野外場景變得很豐富，有櫻花的地圖很美，採集的進化材料也很好看。<del>如果不要被打雷打到崩潰會更好。</del></li>
+<li>野外地圖不會像璃月高山太多導致爬山爬到惱火，中間設計了台階。</li>
+<li>野怪終於不是丘丘人了。</li>
+</ul>
+<h5 id="劇情-1"><a href="#劇情-1" class="headerlink" title="劇情"></a><strong>劇情</strong></h5><ul>
+<li>故事開頭搭上北斗的船，最終由萬葉身上的神之眼開場也跟神之眼而結束。整體而言比璃月的劇情完整且自然，改善了在璃月主線看到的許多缺點。</li>
+<li>多數可以抽到的角色都在主線現身，也有令人印象深刻的表現，改善了璃月一堆角色都只能靠傳說任務認識的缺點。<ul>
+<li>主線劇情開始有運鏡+濾鏡，有種看動畫的感覺。</li>
+</ul>
+</li>
+<li>主線強迫玩家要跑完主要角色的任務才能跑劇情，但我覺得這是必要的，起碼賣角色的手法自然不少。跑璃月主線我認識的角色真心沒幾個，記得行秋跟魈還有胡桃之類純粹是因為臉跟其他人喜歡。</li>
+<li>我喜歡的角色是八重神子。</li>
+<li>很明顯在賣角色，這次應該是主賣女角？雷電將軍的設定很好看，但是我並不算特別喜這個角色。關於追求永恆的詮釋勉強可以但不夠深刻，這麼想的時候我突然想起璃月的主線，又覺得一切都可以原諒。</li>
+<li>看到明明跟主角有互動但是長相卻很路人的角色，我當下覺得這傢伙是不是不妙。</li>
+</ul>
+<hr>
+<h2 id="活動劇情"><a href="#活動劇情" class="headerlink" title="活動劇情"></a>活動劇情</h2><ul>
+<li>目前只打過兩個：彈琴活動 &amp; 打副本，覺得變化不少很有意思。</li>
+<li>彈琴滿好玩的，重點是獎勵只要隨便打都可以拿到，地點都距離傳送點不遠，這點也很親切。</li>
+<li>副本部分可以補充主線的故事，打法也覺得很新鮮，目前打起來難度還OK。<ul>
+<li>不過我只打過第二關不知道後面是不是會難到靠北</li>
+</ul>
+</li>
+</ul>
+<h6 id="tags-遊戲-原神"><a href="#tags-遊戲-原神" class="headerlink" title="tags: 遊戲, 原神"></a>tags: <code>遊戲</code>, <code>原神</code></h6>]]></content>
       <categories>
-        <category>日常其他</category>
+        <category>遊戲</category>
       </categories>
       <tags>
-        <tag>hexo</tag>
+        <tag>原神</tag>
+        <tag>202110</tag>
       </tags>
   </entry>
 </search>
