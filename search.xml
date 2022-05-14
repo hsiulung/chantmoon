@@ -31,7 +31,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/chantmoon/%E6%97%A5%E5%B8%B8%E5%85%B6%E4%BB%96/20220324/1243066710/</url>
+    <url>/chantmoon/notebook/20220324/1243066710/</url>
     <content><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
 <span id="more"></span>
@@ -48,7 +48,7 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
       <categories>
-        <category>日常其他</category>
+        <category>技術</category>
       </categories>
       <tags>
         <tag>hexo</tag>
@@ -56,7 +56,7 @@
   </entry>
   <entry>
     <title>[Hexo] Themes Stellar</title>
-    <url>/chantmoon/%E6%97%A5%E5%B8%B8%E5%85%B6%E4%BB%96/20220325/414986548/</url>
+    <url>/chantmoon/notebook/20220325/414986548/</url>
     <content><![CDATA[<h3 id="執行"><a href="#執行" class="headerlink" title="執行"></a>執行</h3><ul>
 <li>hexo s &#x2F; 預覽<ul>
 <li><a href="http://localhost:4000/">http://localhost:4000/</a></li>
@@ -75,7 +75,7 @@
 </li>
 <li><p>init<br>npm install -g hexo-cli<br>npm install &#x2F;&#x2F;安裝 Hexo<br>npm install hexo-deployer-git –save &#x2F;&#x2F;安裝 git 部署套件</p>
 </li>
-<li><p>setting<br>git config –global user.email “<a href="mailto:&#x68;&#x73;&#105;&#x75;&#x6c;&#117;&#110;&#103;&#x34;&#49;&#55;&#64;&#x68;&#x6f;&#x74;&#109;&#97;&#x69;&#108;&#x2e;&#99;&#111;&#109;">&#x68;&#x73;&#105;&#x75;&#x6c;&#117;&#110;&#103;&#x34;&#49;&#55;&#64;&#x68;&#x6f;&#x74;&#109;&#97;&#x69;&#108;&#x2e;&#99;&#111;&#109;</a>“<br>git config –global user.name “hsiulung”</p>
+<li><p>setting<br>git config –global user.email “<a href="mailto:&#x68;&#115;&#x69;&#117;&#108;&#x75;&#x6e;&#x67;&#52;&#49;&#55;&#64;&#x68;&#x6f;&#116;&#109;&#97;&#105;&#108;&#x2e;&#x63;&#111;&#109;">&#x68;&#115;&#x69;&#117;&#108;&#x75;&#x6e;&#x67;&#52;&#49;&#55;&#64;&#x68;&#x6f;&#116;&#109;&#97;&#105;&#108;&#x2e;&#x63;&#111;&#109;</a>“<br>git config –global user.name “hsiulung”</p>
 </li>
 </ol>
 <hr>
@@ -93,7 +93,7 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
       <categories>
-        <category>日常其他</category>
+        <category>技術</category>
       </categories>
       <tags>
         <tag>hexo</tag>
@@ -101,7 +101,7 @@
   </entry>
   <entry>
     <title>新居落成</title>
-    <url>/chantmoon/%E6%97%A5%E5%B8%B8%E5%85%B6%E4%BB%96/20220512/336246304/</url>
+    <url>/chantmoon/%E6%97%A5%E5%B8%B8/20220512/336246304/</url>
     <content><![CDATA[<h2 id="閒聊"><a href="#閒聊" class="headerlink" title="閒聊"></a>閒聊</h2><p>其實hexo + github 大概三月就開始研究了，後來因為一些問題一直擱著，最近才剛撿回來。<br>可是把資料塞滿又產生新的問題，hexo g 指令總是出錯誤。<br>因為能力有限，後來就把一部分的網頁搬到hack.md上，也算是迴避了該問題。</p>
 <span id="more"></span>
 
@@ -122,7 +122,7 @@
 </ul>
 ]]></content>
       <categories>
-        <category>日常其他</category>
+        <category>日常</category>
       </categories>
       <tags>
         <tag>202205</tag>
