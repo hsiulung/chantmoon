@@ -58,23 +58,23 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/chantmoon/notebook/20220324/1243066710/</url>
-    <content><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<span id="more"></span>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
+    <title>[Hexo] Themes Stellar</title>
+    <url>/chantmoon/notebook/20220325/414986548/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密碼錯了~" data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="49d65711ffbca016bc49a5588c85361819bd9b191161b3ec4d8b2d0a1a02e259">ec1e43005ea035b672c45a7d4a32ac40b920960b132305c51b6339150e992387033e445e715ae63b4356511996eda92f20f724f557e2161d9e3660fdd6305d2bf623396f430e92793ccd0b4adbfffb06ca13527e56d956dca140cf413bf3ffedeaa60ab0fd9ef95a660437e2b896e28a11a2057abcfddb624f204cd717a0c9de5debdbba31ce2807504df50e34727ede08ac5e19307396899b5a5fe4ea57a40b7483a63d1aab3fd699a96912dede30ea59a6143e163d5a1e8f5a7df59e9972ebc2d78b4c2f24c3f35d4ecd2c7ceca8c4be1f6b205eb31dfb301f193f5a2d713046a76812f5d33cc29740f722cd3ae061f65431a42a1bd8b3d99d86124bb894b5b17a75be4052cace258e1d1b525297279eb3a3f0fe77b36110da68bd65e0eb78f68dc96920d68f2ce19331a201b8dbcfb699c71c9285f25ad1fff012a25d8617138cb90d7c30691e4c6243996fb9cc042e12cc0b7caba550fd2f7282b604026eb561c65a3274a1442e05bcb16ddafce272320a27f45283fae0280eae6aabd5026db4677057a30e82a493fa597bc15baf526dfed759b0b3e41d3336fba4ac2a6990305159c85ca982f432e6ab09c0e6760bfd024970b225deb64fda9949a8d0aa24df874291dd71a819cdf229b29a9d105823a0fe7e24ae37f537fae61dfc4c9b13f5f4d8de945f48c9c7577720f675e7e8653a237442bf595f530170c771ced2dad88a4d7c5b4a8bb3091dc4ee298858622be92d074150c77a63b9d8617efaa8bb30fa9869d3459c646270da622d0e366755c02d7dba341fe54d713e2d748eba3b680ef794c7366615f8765e9d05bce12565b14abf872d16ede087d71af722d6892cc4afefe743d3a45a19fac0e5d4159e9a319b5e97ac31c569b6e4c30f2b2d97a8f89602ce657801c365799ef18b2414e210b4b0be093aec3477f55a2d73b66bfa738ccfbed12ae43cbf6b59127e71d31bcfb0f554dc5d34221f3fddfa73c1cf870bda8b860fca2d7f2bca9e0f662753e407d3b885ccad8b2848fb11c4e00a704b54e1cdbd8d1474070c145812016fe2e8b3a8fe8998f6135dcbfefdf38045fa5f483e0a433be200b4e96de3526781646cb475cb8601b24d37a84e398f57fb78bb5cb3eed2124fe8a52fb24d138e5fda52a8c559467fdb218a2603a116dab23aa506695b0ebd19f1f0aca90c3d809ccb51ba802cd81996111056de034477e09ea1c5f48c8633537d0a7568cc14a3b8dd2f8d571ec5a0990d19da86d41672a937122b94bca2d1cfa5fe822b0b97abcf6bf6db44357cf895907e280b5df4f65dd82cc1b83e3b9d53e3bd7aa111fa361105c2be3776d2dd0b8b208d36d790745410b897a066aaf537639a743cd15ce442a8103142c4421a0ce30888d3c4e946c0778fcea0c4dec18bf2ea87269d6a683586fb8b594c675dca9ec5984c27f2cc4c1e41578b95a9febbd4874ae036ea227dabb58bb2a879b828fa7c51855cd52d0fcb4b4581314be2bc24fb907b8622588f189b72155aae12d288cb3f284b615a3c3acc663692c411d23bca5c9a00000ab877594439f2ba174e698e02e3d827b86303d12aaf3aa85edf5b9123fda8cc706e1eebf8e5e0b776bc68b87ba711a8cd9fa45b71285e581d327c6a3ccefe006c000f50c8232ab647bf0f222d9b8eb3e5a096e254f3d96c8c14ac2ecf903433796ec81ba70177f2fa69e25f9c129ad560fcf6f40392a98b97eb06266776682cc2f7705f50374c287f0b586815192ed33bd03fca9d1aa3b2594707f3b870325a8d24c6293a590f7fb0a723658d941ef2659ef9a5767bdaaafb8ef91b9d0e23408158c894f8cb6ca3db03ead2113412d234b3c6e8a4b968df4e479c3479b7df47bce7d78d248c4ead406f8fe993bfedbd44dd533a8285b440ce76514b37bb883771408e162bc9eda13faad266e2b2b5c3d8924ee41dc0276ff30b2781a107a4558405fef482c66679656dedf10255ee266f4bf94ec33b0fc2b12c413716c34ffcd16e62f8a2b3676ab4743434bd5bf061af75d104914748d788ae30dacc990ae2bb16c486af148ee8acb7b007ab571061912742134cd11a01eabc7f28dd824d97d0ad811601393fc0ff43f25c8b914458318077fa8b6d45162b0931453ce14bd1bab2efbe8511b7bb560d892292518c7aa3ecf8d77d1f79cbab900a8ba543a4418f061574952a7f47ffef773e7785b3e6d443f93bff2292587d40bf5838adc5abe4180967fbc33f3a35dd81c48291a067ab4f3652aaafbe32ee97cf41427ac8a7d192dc30d6405e4522be7dfc0c973151929b6cd684c8d748e95bd5b23c6cb97b7bd4f413787a567f39bd2881bae0f3e4d0b1dff12469cc858787a0be11a3428d6bc780c61a9a709f4f52f0fba6d8d95256b56b55d16928781af572c922343c30b81893b3d49cccb13f56438347ca423b96af4ae0d751476e6617a00de3b5e2d00e7d22b6cb46ca6017d41418c5d52b93ebb3fd65872c3535e609e9334911b6d0d4c2cd4ce0673c1d2b07ce77740e4e2eccda55339fb51da3bed98bfb1307ed99ffb191cb177c16a81dbfaf0ee3082e992fe897340d9e881ce73585b8218292f8ff598a22ba85ecdb7dbdd2c5211e0737a5d77083d659d38efd3dd6f8d839b2c29ba5d02677cdf122ab11af06dffaf1f7d69278d1e7fff05a15f5bf90ef50bc1bf1a3d1e80cda7039f80a692c3a053d752d5e1c50e6908baf2ca85abe7d3c12fe93dff60a6d35d36f7fd146860a209d44952501b7089bb9cb7d31ed727b0bbd5c5e74417252fe4c6b6232d133dd82f3c49bf14d376cf03466d8b84828ce3141c5d857238ec6377e208588cc0c9367618540d3a4a47ac80854f11f7b06d01054a5d815fc4ed50201f6506896f2d5eb3935b971c461cecb19135a7d0535c4bc050470e6cc655f790497163ed868863e90349961e9083ad40d383d0968088114381c69eda360f5463bcf306876e6e1c211b7872379302d0e1eedad372f2401cce9104f15589eda546277949dc09862b531e56f335ae13e9e336a3ac3c8c4f8e3edac674113e3ad16f9142c829698ef5db8504f90a5d926372c30f26060c6f8945b1fc5c826d1fb4d56e38519e0a0ab8916138c979eae515134b3ef0503146c87decc9ef71ea23afdfe5c9e5b7325713250303c936b82fe12f5d80a04052dbcab6e15165680643d66813ac16bafaa863fdee14e95dd48eb007c4a40f347f0f6273078b020b29c113c53181b557a939e2cd16a2750e00370a80b1b6f8354d483219ce392d8f90e9edba061fc476a802d957c71bb49f8e72d8e74760fcba4d4588b5c72bd90b30098c4d7906355492c468c0f4c138f650ad0b338a077fe4bb0f4ca8a8ee9467e6c446c6f683ab1d3fecfc30e8f3a139420c4bbd0bb5682997d29f4e4f077d0e6835f2e263a5e4c7064c4c450eae0bada54baacda3690dc06f1e27da18b4eead4ffc72f245ba9843b2a5323719c63f6b3b634237102d7e08b3683aa3fd37d054dc1e45dfd27e46f18f6bda7df9979225f1a3a72b58468120ed962f404014c2f91af8711d485fcc4c29e9990f954bc608174c3912b96698f08f39667a2d36f2c6304e6c857580ca462d75845bc796e9714af005dcb529f1f5710be857fe5c738e1ff5f8403eef1aa286a8a08cb3f60e1910d6a36691a11b7556203b20cd77f11c59972ac0e1181c5085313c5feecca44191ef246913ed6fc1e8c11aaa60ecac8a4c52d927a090e93b022b34ceec8921325aabe4a4564b10b1db37d1e40f13c1722e79685035eb377dea8eee1b2f1f1adb76aa65af94c6c946c293ce7b02a8ebdb84528695fdb455eaec880cbc46b4b27c62ea363c90a45ecbe4542fa88e88c131d0309a808d7e898ebef92ac9797685e24ae390aba80423b7b3b1e17d85c8f6454d55d5c5371c5033474bdb1c069bba52f84c12ba7b204f3cd46cec73f060156c1537d20b3628bef814fac747d64835bf62f2c5078703709b79a0b7be3e744b77493208835571eb42838cccedecef28bbce262982c4f225438f63557b79e812dde57cf1e1b054e5a3df8c0fbd836e09580834dcc0c96d60a145cb0da65f71e61d98f21ef3cac7acbceaa5bf0069bbbbd5b73a1ae92fb9bdd49ef38619db6c1f426d4ae32470c6d90ee375dfb4fad4038994d105454bf1bc94df0649c9928cc5df901cb05cc5799f914862425a373eebed0a05cef2ab2619906c584094c395b8146fb64fffeb357fc81aa5aff1b8547393a939ba045839d928e43f7ee1be0c836f38afaeed56e295c14f2dc6b3777be1e45c07b46e1ad231f5d0f659a2197b0c81525a0e1d25655faeb065c5ec2a52176736564e44f32cabfa3c7c727be39247078770ce97e7c82f1f67e5dcb4b373c17ed76f8d5905f3e0e26df90db6dbf3e69c40e9c04702c50ba3cb3da3c540cd277f28ee501b0415388846d536be59c21a8732a5afc6eb01b3c72fef92e7781ec76795b466891aa93f9dc67c093452066f156faa05236228781038c4234723eff65c0063e9be3b611051372d2230d963cdd8d3e1493e626cdf1239cd6b7060a819683e312b799fbc611f1e40d5749e03288f00bd72e0835276ed6ad8fe6e8f7f59f4924cb3a38da9b6f5bc8243251457f241f33c97d5d366887d0aaf9731a06bb43979d119f111ecd9896684a85f05eff61ffa508e8298382716c0b839e82bfc8557edc13362406131b86666448ff75a546ad25b367c7e222e7cf24eb45780195b0625b2a9b720922c2b1efbe3014bba4a3a5e80037255c00d1d671b67b962856ce0701f8eb3b0bd95b5db63d07496518a35b3c73fb30d58fc5d6eb807b3e87592ee99fc64beee72172c57d13ddadd1d18e174d8617ecdcab305205627b5470277e</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-wave">
+      <input class="hbe hbe-input-field hbe-input-field-wave" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-wave" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-wave">Hey, password is required here.</span>
+      </label>
+      <svg class="hbe hbe-graphic hbe-graphic-wave" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
+        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
+      </svg>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/chantmoon/lib/hbe.js"></script><link href="/chantmoon/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
         <category>技術</category>
       </categories>
@@ -245,20 +245,52 @@
       </tags>
   </entry>
   <entry>
-    <title>[Hexo] Themes Stellar</title>
-    <url>/chantmoon/notebook/20220325/414986548/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="2f2ed89aac8df2c955965dbb02731b6acb51520cb057036c4fc87437e7f43b43">ec1e43005ea035b672c45a7d4a32ac40b920960b132305c51b6339150e992387033e445e715ae63b4356511996eda92f20f724f557e2161d9e3660fdd6305d2bf623396f430e92793ccd0b4adbfffb06ca13527e56d956dca140cf413bf3ffedeaa60ab0fd9ef95a660437e2b896e28a11a2057abcfddb624f204cd717a0c9de5debdbba31ce2807504df50e34727ede08ac5e19307396899b5a5fe4ea57a40b7483a63d1aab3fd699a96912dede30ea59a6143e163d5a1e8f5a7df59e9972ebc2d78b4c2f24c3f35d4ecd2c7ceca8c4be1f6b205eb31dfb301f193f5a2d713046a76812f5d33cc29740f722cd3ae061f65431a42a1bd8b3d99d86124bb894b5b17a75be4052cace258e1d1b525297279eb3a3f0fe77b36110da68bd65e0eb78f68dc96920d68f2ce19331a201b8dbcfb699c71c9285f25ad1fff012a25d8617138cb90d7c30691e4c6243996fb9cc042e12cc0b7caba550fd2f7282b604026eb561c65a3274a1442e05bcb16ddafce272320a27f45283fae0280eae6aabd5026db4677057a30e82a493fa597bc15baf526dfed759b0b3e41d3336fba4ac2a6990305159c85ca982f432e6ab09c0e6760bfd024970b225deb64fda9949a8d0aa24df874291dd71a819cdf229b29a9d105823a0fe7e24ae37f537fae61dfc4c9b13f5f4d8de945f48c9c7577720f675e7e8653a237442bf595f530170c771ced2dad88a4d7c5b4a8bb3091dc4ee298858622be92d074150c77a63b9d8617efaa8bb30fa9869d3459c646270da622d0e366755c02d7dba341fe54d713e2d748eba3b680ef794c7366615f8765e9d05bce12565b14abf872d16ede087d71af722d6892cc4afefe743d3a45a19fac0e5d4159e9a319b5e97ac31c569b6e4c30f2b2d97a8f89602ce657801c365799ef18b2414e210b4b0be093aec3477f55a2d73b66bfa738ccfbed12ae43cbf6b59127e71d31bcfb0f554dc5d34221f3fddfa73c1cf870bda8b860fca2d7f2bca9e0f662753e407d3b885ccad8b2848fb11c4e00a704b54e1cdbd8d1474070c145812016fe2e8b3a8fe8998f6135dcbfefdf38045fa5f483e0a433be200b4e96de3526781646cb475cb8601b24d37a84e398f57fb78bb5cb3eed2124fe8a52fb24d138e5fda52a8c559467fdb218a2603a116dab23aa506695b0ebd19f1f0aca90c3d809ccb51ba802cd81996111056de034477e09ea1c5f48c8633537d0a7568cc14a3b8dd2f8d571ec5a0990d19da86d41672a937122b94bca2d1cfa5fe822b0b97abcf6bf6db44357cf895907e280b5df4f65dd82cc1b83e3b9d53e3bd7aa111fa361105c2be3776d2dd0b8b208d36d790745410b897a066aaf537639a743cd15ce442a8103142c4421a0ce30888d3c4e946c0778fcea0c4dec18bf2ea87269d6a683586fb8b594c675dca9ec5984c27f2cc4c1e41578b95a9febbd4874ae036ea227dabb58bb2a879b828fa7c51855cd52d0fcb4b4581314be2bc24fb907b8622588f189b72155aae12d288cb3f284b615a3c3acc663692c411d23bca5c9a00000ab877594439f2ba174e698e02e3d827b86303d12aaf3aa85edf5b9123fda8cc706e1eebf8e5e0b776bc68b87ba711a8cd9fa45b71285e581d327c6a3ccefe006c000f50c8232ab647bf0f222d9b8eb3e5a096e254f3d96c8c14ac2ecf903433796ec81ba70177f2fa69e25f9c129ad560fcf6f40392a98b97eb06266776682cc2f7705f50374c287f0b586815192ed33bd03fca9d1aa3b2594707f3b870325a8d24c6293a590f7fb0a723658d941ef2659eebebf095923b8bb234ac30ed42194b62617373c70b6d17db13d289e7812a98d79410cb62311fd75fd4501f1c8b83300afbb54b4dc6ec081d84621f8484cd07075aad950bc9c509910cd0f76fb232f5b1c7d45baeacf49b9a693d3edb3965ed3af4fc338cbf867e535705970c07434b8caf9dbd60fdc4669c72219739019aafd0968968998635ab56f9f6224dc998fec64ee326d951c3c1bcf8c6e7c780f041c177366ad4326919457de6681d1740fc6da8ca4b679c0190cba07a7bc716409b8194de2c2e6c5f51f7f36eeb3a351e20229303d0461d86ee5a30ce3627494fe2f50386ad20fcc033ee6d4b8447996947f6711027c17251b9b268a071e008152fd79712a4bdbc2d9ad1c28bf18f1791a25e404d3a3677ea2b8d3be49cca42037f0ac6504c4357e0ef885b9283391b4a5daad65b36c831708a8b9eafd69e59d975c91a801a06eb2de39130ee0d673a36fb9e1e2f957a0d9a5c4b73de792fb80c041fa9966fb4f87a48e24855463a36665654b442e4f7499056cbf9891891c1dffc350d2700e544e8f3aa838f1d084aea15dffda95deb06e12ceac1604a57c92f5ca0a701e18cd6f7427d5870a26fc6a2725503910ead1dc8a7fc4643d3bdd393725614600448ec65019339d810d5661cf44ba229d93bf8437fe2483ff4480f4c01493e1dea64a7c4309ca3de13a6889497d3cffbc88257ee4ed24a61be2ff3fe7f08df69ba7c8a05ec8042d5c38068caac14f472f2d9c33a6bb1eb85857bd6303efda8f6ddd7ece09cec1310650de6a0f748663dd77bf075eb6ba16c315d241f91df93a853a06a4a5783bfec612ab89b57c6ec6ed85b9db74e8b150931d40a948f05ccf9fe97dcb58ec94845b1c88c5bd350934a35f46dea1aa299afdc3f7fd8801e32f45d0328d90554e7f35533fc830b00d49ee434522cf9bb09990149e3027bc68e0c0048a37ca2e3ec4d2ef40882b13f1caf734a0b753d3a90b0f2ad630c0a693c7c173f8e80de8767061a2ab649b360f9d76adb2784bb4336edb9395e72d02cf429eaaff4aa47f5820c7c92e05ff7390ebfff1e2095485462b4f8c05d53e8be847667d4ad2060d38e73e8e429f15aaee1b7ff6b6bb673b4c479c3e75a713ddb5fe98fd335617eb8f782f2deaed632afca8deeed69b0186fc95bf2ad0bddf8a83e3cbd39e53ac784a995158e48d31d0855ceb7ddf8460f0eca971e8c467f6fc5be78d49543f2cc909313cdd6b33a969f7298df359b643f256a971c9f86b374b1216de78debb4d5267b28e19adf5684d6fdcd96bd3441428c30a7695001f47aa40791f84982492cc1892566c24a835df47f086f2802c48f3681b2cc7caccd9367fee7b67f3e9b524c75f62982bbd40f8884d413560a90c7de9b71bfd97a97582abbf6d79d90ca7745ea97bd84f61c2ce7c0ade6d2f7940e5eb13fc6c032d7394a3206b050b4ea2f03459e9a5f92c566f3979e5f82b7e5cc8a64fba40213c97ae383b570416af26a19de4693ee9968b39a131e732ccb3c23e571478b40d2a6573a1911ada15e043c6c1056fa76c892d7d6405fe132f36448d7a2a4a343b802912659cde8ba7a4f72cf1f6969322aabce4ad6ae3294dc69ca2866c8fe41f8e2b6a8507125ad8cdbafd6f9f5b964539b3a4b5bce84958ee92b5be957dc5f198812d4a30e199d928b9e0c722165d05102715c787ddc3e33f78d6caab01f37412c69760a47616c3073732ecb777ccf61586a7aa6dc11daec41f333d248c1be1f81eabaf3357f172922f9df2cd45abad2b9bb2f73bade6afa1d653315af7439b8d8beb7e4a1c22201f71a1d1e757790764e18143f96629bf5996d0d8b0ead7662993d2de0ff8922f455410213034d0deece7993afa6c033387db00448c5bc6db34de4392ad67e07aff30a227c6095513a767b445b89168fd4483e433569721d9bc3390af12a4284e5d522938e7ed39894d31375d476924a522b9e29b5ce9c3081e3625ec66428a9b6ad2ec8fa55dc75f798505168a6448fcaa599c398a1edaa35aa6b7dde8f24cd85cf717f9fd3b60f2daa433ba6b2a30cc32eaa7a1e56234e0f838ae5d1189d294928c658b34463a953145ad6e9949836070c781cfffd1bdbab6c624fa34478860496f774043ad7a5476c6669b36c584f087763db4ec51b3fa8769c6f4ccfb18b0365f31eac91d5fae8f220392a45eb6b88a89a8349560bd42e66ca96f71a25e60429f20a30e6164cf2190b87cbe77606822e26daa535659f43e241a1328f192d4186d5248c80f8c59d35a465a50aa70bf485c6bb1baa226a596811c12c459ab1891b347adbd68f25fa49868d2c80f0a724f108af04bcaff7986b0d8a4eed68026598e1e288415d490069cd4d050bb5ba653eae3b3d628d1010ad6f833f589e04fdb35b0a4a7cb636ff110eeb9dbca665b34a8717eaf3dd240aae594dbcb28009c397bad81dbaa04a7c5dc67942d4f857d4676b8670861bb74b654a6bbabd23134511c68bb7433860f6c22e4fbe25570ff5aaff99abc1cf886472461be1386bbf3cc219ae7049c40a439825d77f2caef1d664d24ad9bb858fca08540cf8b99ba904f5900819d1a7bc83fe36ff53c86ea82e545428a9a4a4f4663f0ab11393c5ed20d3d8c9be4df105a04bf2c51275ba50f1ff78514b1b9586e268bd73a4cdb053298cca4c27dc19d55225ebda1ac67eb98277f07dc4afd8aa35f529d337fa0531c198dd86eb77ad848fc50c86f09280ebad722f5cbe4363272bc1296a66af43d5b31483e15e668589e095dc8b841c3dceb396ae4341e45118cc4773335a32fe6f7d38acb3a392344658a6358f574573443ec8c47edb5bd70d83f692822026bd73d1af1ec3257087b7f0f7b3cb185566857f27cdd61fdc839d57f88208852367da08adbaa0027a06f1f2d724edc056f8c63005f5361b8bafdcf389e226d22659cbb187516b5bef7787af4a74700dd74fbba5f281fc64179efcf0be23eba6fef95d6a6cd54c5cb035f675dc2c44d0f50156aa7ce83fb42e76347aeb6aa8e5f4b6090f4f1e98273043e9e077b25e1a988bf8aa05ff03e7f6f24aa24c2661</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/chantmoon/lib/hbe.js"></script><link href="/chantmoon/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    <title>新居落成</title>
+    <url>/chantmoon/diary/20220512/336246304/</url>
+    <content><![CDATA[<h2 id="閒聊"><a href="#閒聊" class="headerlink" title="閒聊"></a>閒聊</h2><p>其實hexo + github 大概三月就開始研究了，後來因為一些問題一直擱著，最近才剛撿回來。<br>可是把資料塞滿又產生新的問題，hexo g 指令總是出錯誤。<br>因為能力有限，後來就把一部分的網頁搬到hack.md上，也算是迴避了該問題。</p>
+<span id="more"></span>
+
+<p>產生的靜態網頁其實內容不算大，<br>在金鑰設定總是卡關出錯，後來研究幾篇文章也不知道為什麼莫名其妙就成功了。<br>linux指令我是幾百年前學的，現在用起來套在windows上也不曉得到底為何成功還是失敗……</p>
+<p>寫文的部分用的是Stellar，<br>本主題受到所有朋友一致好評，但有些東西還是要摸索所以過程比較痛苦。</p>
+<p>第二個想寫日記的改用很夯的Next主題，<br>閱讀時間我在stellar嘗試永遠都是失敗，至少讓我直接套next的時候可以比較快樂。<br>我喜歡next的一點是他字很大www<br>作為一個看到文字永遠都想用150%來閱覽的人，這個文字大小我很喜歡。</p>
+<p>目前還沒想到部落格要寫點什麼，以前常常寫觀後感之類的，現在就沒這興致了。</p>
+<h2 id="近況"><a href="#近況" class="headerlink" title="近況"></a>近況</h2><p>最近藍月寫得仍舊不是很順，但比四月的時候好多了。<br>唯一不太好的是最近也不像之前那麼早睡，但也比起三月前好多了？</p>
+<p>工作方面一堆人臨時請假 (不是因為疫情)，<br>接下來可以預料到的是會面臨很大的變革。<br>希望遇事情的人都能逢凶化吉，一切順利。</p>
+<p>今天跟人聊到時才發現，這該死的肺炎已經過了2年了，即將邁入第三年。<br>盼望烏惡戰爭跟疫情能夠在今年結束，能夠早日恢復常軌。<br>雖說2019前的世界可能已經很遙遠，但在一路上也獲得了很多。<br>這個世界與我們都有很大的改變。</p>
+<h2 id="TODO"><a href="#TODO" class="headerlink" title="TODO"></a>TODO</h2><p>有關部落格留言跟GA還沒設定，主題也有不少功能可以研究，<br>可能會想用看看套用失敗的applayer放個音樂看看？</p>
+<ul>
+<li>GA</li>
+<li>留言</li>
+<li>Likecoin</li>
+<li>Google-fonts套用</li>
+<li>音樂播放</li>
+</ul>
+]]></content>
+      <categories>
+        <category>日常</category>
+      </categories>
+      <tags>
+        <tag>202205</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/chantmoon/notebook/20220324/1243066710/</url>
+    <content><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
       <categories>
         <category>技術</category>
       </categories>
@@ -267,32 +299,29 @@
       </tags>
   </entry>
   <entry>
-    <title>討厭的傢伙</title>
-    <url>/chantmoon/politics/20220513/65909004/</url>
-    <content><![CDATA[<h2 id="政治話題"><a href="#政治話題" class="headerlink" title="政治話題"></a>政治話題</h2><p>我個人非常討厭一種人，就是柯粉，或者另外一種是他意識形態討厭DPP又討厭KMT，可是他對DPP支持者的態度跟KMT差不多。</p>
-<p>如果有人染疫過世或者突破感染，只有一種疫苗會被寫在標題上，那就是高端疫苗。<br>而其他比如說二十多歲女性3劑BNT突破性感染不幸過世，聯合報標題本來曾寫上，後來又編輯數次被改掉。<br>如果是高端肯定被大書特書，以斗大標題放在焦點文章，這就是許多人所謂的媒體被DPP把持。</p>
-<span id="more"></span>
-
-<p>但對這群人來說，媒體、經濟學人雜誌、英國倫敦政經學院等，都是被民進黨政府把持，完全無視黨國體制下台灣媒體留存至今的裙帶關係，直接將道德拉到最高點輕率地感嘆著，啊，眾人皆醉我獨醒。</p>
-<h2 id="難聽的綽號"><a href="#難聽的綽號" class="headerlink" title="難聽的綽號"></a>難聽的綽號</h2><p>從我有印象起，人們總是會對討厭的政治人物取很難聽的綽號。<br>而討厭DPP的這群人起的綽號更是難聽至極。</p>
-<p>從我所知道的政治人物綽號開始，<br>藍營政治人物，前總統馬英九綽號是我記得的綽號中最難聽的，有馬娘、馬英狗(台語)等。<br>其餘政治人無比方韓國瑜的綽號不乏帶著揶揄成分的，常見的比方韓總機、韓總、KOREA FISH等，對於藍營支持者較難聽的綽號，常見的是把投票形容為智力測驗或者將韓粉稱呼為憨粉。</p>
-<p>反之對於綠營支持者進行人身攻擊的綽號，隨便想就一堆。<br>綠營支持者的鄙視稱呼，據我所知就有數個，比較好聽的是1450，隨便列舉都非常難聽</p>
-<ol>
-<li><strong>綠衛兵</strong><br> <a href="https://www.storm.mg/article/1160093?mode=whole">石之瑜觀點：覺醒青年不是「紅衛兵」或「綠衛兵」</a></li>
-<li>塔綠班</li>
-<li>綠畜</li>
-</ol>
-<p>使用這些綽號徹底體現使用者知識匱乏，熱愛錯誤類比、對歷史也沒有絲毫了解，其目的就是掀起對立，比起對岸的敵人更想消滅不同陣營的支持者，有夠逼哀。</p>
-<p>我國現任總統蔡英文女士，最難聽的綽號屬蔡陰魂，受到藍營支持者也廣泛使用。<br>我不知道而沒有收錄的可以參考 <a href="https://pttpedia.fandom.com/zh/wiki/PTT%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%E7%B6%BD%E8%99%9F%E5%88%97%E8%A1%A8">這篇文章</a>，從中可以看出這些人的口德，認為這樣的品德值得學習與效法，實在令人遺憾。</p>
-<h2 id="智力測驗"><a href="#智力測驗" class="headerlink" title="智力測驗"></a>智力測驗</h2><p>過去投票時曾有綠營支持者將投票稱為智力測驗，選擇綠營首長等於通過智力測驗。<br>當時就曾看過雙方支持者激戰，有許多綠營支持者亦強烈反對此稱呼，之後類似形容就陸續減少。<br>唯有對於綠營支持者的詆毀歷久彌新，並且從未看過任何非綠支持者反對此稱呼，樂此不疲。</p>
-<p>這做法令人想到PTT當時將求偶焦慮推給台灣女性稱呼台灣女性為母豬與台女，連總統蔡英文也曾遭殃被稱作蔡母豬，引起眾怒之後再輕率地為自己辯解，兩者在做法上有許多共同之處。</p>
-<h2 id="政黨偏好"><a href="#政黨偏好" class="headerlink" title="政黨偏好"></a>政黨偏好</h2><p>人有政黨偏好實屬正常，如果自詡為能夠獨立思考、有品味的現代青年，面對反感的政治人物時，請在挑選政治人物綽號時選擇那些不具有人身攻擊與錯誤類比的稱呼，以免降低了自己格調。</p>
-]]></content>
+    <title>可憐啊</title>
+    <url>/chantmoon/diary/20220523/1088011992/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密碼錯了~" data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="da78fedfe284af2f4cfbc0310e89fc0b0856d6001205179a65ca2f4acd91d6a6">bbe0be0181e39dbf7095644afe0dd89b5cc099bf2b5cf88657665196ded2875fadf870ec3a1d043387233e0ec21a47a2d8d2102a55e0332e55ffa424b7ac80b32472c3ff384c5ff4bf7a687e70a85c06388b3c6a12cca945450f58060ff2449c27106dbd8bce3ceb77caffa987db6db0e8230a584e9aab691219fab59fbfded80f443e650203b0861c0d2d01db353d1b889a403256413f942a523cd662a8ba4d9f02cd031a6e75f59a060dbe5c583d8afa5642b999d2cf00d98935a6508155081ec6f7a8b117a83da11df5d02651bb2fecabfbe064239292be942f81a21a80674b7de3ae78666fb3a80d4a72d1d4f66f6785a2c6d6cfd353b1a9c4414ccf42fc62df9075828236e93ac62566f0075d1bd7f03e2a6670afe2f394023360bc71c9b27f7c39d75f509d72ee5615f2e9a8cbe76e0f8af70de8dfad3a72223c27e670e6962895e621f83d97f0a047d49dc63ced6579bfdedfb9864fc5df4cf54a29d5f0d1cbd3017ffec0cd15f244bc3714f396747aa02b469cde7d91b80369817873e089341625dcc7774500ebea4973ff92063af02198eb30ecbac8e3f2c10de491744b2020af4412bf0ac071caf49f2c414fc731032e7e11a9de5404bff1fb0c9e251e2d7990e46899bcae40b6c791caf4cb4aad6cd76c6d4fdc0e381bbabe7c9b7876986dceec560c02bf324d34b92f53cbdbdfe35d566621e506d8f0b5e97aa91b0b0ae2ceb02a1451b63b9849411308edceff40a88398e21b8eb39f189ecd6a3000c6b136d4fd1688c19134adfcd3cd5e9fcba0e3b5d0181c094aec34c0de7247dbde801e5fd69f6d7c322600d5fdbc0c77570b6498d8beb73fb8e3ff0a1e5e247f4456b11a07ada4e65bda69989b1a513b9875ff8488b88caabd63526c31a4cce4e86b1d2c2f7aaa5f919e610cc7d8f2dc3883466853f9a299312deff409ed6e9617343dbc4a05d5769b4e075e9feb8088632f3fccf1ed4546cd16a333e381e58082b5ba50b7c2b9a988f7966a4c090b8fe9564b9c128f25c8c745c6a741516e789953f6a91b4abd9d16c1209e3bfc70866441966a1eca183b6d52e2cb9ef73c50de7e553d4f9636e73de997e00a009051b52c9f2897959adcfc6930ff816341245c7fcb44da11bfe408a12c708359c5b980e1a72ff70b3c009b71c030748759088a663696f2e67b97f0fbe6194d217b7609c573210ba7594aff77895a157a1f586c04e975359d868bb933fe9eea92b833c8acc277782ccefe74881273b0dc10f5033bbbc173eb35d8dbfd6223ad15cf8d0865f31c74e1404a5f3be69ce8dc216fd968b4f08bb7174e509107e93aa3821a5e8bea7b8981f1b439af4c03c645ae1f90047a8e29608afd9c75f4f772d08dd95ca0c46e96237a65eabbcd51a215c3bacc236b6773f0a012d6908e5900573fffce31b969dfe2a883019f2a465949a334b4f1cd824e3681b7d74d158f8ebf2a05ddf87ae7676738fe868797c30353450c0f2673f3916a44b7af0d1c69d7d76f1191be87725faa12fd69a9f78c7ab37a09b06e6e69dee6dcef779bc08ea22b6838473da1c2c2625d9cbd6caed73ca02d79265af595202b334c977801686a68b44b588dd65c09259f2d06be6ce9f609f1f9b385df87b8443667769bb0cce550ed9997a13ef2f301b94ababcd0b55d71a9db211a0aabd6998e7a81acd8dd67cd93038bc0dc6af14dc7daf0150c00dd8372ca360ef8bc00a94c4a72ee7d15b1f73570f6fc807ba10ca5cfb9b6f275a779c89fc76ae1ea84d52caa27aef4f538010a800e55f126e484198f332cd5fd1f40579e68cf32c8eeb4783533c42640106e87adc3dcca5bb2de45b8fdd8c5cd0a389034fddf5576ac3c46f63150da9c25d693a4da2148a1f310a2ed4d3fe8ddbd9145f29c58be55be75612584540a2a73addae723559227a7829244b0491f93248fdc5c5563daaa96bd2da908594a9bcfb33b638c1fc6354df4704ca802aa72870a736e1eea4caa625233efbe309fe3ac3c954e4dfecd22a72c5c3ea2d0f98fa286194e424cb42b47fa14ac653b6d8c0960b7d3f499370c48d79c43717c5c1ed29b520fa10bcca57a319a2ded0738c66986d5c3538aa22701bb1ac91e1c03a304c2b37e72b8e9bf4e0ac8d8036d6c23b5dce2cd82ccc8c2a8ca5587c155fee9959baaa5459ef821b3536d3e47870f30d8f62b37c549718763592e9b3477bfc8bd397962bb77c7f867c6ab1aa187b17522ee5d7013d2106258158cc69f663c538518851a17523f15550aaf94e6263aea27f2a279838ec48a25a75d7789a82c7c79c2badc77c51c5e42287834028fa8cef22a21d24a441ea18b7240dea4bb7fb65e7ea88885039b130ff8b3f348908fa05753eb8dbaeacd04982d854e985fbb779b95e5cad65b7c7cf957486a3541d1f8575305abb17676156b15d9e3778562d5462ecff6ddf36f5640f831bd0a7966c8443165f0bed84c30d5bc250ef755268a704358667c6c3e2c5bbe89479d12e29fa93f7ec03ccc025e49c39d8d4c563a734db496d10c4a8c9906b13ce7002e63dfb3be730f4f5a3f5e3bcd5eda5d745f1c208352d980b26b00891ad8acf0c5248441345f5ee6ad0cc4969651b08c345080fb69e499694e9b8c56b31407cd470a920304c1d0389dfea63131cf0597ce6167661021afc4a4dd9aea7e01152d7879397fc2</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-wave">
+      <input class="hbe hbe-input-field hbe-input-field-wave" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-wave" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-wave">Hey, password is required here.</span>
+      </label>
+      <svg class="hbe hbe-graphic hbe-graphic-wave" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
+        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
+      </svg>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/chantmoon/lib/hbe.js"></script><link href="/chantmoon/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
-        <category>政治</category>
+        <category>日常</category>
       </categories>
       <tags>
         <tag>202205</tag>
+        <tag>工作</tag>
       </tags>
   </entry>
   <entry>
@@ -366,55 +395,32 @@
       </tags>
   </entry>
   <entry>
-    <title>新居落成</title>
-    <url>/chantmoon/diary/20220512/336246304/</url>
-    <content><![CDATA[<h2 id="閒聊"><a href="#閒聊" class="headerlink" title="閒聊"></a>閒聊</h2><p>其實hexo + github 大概三月就開始研究了，後來因為一些問題一直擱著，最近才剛撿回來。<br>可是把資料塞滿又產生新的問題，hexo g 指令總是出錯誤。<br>因為能力有限，後來就把一部分的網頁搬到hack.md上，也算是迴避了該問題。</p>
+    <title>討厭的傢伙</title>
+    <url>/chantmoon/politics/20220513/65909004/</url>
+    <content><![CDATA[<h2 id="政治話題"><a href="#政治話題" class="headerlink" title="政治話題"></a>政治話題</h2><p>我個人非常討厭一種人，就是柯粉，或者另外一種是他意識形態討厭DPP又討厭KMT，可是他對DPP支持者的態度跟KMT差不多。</p>
+<p>如果有人染疫過世或者突破感染，只有一種疫苗會被寫在標題上，那就是高端疫苗。<br>而其他比如說二十多歲女性3劑BNT突破性感染不幸過世，聯合報標題本來曾寫上，後來又編輯數次被改掉。<br>如果是高端肯定被大書特書，以斗大標題放在焦點文章，這就是許多人所謂的媒體被DPP把持。</p>
 <span id="more"></span>
 
-<p>產生的靜態網頁其實內容不算大，<br>在金鑰設定總是卡關出錯，後來研究幾篇文章也不知道為什麼莫名其妙就成功了。<br>linux指令我是幾百年前學的，現在用起來套在windows上也不曉得到底為何成功還是失敗……</p>
-<p>寫文的部分用的是Stellar，<br>本主題受到所有朋友一致好評，但有些東西還是要摸索所以過程比較痛苦。</p>
-<p>第二個想寫日記的改用很夯的Next主題，<br>閱讀時間我在stellar嘗試永遠都是失敗，至少讓我直接套next的時候可以比較快樂。<br>我喜歡next的一點是他字很大www<br>作為一個看到文字永遠都想用150%來閱覽的人，這個文字大小我很喜歡。</p>
-<p>目前還沒想到部落格要寫點什麼，以前常常寫觀後感之類的，現在就沒這興致了。</p>
-<h2 id="近況"><a href="#近況" class="headerlink" title="近況"></a>近況</h2><p>最近藍月寫得仍舊不是很順，但比四月的時候好多了。<br>唯一不太好的是最近也不像之前那麼早睡，但也比起三月前好多了？</p>
-<p>工作方面一堆人臨時請假 (不是因為疫情)，<br>接下來可以預料到的是會面臨很大的變革。<br>希望遇事情的人都能逢凶化吉，一切順利。</p>
-<p>今天跟人聊到時才發現，這該死的肺炎已經過了2年了，即將邁入第三年。<br>盼望烏惡戰爭跟疫情能夠在今年結束，能夠早日恢復常軌。<br>雖說2019前的世界可能已經很遙遠，但在一路上也獲得了很多。<br>這個世界與我們都有很大的改變。</p>
-<h2 id="TODO"><a href="#TODO" class="headerlink" title="TODO"></a>TODO</h2><p>有關部落格留言跟GA還沒設定，主題也有不少功能可以研究，<br>可能會想用看看套用失敗的applayer放個音樂看看？</p>
-<ul>
-<li>GA</li>
-<li>留言</li>
-<li>Likecoin</li>
-<li>Google-fonts套用</li>
-<li>音樂播放</li>
-</ul>
+<p>但對這群人來說，媒體、經濟學人雜誌、英國倫敦政經學院等，都是被民進黨政府把持，完全無視黨國體制下台灣媒體留存至今的裙帶關係，直接將道德拉到最高點輕率地感嘆著，啊，眾人皆醉我獨醒。</p>
+<h2 id="難聽的綽號"><a href="#難聽的綽號" class="headerlink" title="難聽的綽號"></a>難聽的綽號</h2><p>從我有印象起，人們總是會對討厭的政治人物取很難聽的綽號。<br>而討厭DPP的這群人起的綽號更是難聽至極。</p>
+<p>從我所知道的政治人物綽號開始，<br>藍營政治人物，前總統馬英九綽號是我記得的綽號中最難聽的，有馬娘、馬英狗(台語)等。<br>其餘政治人無比方韓國瑜的綽號不乏帶著揶揄成分的，常見的比方韓總機、韓總、KOREA FISH等，對於藍營支持者較難聽的綽號，常見的是把投票形容為智力測驗或者將韓粉稱呼為憨粉。</p>
+<p>反之對於綠營支持者進行人身攻擊的綽號，隨便想就一堆。<br>綠營支持者的鄙視稱呼，據我所知就有數個，比較好聽的是1450，隨便列舉都非常難聽</p>
+<ol>
+<li><strong>綠衛兵</strong><br> <a href="https://www.storm.mg/article/1160093?mode=whole">石之瑜觀點：覺醒青年不是「紅衛兵」或「綠衛兵」</a></li>
+<li>塔綠班</li>
+<li>綠畜</li>
+</ol>
+<p>使用這些綽號徹底體現使用者知識匱乏，熱愛錯誤類比、對歷史也沒有絲毫了解，其目的就是掀起對立，比起對岸的敵人更想消滅不同陣營的支持者，有夠逼哀。</p>
+<p>我國現任總統蔡英文女士，最難聽的綽號屬蔡陰魂，受到藍營支持者也廣泛使用。<br>我不知道而沒有收錄的可以參考 <a href="https://pttpedia.fandom.com/zh/wiki/PTT%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%E7%B6%BD%E8%99%9F%E5%88%97%E8%A1%A8">這篇文章</a>，從中可以看出這些人的口德，認為這樣的品德值得學習與效法，實在令人遺憾。</p>
+<h2 id="智力測驗"><a href="#智力測驗" class="headerlink" title="智力測驗"></a>智力測驗</h2><p>過去投票時曾有綠營支持者將投票稱為智力測驗，選擇綠營首長等於通過智力測驗。<br>當時就曾看過雙方支持者激戰，有許多綠營支持者亦強烈反對此稱呼，之後類似形容就陸續減少。<br>唯有對於綠營支持者的詆毀歷久彌新，並且從未看過任何非綠支持者反對此稱呼，樂此不疲。</p>
+<p>這做法令人想到PTT當時將求偶焦慮推給台灣女性稱呼台灣女性為母豬與台女，連總統蔡英文也曾遭殃被稱作蔡母豬，引起眾怒之後再輕率地為自己辯解，兩者在做法上有許多共同之處。</p>
+<h2 id="政黨偏好"><a href="#政黨偏好" class="headerlink" title="政黨偏好"></a>政黨偏好</h2><p>人有政黨偏好實屬正常，如果自詡為能夠獨立思考、有品味的現代青年，面對反感的政治人物時，請在挑選政治人物綽號時選擇那些不具有人身攻擊與錯誤類比的稱呼，以免降低了自己格調。</p>
 ]]></content>
       <categories>
-        <category>日常</category>
+        <category>政治</category>
       </categories>
       <tags>
         <tag>202205</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>可憐啊</title>
-    <url>/chantmoon/diary/20220523/1088011992/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="da78fedfe284af2f4cfbc0310e89fc0b0856d6001205179a65ca2f4acd91d6a6">bbe0be0181e39dbf7095644afe0dd89b5cc099bf2b5cf88657665196ded2875fadf870ec3a1d043387233e0ec21a47a2d8d2102a55e0332e55ffa424b7ac80b32472c3ff384c5ff4bf7a687e70a85c06388b3c6a12cca945450f58060ff2449c27106dbd8bce3ceb77caffa987db6db0e8230a584e9aab691219fab59fbfded80f443e650203b0861c0d2d01db353d1b889a403256413f942a523cd662a8ba4d9f02cd031a6e75f59a060dbe5c583d8afa5642b999d2cf00d98935a6508155081ec6f7a8b117a83da11df5d02651bb2fecabfbe064239292be942f81a21a80674b7de3ae78666fb3a80d4a72d1d4f66f6785a2c6d6cfd353b1a9c4414ccf42fc62df9075828236e93ac62566f0075d1bd7f03e2a6670afe2f394023360bc71c9b27f7c39d75f509d72ee5615f2e9a8cbe76e0f8af70de8dfad3a72223c27e670e6962895e621f83d97f0a047d49dc63ced6579bfdedfb9864fc5df4cf54a29d5f0d1cbd3017ffec0cd15f244bc3714f396747aa02b469cde7d91b80369817873e089341625dcc7774500ebea4973ff92063af02198eb30ecbac8e3f2c10de491744b2020af4412bf0ac071caf49f2c414fc731032e7e11a9de5404bff1fb0c9e251e2d7990e46899bcae40b6c791caf4cb4aad6cd76c6d4fdc0e381bbabe7c9b7876986dceec560c02bf324d34b92f53cbdbdfe35d566621e506d8f0b5e97aa91b0b0ae2ceb02a1451b63b9849411308edceff40a88398e21b8eb39f189ecd6a3000c6b136d4fd1688c19134adfcd3cd5e9fcba0e3b5d0181c094aec34c0de7247dbde801e5fd69f6d7c322600d5fdbc0c77570b6498d8beb73fb8e3ff0a1e5e247f4456b11a07ada4e65bda69989b1a513b9875ff8488b88caabd63526c31a4cce4e86b1d2c2f7aaa5f919e610cc7d8f2dc3883466853f9a299312deff409ed6e9617343dbc4a05d5769b4e075e9feb8088632f3fccf1ed4546cd16a333e381e58082b5ba50b7c2b9a988f7966a4c090b8fe9564b9c128f25c8c745c6a741516e789953f6a91b4abd9d16c1209e3bfc70866441966a1eca183b6d52e2cb9ef73c50de7e553d4f9636e73de997e00a009051b52c9f2897959adcfc6930ff816341245c7fcb44da11bfe408a12c708359c5b980e1a72ff70b3c009b71c030748759088a663696f2e67b97f0fbe6194d217b7609c573210ba7594aff77895a157a1f586c04e975359d868bb933fe9eea92b833c8acc277782ccefe74881273b0dc10f5033bbbc173eb35d8dbfd6223ad15cf8d0865f31c74e1404a5f3be69ce8dc216fd968b4f08bb7174e509107e93aa3821a5e8bea7b8981f1b439af4c03c645ae1f90047a8e29608afd9c75f4f772d08dd95ca0c46e96237a65eabbcd51a215c3bacc236b6773f0a012d6908e5900573fffce31b969dfe2a883019f2a465949a334b4f1cd824e3681b7d74d158f8ebf2a05ddf87ae7676738fe868797c30353450c0f2673f3916a44b7af0d1c69d7d76f1191be87725faa12fd69a9f78c7ab37a09b06e6e69dee6dcef779bc08ea22b6838473da1c2c2625d9cbd6caed73ca02d79265af595202b334c977801686a68b44b588dd65c09259f2d06be6ce9f609f1f9b385df87b8443667769bb0cce550ed9997a13ef2f301b94ababcd0b55d71a9db211a0aabd6998e7a81acd8dd67cd93038bc0dc6af14dc7daf0150c00dd8372ca360ef8bc00a94c4a72ee7d15b1f73570f6fc807ba10ca5cfb9b6f275a779c89fc76ae1ea84d52caa27aef4f538010a800e55f126e484198f332cd5fd1f40579e68cf32c8eeb4783533c42640106e87adc3dcca5bb2de45b8fdd8c5cd0a389034fddf5576ac3c46f63150da9c25d693a4da2148a1f310a2ed4d3fe8ddbd9145f29c58be55be75612584540a2a73addae723559227a7829244b0491f93248fdc5c5563daaa96bd2da908594a9bcfb33b638c1fc6354df4704ca802aa72870a736e1eea4caa625233efbe309fe3ac3c954e4dfecd22a72c5c3ea2d0f98fa286194e424cb42b47fa14ac653b6d8c0960b7d3f499370c48d79c43717c5c1ed29b520fa10bcca57a319a2ded0738c66986d5c3538aa22701bb1ac91e1c03a304c2b37e72b8e9bf4e0ac8d8036d6c23b5dce2cd82ccc8c2a8ca5587c155fee9959baaa5459ef821b3536d3e47870f30d8f62b37c549718763592e9b3477bfc8bd397962bb77c7f867c6ab1aa187b17522ee5d7013d2106258158cc69f663c538518851a17523f15550aaf94e6263aea27f2a279838ec48a25a75d7789a82c7c79c2badc77c51c5e42287834028fa8cef22a21d24a441ea18b7240dea4bb7fb65e7ea88885039b130ff8b3f348908fa05753eb8dbaeacd04982d854e985fbb779b95e5cad65b7c7cf957486a3541d1f8575305abb17676156b15d9e3778562d5462ecff6ddf36f5640f831bd0a7966c8443165f0bed84c30d5bc250ef755268a704358667c6c3e2c5bbe89479d12e29fa93f7ec03ccc025e49c39d8d4c563a734db496d10c4a8c9906b13ce7002e63dfb3be730f4f5a3f5e3bcd5eda5d745f1c208352d980b26b00891ad8acf0c5248441345f5ee6ad0cc4969651b08c345080fb69e499694e9b8c56b31407cd470a920304c1d0389dfea63131cf0597ce6167661021afc4a4dd9aea7e01152d7879397fc2</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/chantmoon/lib/hbe.js"></script><link href="/chantmoon/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>日常</category>
-      </categories>
-      <tags>
-        <tag>202205</tag>
-        <tag>工作</tag>
       </tags>
   </entry>
 </search>
