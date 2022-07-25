@@ -1,88 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/chantmoon/notebook/20220324/1243066710/</url>
-    <content><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<span id="more"></span>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>技術</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>放棄的美學</title>
-    <url>/chantmoon/notebook/20190917/1016403078/</url>
-    <content><![CDATA[<p><strong>何謂瘋狂？不斷重複同樣的事情，卻冀望得到不同結果。</strong><br><code>Insanity: doing the same thing over and over again and expecting different results.</code><br><code>Albert Einstein</code></p>
-<span id="more"></span>
-<hr>
-<h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><p>我先引述愛因斯坦的名言作為本文的開頭。<br>這句話對我影響至深，也是這篇文章的主旨——也就是放棄。</p>
-<p>跟很多雞湯文不一樣，我很鼓勵放棄。不論是戀愛&#x2F;親情&#x2F;友情&#x2F;學習技能以至於期待，我都鼓勵大家應該放棄，因為執著並不是好事，甚至是痛苦根源。</p>
-<hr>
-<h3 id="恐怖故事的楔子"><a href="#恐怖故事的楔子" class="headerlink" title="恐怖故事的楔子"></a>恐怖故事的楔子</h3><p>&#x3D;&#x3D;「烈女怕纏郎」：恐怖故事的楔子&#x3D;&#x3D;</p>
-<p>華人社會對於堅持有種奇異的執著，若以感情為例，猶如民間句話叫「烈女怕纏郎」，將執著神化到某種程度，甚至在一定程度鼓勵「堅持」，甚至將之美化成「深情」。許多女性想必在成長經歷中身受其害，不再贅言。</p>
-<p>若是學習技藝確實要細水長流，可對人卻並非如此。所謂的關係，是人之間的情感互動，就如同投接球。有一方扔出了，得由另一個人接住才行。</p>
-<p>如果對方早就心生怯意，如果繼續施壓，對方只會反抗更強。</p>
-<p>我們都知道，不是堅持就會有好的結果，更不該鼓勵這種打任務般的思維。因為人際相處從來不是解任務，付出努力後打水漂是常態。若仍繼續堅持、繼續執著，只會給彼此帶來痛苦。</p>
-<hr>
-<h3 id="不是所有的心意，別人都必須珍視；也不是所有的努力，都會有善果。"><a href="#不是所有的心意，別人都必須珍視；也不是所有的努力，都會有善果。" class="headerlink" title="不是所有的心意，別人都必須珍視；也不是所有的努力，都會有善果。"></a>不是所有的心意，別人都必須珍視；也不是所有的努力，都會有善果。</h3><p>一個人所珍視的東西，對另一個人來說就是垃圾，這是人之常情。</p>
-<p>這是我個人十幾年在創作上得到的體悟。</p>
-<p>在看到愛因斯坦這句名言之後，我很感慨，寫了篇短文是「我所心愛的你眼裡的垃圾」——這標題挺討厭的吧？確實我也很不舒服，但是，這是寫給我自己的警語。</p>
-<p>我不想讓自己更難看了。</p>
-<p>我認為所謂的成熟就是認知到這一點。</p>
-<p>人總要學到這一課，就是尊重別人對你深愛之物棄若敝屣，並且毫不掩飾。</p>
-<p>願意遮掩這點的人，是他的體貼。</p>
-<p>面對那些不願遮掩的，也不需要當聖人——</p>
-<p>人總會碰到親友嘮叨些不感興趣的話題吧？有些人是工作，有些人是興趣美食都沒看過的電影程式碼出國旅遊家裡的細節偶像明星的八卦，有些人愛講當年勇，有人喜歡談自己的創作。如果對方完全不去聽他不感興趣的話題，連社交辭令也不用，永遠把話題轉回自己身上的話，就用相同的方法反擊就好。</p>
-<p>注意力是非常稀缺的資源，鼓勵大家珍惜使用，用在有回饋的地方。</p>
-<p>既然刷信用卡都會想找回饋高的卡來用，交朋友也是這樣又有什麼不對？</p>
-<p>愛叫你不要計較的人，往往是那個既得利益者。</p>
-<p>願意回應你的朋友，就適度地聽那些你不是非常感興趣的話題；而忽略的那些，對方談那些你不感興趣的話題，就用無視來應對。是的，連「嗯嗯」、「呵呵」以及「去洗澡」等社交辭令都不必。就像對方無視你的話題那樣無視對方。</p>
-<p>這作法最後往往會有兩種結果，若對方真的不需要你的聆聽，兩人正好就此拜別。</p>
-<p>可就有那麼些人，只愛講自己的事情而不去聆聽，正好可以藉此跟對方說掰掰。</p>
-<p>不要想逼對方聽，那是自取其辱。</p>
-<hr>
-<h3 id="警告：陰德值不足"><a href="#警告：陰德值不足" class="headerlink" title="警告：陰德值不足"></a>警告：陰德值不足</h3><p>聆聽不感興趣的話題，需要消耗能量。有些書把類似的互動稱之為「人際存摺」，但我比較喜歡稱之為「<strong>陰德值</strong>」。在不感興趣時當聽眾，是累積陰德值，等你有很想說不可的內容時對方才願意聽你說。</p>
-<p>時間就是生命，有些自私人浪費別人的時間與心力也毫不內疚，這猶如謀財害命。對方想加害你，但我們可不要害自己浪費時間在不值的人身上。</p>
-<p>如果陰德值不夠，還哭哭啼啼說為什麼不聽我說話，呵呵笑封鎖對方就好。</p>
-<p>不是每個人都會毫無條件地對你好，有價值就付出沒有就收回，就像買賣一樣標明價碼待價而沽。這很現實，但是有助於心理健康，也能給自己立一個停損點。</p>
-<p>都是成年人了，不要想把每個人都當成你媽。</p>
-<p>沒有人就該理所當然對你好。</p>
-<hr>
-<h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><h3 id="磁鐵與彈簧"><a href="#磁鐵與彈簧" class="headerlink" title="磁鐵與彈簧"></a>磁鐵與彈簧</h3><p>不論是付出的時間與心力、耗費的時間，甚至</p>
-<p>我想把放棄這件事情分成數個方面來講，第一才能、第二親情，第三戀愛。</p>
-<hr>
-<h3 id="殘酷的真相：你有興趣卻沒有才能"><a href="#殘酷的真相：你有興趣卻沒有才能" class="headerlink" title="殘酷的真相：你有興趣卻沒有才能"></a>殘酷的真相：你有興趣卻沒有才能</h3><p>許多人生的苦痛皆是來自於求而不得的東西，妒羨、執著不屬於自己的物事，重複同樣的作為卻盼望結果不同。</p>
-<p>認定了堅持到底就會柳暗花明，</p>
-<blockquote>
-<p>[time&#x3D;Tue, Sep 17, 2019 3:38 PM]</p>
-</blockquote>
-<hr>
-<h6 id="tags-日常-人生"><a href="#tags-日常-人生" class="headerlink" title="tags: 日常, 人生"></a>tags: <code>日常</code>, <code>人生</code></h6>]]></content>
-      <categories>
-        <category>技術</category>
-      </categories>
-      <tags>
-        <tag>軟體</tag>
-        <tag>markdown</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>原神遊戲感想</title>
     <url>/chantmoon/games/20211027/3569558471/</url>
     <content><![CDATA[<blockquote>
@@ -245,32 +163,110 @@
       </tags>
   </entry>
   <entry>
-    <title>討厭的傢伙</title>
-    <url>/chantmoon/politics/20220513/65909004/</url>
-    <content><![CDATA[<h2 id="政治話題"><a href="#政治話題" class="headerlink" title="政治話題"></a>政治話題</h2><p>我個人非常討厭一種人，就是柯粉，或者另外一種是他意識形態討厭DPP又討厭KMT，可是他對DPP支持者的態度跟KMT差不多。</p>
-<p>如果有人染疫過世或者突破感染，只有一種疫苗會被寫在標題上，那就是高端疫苗。<br>而其他比如說二十多歲女性3劑BNT突破性感染不幸過世，聯合報標題本來曾寫上，後來又編輯數次被改掉。<br>如果是高端肯定被大書特書，以斗大標題放在焦點文章，這就是許多人所謂的媒體被DPP把持。</p>
+    <title>放棄的美學</title>
+    <url>/chantmoon/notebook/20190917/1016403078/</url>
+    <content><![CDATA[<p><strong>何謂瘋狂？不斷重複同樣的事情，卻冀望得到不同結果。</strong><br><code>Insanity: doing the same thing over and over again and expecting different results.</code><br><code>Albert Einstein</code></p>
 <span id="more"></span>
-
-<p>但對這群人來說，媒體、經濟學人雜誌、英國倫敦政經學院等，都是被民進黨政府把持，完全無視黨國體制下台灣媒體留存至今的裙帶關係，直接將道德拉到最高點輕率地感嘆著，啊，眾人皆醉我獨醒。</p>
-<h2 id="難聽的綽號"><a href="#難聽的綽號" class="headerlink" title="難聽的綽號"></a>難聽的綽號</h2><p>從我有印象起，人們總是會對討厭的政治人物取很難聽的綽號。<br>而討厭DPP的這群人起的綽號更是難聽至極。</p>
-<p>從我所知道的政治人物綽號開始，<br>藍營政治人物，前總統馬英九綽號是我記得的綽號中最難聽的，有馬娘、馬英狗(台語)等。<br>其餘政治人無比方韓國瑜的綽號不乏帶著揶揄成分的，常見的比方韓總機、韓總、KOREA FISH等，對於藍營支持者較難聽的綽號，常見的是把投票形容為智力測驗或者將韓粉稱呼為憨粉。</p>
-<p>反之對於綠營支持者進行人身攻擊的綽號，隨便想就一堆。<br>綠營支持者的鄙視稱呼，據我所知就有數個，比較好聽的是1450，隨便列舉都非常難聽</p>
-<ol>
-<li><strong>綠衛兵</strong><br> <a href="https://www.storm.mg/article/1160093?mode=whole">石之瑜觀點：覺醒青年不是「紅衛兵」或「綠衛兵」</a></li>
-<li>塔綠班</li>
-<li>綠畜</li>
-</ol>
-<p>使用這些綽號徹底體現使用者知識匱乏，熱愛錯誤類比、對歷史也沒有絲毫了解，其目的就是掀起對立，比起對岸的敵人更想消滅不同陣營的支持者，有夠逼哀。</p>
-<p>我國現任總統蔡英文女士，最難聽的綽號屬蔡陰魂，受到藍營支持者也廣泛使用。<br>我不知道而沒有收錄的可以參考 <a href="https://pttpedia.fandom.com/zh/wiki/PTT%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%E7%B6%BD%E8%99%9F%E5%88%97%E8%A1%A8">這篇文章</a>，從中可以看出這些人的口德，認為這樣的品德值得學習與效法，實在令人遺憾。</p>
-<h2 id="智力測驗"><a href="#智力測驗" class="headerlink" title="智力測驗"></a>智力測驗</h2><p>過去投票時曾有綠營支持者將投票稱為智力測驗，選擇綠營首長等於通過智力測驗。<br>當時就曾看過雙方支持者激戰，有許多綠營支持者亦強烈反對此稱呼，之後類似形容就陸續減少。<br>唯有對於綠營支持者的詆毀歷久彌新，並且從未看過任何非綠支持者反對此稱呼，樂此不疲。</p>
-<p>這做法令人想到PTT當時將求偶焦慮推給台灣女性稱呼台灣女性為母豬與台女，連總統蔡英文也曾遭殃被稱作蔡母豬，引起眾怒之後再輕率地為自己辯解，兩者在做法上有許多共同之處。</p>
-<h2 id="政黨偏好"><a href="#政黨偏好" class="headerlink" title="政黨偏好"></a>政黨偏好</h2><p>人有政黨偏好實屬正常，如果自詡為能夠獨立思考、有品味的現代青年，面對反感的政治人物時，請在挑選政治人物綽號時選擇那些不具有人身攻擊與錯誤類比的稱呼，以免降低了自己格調。</p>
-]]></content>
+<hr>
+<h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><p>我先引述愛因斯坦的名言作為本文的開頭。<br>這句話對我影響至深，也是這篇文章的主旨——也就是放棄。</p>
+<p>跟很多雞湯文不一樣，我很鼓勵放棄。不論是戀愛&#x2F;親情&#x2F;友情&#x2F;學習技能以至於期待，我都鼓勵大家應該放棄，因為執著並不是好事，甚至是痛苦根源。</p>
+<hr>
+<h3 id="恐怖故事的楔子"><a href="#恐怖故事的楔子" class="headerlink" title="恐怖故事的楔子"></a>恐怖故事的楔子</h3><p>&#x3D;&#x3D;「烈女怕纏郎」：恐怖故事的楔子&#x3D;&#x3D;</p>
+<p>華人社會對於堅持有種奇異的執著，若以感情為例，猶如民間句話叫「烈女怕纏郎」，將執著神化到某種程度，甚至在一定程度鼓勵「堅持」，甚至將之美化成「深情」。許多女性想必在成長經歷中身受其害，不再贅言。</p>
+<p>若是學習技藝確實要細水長流，可對人卻並非如此。所謂的關係，是人之間的情感互動，就如同投接球。有一方扔出了，得由另一個人接住才行。</p>
+<p>如果對方早就心生怯意，如果繼續施壓，對方只會反抗更強。</p>
+<p>我們都知道，不是堅持就會有好的結果，更不該鼓勵這種打任務般的思維。因為人際相處從來不是解任務，付出努力後打水漂是常態。若仍繼續堅持、繼續執著，只會給彼此帶來痛苦。</p>
+<hr>
+<h3 id="不是所有的心意，別人都必須珍視；也不是所有的努力，都會有善果。"><a href="#不是所有的心意，別人都必須珍視；也不是所有的努力，都會有善果。" class="headerlink" title="不是所有的心意，別人都必須珍視；也不是所有的努力，都會有善果。"></a>不是所有的心意，別人都必須珍視；也不是所有的努力，都會有善果。</h3><p>一個人所珍視的東西，對另一個人來說就是垃圾，這是人之常情。</p>
+<p>這是我個人十幾年在創作上得到的體悟。</p>
+<p>在看到愛因斯坦這句名言之後，我很感慨，寫了篇短文是「我所心愛的你眼裡的垃圾」——這標題挺討厭的吧？確實我也很不舒服，但是，這是寫給我自己的警語。</p>
+<p>我不想讓自己更難看了。</p>
+<p>我認為所謂的成熟就是認知到這一點。</p>
+<p>人總要學到這一課，就是尊重別人對你深愛之物棄若敝屣，並且毫不掩飾。</p>
+<p>願意遮掩這點的人，是他的體貼。</p>
+<p>面對那些不願遮掩的，也不需要當聖人——</p>
+<p>人總會碰到親友嘮叨些不感興趣的話題吧？有些人是工作，有些人是興趣美食都沒看過的電影程式碼出國旅遊家裡的細節偶像明星的八卦，有些人愛講當年勇，有人喜歡談自己的創作。如果對方完全不去聽他不感興趣的話題，連社交辭令也不用，永遠把話題轉回自己身上的話，就用相同的方法反擊就好。</p>
+<p>注意力是非常稀缺的資源，鼓勵大家珍惜使用，用在有回饋的地方。</p>
+<p>既然刷信用卡都會想找回饋高的卡來用，交朋友也是這樣又有什麼不對？</p>
+<p>愛叫你不要計較的人，往往是那個既得利益者。</p>
+<p>願意回應你的朋友，就適度地聽那些你不是非常感興趣的話題；而忽略的那些，對方談那些你不感興趣的話題，就用無視來應對。是的，連「嗯嗯」、「呵呵」以及「去洗澡」等社交辭令都不必。就像對方無視你的話題那樣無視對方。</p>
+<p>這作法最後往往會有兩種結果，若對方真的不需要你的聆聽，兩人正好就此拜別。</p>
+<p>可就有那麼些人，只愛講自己的事情而不去聆聽，正好可以藉此跟對方說掰掰。</p>
+<p>不要想逼對方聽，那是自取其辱。</p>
+<hr>
+<h3 id="警告：陰德值不足"><a href="#警告：陰德值不足" class="headerlink" title="警告：陰德值不足"></a>警告：陰德值不足</h3><p>聆聽不感興趣的話題，需要消耗能量。有些書把類似的互動稱之為「人際存摺」，但我比較喜歡稱之為「<strong>陰德值</strong>」。在不感興趣時當聽眾，是累積陰德值，等你有很想說不可的內容時對方才願意聽你說。</p>
+<p>時間就是生命，有些自私人浪費別人的時間與心力也毫不內疚，這猶如謀財害命。對方想加害你，但我們可不要害自己浪費時間在不值的人身上。</p>
+<p>如果陰德值不夠，還哭哭啼啼說為什麼不聽我說話，呵呵笑封鎖對方就好。</p>
+<p>不是每個人都會毫無條件地對你好，有價值就付出沒有就收回，就像買賣一樣標明價碼待價而沽。這很現實，但是有助於心理健康，也能給自己立一個停損點。</p>
+<p>都是成年人了，不要想把每個人都當成你媽。</p>
+<p>沒有人就該理所當然對你好。</p>
+<hr>
+<h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><h3 id="磁鐵與彈簧"><a href="#磁鐵與彈簧" class="headerlink" title="磁鐵與彈簧"></a>磁鐵與彈簧</h3><p>不論是付出的時間與心力、耗費的時間，甚至</p>
+<p>我想把放棄這件事情分成數個方面來講，第一才能、第二親情，第三戀愛。</p>
+<hr>
+<h3 id="殘酷的真相：你有興趣卻沒有才能"><a href="#殘酷的真相：你有興趣卻沒有才能" class="headerlink" title="殘酷的真相：你有興趣卻沒有才能"></a>殘酷的真相：你有興趣卻沒有才能</h3><p>許多人生的苦痛皆是來自於求而不得的東西，妒羨、執著不屬於自己的物事，重複同樣的作為卻盼望結果不同。</p>
+<p>認定了堅持到底就會柳暗花明，</p>
+<blockquote>
+<p>[time&#x3D;Tue, Sep 17, 2019 3:38 PM]</p>
+</blockquote>
+<hr>
+<h6 id="tags-日常-人生"><a href="#tags-日常-人生" class="headerlink" title="tags: 日常, 人生"></a>tags: <code>日常</code>, <code>人生</code></h6>]]></content>
       <categories>
-        <category>政治</category>
+        <category>技術</category>
       </categories>
       <tags>
-        <tag>202205</tag>
+        <tag>軟體</tag>
+        <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>[Hexo] Themes Stellar</title>
+    <url>/chantmoon/notebook/20220325/414986548/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密碼錯了~" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="0ec99d9412d95c190e9c7b7e2d0542101c09278f4b843d862814b542b9cea042">ec1e43005ea035b672c45a7d4a32ac40b920960b132305c51b6339150e992387033e445e715ae63b4356511996eda92f20f724f557e2161d9e3660fdd6305d2bf623396f430e92793ccd0b4adbfffb06ca13527e56d956dca140cf413bf3ffedeaa60ab0fd9ef95a660437e2b896e28a11a2057abcfddb624f204cd717a0c9de5debdbba31ce2807504df50e34727ede08ac5e19307396899b5a5fe4ea57a40b7483a63d1aab3fd699a96912dede30ea59a6143e163d5a1e8f5a7df59e9972ebc2d78b4c2f24c3f35d4ecd2c7ceca8c4be1f6b205eb31dfb301f193f5a2d713046a76812f5d33cc29740f722cd3ae061f65431a42a1bd8b3d99d86124bb894b5b17a75be4052cace258e1d1b525297279eb3a3f0fe77b36110da68bd65e0eb78f68dc96920d68f2ce19331a201b8dbcfb699c71c9285f25ad1fff012a25d8617138cb90d7c30691e4c6243996fb9cc042e12cc0b7caba550fd2f7282b604026eb561c65a3274a1442e05bcb16ddafce272320a27f45283fae0280eae6aabd5026db4677057a30e82a493fa597bc15baf526dfed759b0b3e41d3336fba4ac2a6990305159c85ca982f432e6ab09c0e6760bfd024970b225deb64fda9949a8d0aa24df874291dd71a819cdf229b29a9d105823a0fe7e24ae37f537fae61dfc4c9b13f5f4d8de945f48c9c7577720f675e7e8653a237442bf595f530170c771ced2dad88a4d7c5b4a8bb3091dc4ee298858622be92d074150c77a63b9d8617efaa8bb30fa9869d3459c646270da622d0e366755c02d7dba341fe54d713e2d748eba3b680ef794c7366615f8765e9d05bce12565b14abf872d16ede087d71af722d6892cc4afefe743d3a45a19fac0e5d4159e9a319b5e97ac31c569b6e4c30f2b2d97a8f89602ce657801c365799ef18b2414e210b4b0be093aec3477f55a2d73b66bfa738ccfbed12ae43cbf6b59127e71d31bcfb0f554dc5d34221f3fddfa73c1cf870bda8b860fca2d7f2bca9e0f662753e407d3b885ccad8b2848fb11c4e00a704b54e1cdbd8d1474070c145812016fe2e8b3a8fe8998f6135dcbfefdf38045fa5f483e0a433be200b4e96de3526781646cb475cb8601b24d37a84e398f57fb78bb5cb3eed2124fe8a52fb24d138e5fda52a8c559467fdb218a2603a116dab23aa506695b0ebd19f1f0aca90c3d809ccb51ba802cd81996111056de034477e09ea1c5f48c8633537d0a7568cc14a3b8dd2f8d571ec5a0990d19da86d41672a937122b94bca2d1cfa5fe822b0b97abcf6bf6db44357cf895907e280b5df4f65dd82cc1b83e3b9d53e3bd7aa111fa361105c2be3776d2dd0b8b208d36d790745410b897a066aaf537639a743cd15ce442a8103142c4421a0ce30888d3c4e946c0778fcea0c4dec18bf2ea87269d6a683586fb8b594c675dca9ec5984c27f2cc4c1e41578b95a9febbd4874ae036ea227dabb58bb2a879b828fa7c51855cd52d0fcb4b4581314be2bc24fb907b8622588f189b72155aae12d288cb3f284b615a3c3acc663692c411d23bca5c9a00000ab877594439f2ba174e698e02e3d827b86303d12aaf3aa85edf5b9123fda8cc706e1eebf8e5e0b776bc68b87ba711a8cd9fa45b71285e581d327c6a3ccefe006c000f50c8232ab647bf0f222d9b8eb3e5a096e254f3d96c8c14ac2ecf903433796ec81ba70177f2fa69e25f9c129ad560fcf6f40392a98b97eb06266776682cc2f7705f50374c287f0b586815192ed33bd03fca9d1aa3b2594707f3b870325a8d24c6293a590f7fb0a723658d941ef2659e6e944c00387b28e1d219a06d81e15485232b4aeb9f267564e4830c0a4acb22627b79eb8fdffee9bb97699cd33b3b318897ca0184786391066087764a20d8df5891e059e0b1427be2d7fc5b3f22c51b1a5718baee190e95777dfd78481b7ed45e0783c50d1d69989b15ce8b663b39a776e442779396140b5532c6fd771c664c305668bbdb93a8c540dd8d0bdf24a73bf640f95726adaf4773e04b8de49d3d46527faa28f3a6c652dc678f9ad7719066344f90f42c0535ec16d032d5e52ba5db2660660df935312ca3ab23d0640d4fd19c6553f51c2566c77c09472e9031cae5881cb24b98155b9bf81f5cd4dce8ad4cb3e53f6821a39682145aca84fdac5efae859dc02f799ca4784a990a4122bce67dd3ef32ced807eae8b9bc62d079ec46f513ac6df3ecefd5c993688c56e1de12410aeaad2e0210fd82fe2b28d7f1fa797d8320ecf8f3384532f76cd7576501fbc6092cf7ae838c0483a4561ae15269eca1fc0aded01dc97ee82b7a1e9258bb4a46df84183331c805d762018cfed24b83f449e80304b4b206dfcd5d4c1ad6566924161d6a1560917059a43dbb6dcd145b85795c81cb36f60a519b2b4edb6d84ea8c192e5152f5cd0620f0015c901682a4615c559388dac5f3c04cf4609f8f0cc6e20debabfc233a7c59faebd3e0361c16b94f4ab4e5becb79ea0d0b107aa3506554fdc3a1f784f3ac6b3040991fecddea386f2b298b35251d283b7569fb08762dab9601f85be05b1be082d5ddc31a0e5a714ce0edb60a85ee0f77ddf5e5a59f7db3d2a578b723e83f0553d496a0f98ebb8346d47f6f065635ab7dea5fd7f0ba1ad95de83514ab468aa35152ddb460cff63a96a49a74cceb151a6df81eaff6e0c6046a7a723d0a9a0445d2a461914aebf66511f91daaa15f22b1352402484c3b32d221f1ab2be13331f6ac67d6e1e29ae66c7f523b63a7ecedf92ceb21297b384716952465b258d4b501090cad6e0450c2b139e1f229c1990e8cb0b643e42d8e758c705f2fd5bb697abf7b313cf6047d2c1fb63269ff07cc8193e76ff61a7e6ed4a5e31f7efdc59e74f50530570e36eefeed113d4830dc4622bfaa52741e9cf70ba41e00ccb7af8667487baec96cc85a4804f7f45f37224be21327e3b6bb2fd3a8292d50020166f2a74a42766feac2672da9fe156941e2e19b4f5333bd2092867646081aed1ac0d1d2458edfd9466b3a2ce1cc71544c311e6baf9b3124792767200bdbe9e3cb86ef89f8c52428e8e61bc8eae5d8fd0c5c748d6554ea5e642971698ae4fdc7445ee6b844feb013a947464e361acae35c0b152f68234cc26946cb9ca24a54c7ec444c24a8d45775d1e0d0addfb3f5d9a66f1e2e1c1d37c834d66ea5b316cb3ccd27c5b104ecb8cae38a661730a795e0c6432501792d20445c3df245beb88a6516908d177a301463110d8243382f30d8bb8720779de23967b8ee66907fb306bde12819e2b0815069007e8957938a7d5483c88fb81e0933c758bb16c7753f25bc6e662d4197396ea00b862cc55f1a28cfcfaf6cb5a748f66d081bdb413e996a236c66f1d961db470e650dd0aa717fee8aabb23fede17c88ef307b43d4c44311af45c7dbe13807cf29571e736c94a4460e1e19cb29971cf60140e4ca65a3fb6e4898e76a36466d12110595ad863547950b1c1488189e817ee3619082b470d6397063e45237fbb1d953859a0acfb5d6220303245725dba430137d988ecb25b089875d6f070b3cfb80498a8bcd46b75a2b58ee9e44c0a5c9cf6726e9459a1a57e24a176210ad43b025ae9f2b637763be11a545509976e267f5b23f45a808ea29cc454c9d578cbc2d9746f1b34185682a9c8bf87a213d463cf11367d702e840d070830e48f666b5b910f880789fbae7ae20cb15e78787feca82d96a44efa2e19be54e2cbd06a8611170830afda5368cfb4e480bc24a50c2ffd63f98a199178040746e898d0536077ce93d8cd1e5dbc3073329e7157b3db2614082e9247c359ea6f615da4c204f37cbd2b7f0ae9cac05ab710fca1919ba057d957cac40d57a34eb05ba769836b9d94c422141f0b0883d5c23bfc318a83610119ded3e43ab164d52bd9050aee339ba12446f8325814c99ccdd06a2003ad2bb97cc1bf19c23abf41fc35376d77a672db52b0c880fade6c9efa62a06b2cd0ccff3b1cee98b37bdd42ffbe1104df37fbddddc5a2cf86ed4a62d98fff45833e969327879454c50d3bbc8dd5d6bea80701cac24ede3d1782973e0d59ab7c13a6de342204b6cc149ec535ce45bba478447a02f1733117c3ac47f4cb142f614b6bb3e60b6640f2e60bb4e7bceda4aee70fdf1c11b55e95766f0bc08f83298a04e43f5e82d85491aba80e16308a9ed508e634814ef9146cde92291dbf43afbd06730022c7f22ec474039e49302ea8cda9310075c97fce66bf2ab97f3a0b9c86ef6bf1a607b6c743175cc96f6f52e2e67d33de89d0cf8681c0fb6b8a888f65c50f1f6f0a52bd0f9d2b2ce3a53865553608e07f18eba6eca89d1d538367cb7fcb5d55a74a03ec2946b527571767c1b9d8a320143332afd9f291c2c971d07968494e9beff9f369420fc114b893cff4354e4eafbcb6f15fbb01fd4f6d1263811b46e8bfa60aae44f2c3e3a8a75f6405f05b2166afcd8abe2cb9b3c77a3244e8f059d250516e71620e4aae1d2a8c7c7ab89d2fb34446f3b2d0e164d1efd035f75630e5e25371167e20ec55ce5881bae28779b57f9bf39580c705296feff0fa559f22e451e246a47e91297219b2b7fc488c0da8291930c66ed597b6c14a5bf068402f48f21572dc2e00177e46474771d0cfdaac4733db0c3b25142dd0e2c2cab4c7a5895bd53b93d67ce2802b116b5aa7e6f6e926ee0d68a15a5d6d6d36b6dc8ac09b6c31549fbebfeca0c65aa41c1193adc0dbc58ba9997e7f98d3a42200edac363c1838de8d49fb976a1e041e9ec60bd963cc250e2d9c59ea5c44e12f8787d655a21e97fe4a30f8fc67e20eb4fd03e98bc5a41bd249fb5cd19cb8ae9e901d4764f6caecc56c4e42de2420af8dc704009426f686bc8a13422e0cec0ee22f</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-wave">
+      <input class="hbe hbe-input-field hbe-input-field-wave" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-wave" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-wave">Hey, password is required here.</span>
+      </label>
+      <svg class="hbe hbe-graphic hbe-graphic-wave" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
+        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
+      </svg>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/chantmoon/lib/hbe.js"></script><link href="/chantmoon/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>技術</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/chantmoon/notebook/20220324/1243066710/</url>
+    <content><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>技術</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -300,57 +296,6 @@
       </categories>
       <tags>
         <tag>202205</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我就是搞曖昧但你不准講同事/大概是最終季 EP3</title>
-    <url>/chantmoon/diary/20220519/1490650007/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密碼錯了~" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="b0db20adfabaad7797b219dee06bffba55b64b84430830af607c2c2ce36ee1c7">10d79030e8222445804370796b90fca1148ad48f4dfbfc79ba61320143e96ce0a9e69c396af7fba0682fa87eaa334426374f2c609ca7a329e25e36030532c265dfda35ba46ba19860138e1a18c82bb05f4aaead411a0d536b2d2a1e12c2f0aa7ee40e0e71844b06543359f2ef2fb823ce0d925e5af72d0cc1ca6e1a0d41f8b54b9b53331b42892ebc6e7d062ce4559d3481f7e4355a5d875abe6b81cd1afe8e481eb44253a9fc91004cb8d9bd3dc573afea3e79b4fdcd79d11e988e7ab9c573e264971d59fabfb9db5fcda602a18c5dc94164271a6af3f80265820c5f908c6c6f6ae576b1b621d7a76e59d0a4221d9b1c6f90831ed589ce285e84371b91f13b2ea10551b01a3e9691329e70594cefd93b2d0ec458900ae4709edfd8342e5b7ddcbf92a4c6010fa55a2826c250683fd8a642aa64d33787ea2b64038684c78ee76e1a46eb33a98d92e83c3997b6e1d9589c87ce19e859e930fe88f98dcd4952142419bfa4d1d8e25ec317dce9f6dd226bb9214ff32aea90d47015c89578346838a77fc80eb71fead39cb62ef339f5b6e249ff595eec8165dab8791dc8713d05c842eef6c92d534b089ca700d748347a163046dc9490e61d7d024bf50ca2764498936cf6bf9540354fe436b4893a2236066b6ede7b639602f08aada18b422c633ff20e0a97db0e500c2baebb12feef6ba713aac18b76ae806be0f4c89af315902962edb59d73bd5b505adf3df703819ca13361aeac0fc0c862c2213d303693a466549dbdb2e7da0c1be36c5fe974fd67381eb8ede4569e5c13c49d7735dbcd7d5f034f9b529fa15554657a5896e3058ce4f6d9891d0f961fad7247da788a01ebf59d2e5d2c99a56e8cc9ccfb664e815d67691af1516071e87e3d11e9bd69bc41a2fb2d2f6427bd1ddae5a3001d2f55edd9e75405731c2a4ba838eb770f452eb9e1feb5215041ad9309d7e16103ff031eb604691942ce14b9e49453dcdd8b9b484e192b1143ad644a66ecf76472d7883b2aae3d6516ea5d0a070dabbd7106d6f8f34a19bd0ef277d0032dcc2a5352d54df1ee0ecf4f61314b4a106df81e1edb1480f548bb2f0555048f42f7e60065a96ad79b36459ded9f3d7803800e2126cf0a0f68026b1d35e142d27485bede4516b65ee7b06f3bfa1a11f183f52c50a2b7aeb1910ba97cf71fb784461416f8d6606f0978fe68f30f97b285bdf0557ce0d4675c9390ca29ad6db473864e8a23f56535c95adf048de9f3b0cb0887d1ab00486f51cfeb6a4932de00b391d679460ccc67a9fe21e96cedff5f1522a81646b9e13dbb91061c5c577a6015b7bdb70b436f00f423bee9bd70eb7e20f2e54b16d0744cf5c3d1a3653d8af6dca81f3390ea888c2703589516e8bd047ff210e8a50088c40a9b5df05ed3df77208cff904b3bcdfe1e5b1cf6f9eb244ebd0ad54822d9aabb26687b5b76838c07677445db3d1b470c444c4fed075a86c41b21928cc507ab169a70b7414ba4d6d5ae93574bd32b50878ca5e38977a47a07a3427d72106076cbb5d2d0f1e7bf8b9e16020b7361bd22ed0caa62238b9cf8f55d2bc392f732bc7cce801772b859f44270d869ba192eabaf9793934433a2bbad45b0076d3d75e00819b350ee1c3f9d9d8976d51f089eef191b969abbf37eff2e3d004838702998f58d25e4e423810f66d802af5a49cd9d314ea87b3f74d6a598e5fa14b1dd5559114dec573127fbe7378b69a20440029419dee7ff9bdc20392a13c01a7ec85ba6227dd0307b333ec95b765dbaa0f71a52478f830780a0a1fd821190e100ac447e375ac1c1dbd27f3ca18a53cf66928d4307d4673180dde740d1fa86a77a08e09f0e07b4cfeb0896328ea1b8c7bc3c8d36260389d152b64d34d7481882f7348fe53abffb40ba037e1fd4debb3b87eff96691716e1127aff4edd2a0e5d222a0b41a97fadee674d24e63362852f53740fb573a6666a132f7e788516289c6eebc0dbc264781e28c6a767ea3907ddf12afaa15b87eac7c309a6a30f1ea158eb4c86f55a9d7868ebd440f8af30b2237af89c93d31f7a5eb8bd23b0ecd08ee30d697d7a08d26823bf56acfdcc5ff9be26e5964a704067f3b536d45c5388339f59b9c8668f4d57b9961281d90f4e39ea7e1c53a0bf448bea433d261b248e5d4f8d63c794921d6a118c65be7b99e405539effc52b6f91d6b306b3f06b4692ae7c0a8d9fa2ba0ea91fefd12ea83bc6d810c46ccc3a4918e7df2c8206e74e7e48cb2f9bc194fb6cd867d1a1963be5cb3b47304efd1c1d5ea0ceeb42122a33d4c9b4e9d1d684cce21f176780f7b8af8de37be44fd2e832586275ffd4b120bb4d3f0c117ffe4e5c9af1e793402d8328c51f80fcad80d4f132d5dd1f8bc777d387e3f435bc2bf2213191040e2a3144ce8ca30a37cfc1cbb73abca4cc477b6b2037e1adc8aa0b27685ce7471e5f1a9c6a834a3402d52a12f59cf1fdde5191c0db68808d3845f379a68404a6caa5186af5a4060bbdb366c5d3df1326d3909d3ee6ffe7331d8a46d35e2a7682994fb0f0bbabc64952f32a901a7d7e0bdb42686d37652fc75692d67749148054a204dc4dec4429b526afa90c5c19ca8ac6889475b155eb52cf47ab0f65f1ee10e87ad692e8cbc75426dbf9e1bb326fff4cffd229dfa587fe94f740acc2bf54c2c1287c5396e2d65773edaff5ca20b31f122c1f8ddb8444082f171c3e3c2d08eec4674b4cab1ea678870a4fb118fe6043e9a4eb8da01ec2a57cbed51a8082701a9f24fcb42a952f5ab8a772d2d30c19a798c61193d592943903fa979157c1e784b83545b7f01b720f440eadd41f2f161d09cad1b37730efc02cb9e359acde9647d468bb5741e8d7f6ed820610512d909492bafc598e275a392e45613cc8a3cd824da020591b812c9c14df3be5fc70911a887a952469b5df12cb6033896f9f158f0a57bbe2ee2a4d1214bfd4f3a08e60a0eea15def1acfbfdce468790cafb468a7736436c69ac2975564e1db0f0b826b371cbb9c34ad5f5bd598f742228e666b6ed911c29c36933ba925b48277160a0367fd833f8d365d6c4af587a2acb3a1814cfd55bd888fda7bc6f00fd72095ea60117904cb5a6a2200dde558cc80a5a2a7fdb6053670605287ef6fde2479b6e477a6ffb286209198d83e43e09223163d500a8740417b732457230e0937b7a186f855b18b0619e109d2e47e2a279e3352cc768335127f3870326c4d24842cbb8b363a145767293a978bbe614424a9395b395eb2cbe5508e2c16f38355f61cd3f8f55cf153ed1330b8c21d2ed9550ebfb3e0293d18d9407cacdd0392e1dd44799f0e6fa30c7a28917176a6ca2af259d9e5f4a1e74d844a67972735f67d0a60acb6e145fda87fe219569ba0c48b28c9238a248aac2b8e1b5aa599a43051b036226c863621bf6aad5ccae344a96a0f7c5f27a57c2a7f39401d2d7cecc5643527e6a02f98f97a5a190a913f006220df3c31fcce0dd037ba42d22fc0c52bc4446744f778c7ff73e579e17073a689869e0d89431bdd06f3d5496f4b0d7c2164f592877755d4cf33b9c82649c7434c2dd488c3bbcf9bdd5138e5a46caee8e1fdd2ff28bc2aa61423c3f579d7feb671f90ae36dc07c567447db9b7082b3d398ca7aaa164b34016dd330c7b0a3574710108dddefa2c7461d2c38ccbf7ec17db76e7bcc7a0e3bdd3eeda23663c70ec7a5eb64cea13272b40f69117d1b99759b7133ff30f6b4254b7a7e0ab94176be132149458a3915b91f52bfd8e886e3b0f66feda9db99a2585125b4121bed5c2b403f2242a4239bf5e081377b609f5cb68e21f8aea9c58e02d089c53202c7257e33f1502509547f47d7b7037e50b36f4c11cdbed16c199e3003cbb89933937a4715cca1396512197f67e46bb4fc5f90ebfcfaf4f47ad318bc0d16ff3ea1871bab9e3112e962caa8a9a33514ce095cae0d531750bb5be4a251510c976bc50228f36533b57d53beb6966cd353daa5f3204354cc6e7b5f80775e4d0f67861157cdead4ac7c5242a8dc4625a60aca0e728d0e425fbc79fa4d1f7d3891a1eac00c26ecd45e6f9a53de42cdd93764c595e4c6f5dbe859de691cd4cbaf52be9ec170f471d57e48ce49659aeca86bb1f9937ce30d3af8e4d149c3251188284602d5a2d74544c9bc67981499ab5e2e8413bbbe70613a9e9a6722ba6cc307c487fd83fb13f8731b7e26a0aced6c4afb23e41bb850c1a4c4d1ad5e16a1c198e0ea428105dd8141ff4b9bad83b7bc1df826dc832e34613b5c3fddec502942e8df54f00078bb0dfd20d61ba0e7e62d440f28c285a886e3b58dde253100661d3c793098838e1e74066711e564ba468174dda75f64ff1ee3a7e1a6be509c1c2848cb65287d8598a38dadbafeb601a44d67972cb65820b2a1d67bdf2ce2ea7d5a0715a3b759a22453a2b1dd56674116450cc8d962641236d8dc85f5b4febbc94f5790fc551e82adb2bd0928a9463f392379177378ab2411a78ad6400f07a38665b61c65f5b5210ce2cf57e2420f0278f14c2871d3390aa56c2d6dc87adf5d763e0bf2741f4352d8d129a8db49e96e864a9908483d76720a1cadf1524a2674aaee7b2f7b08efc955bf5da966601a0d728c47f0683aa81271c4b7074066f561eb7c4ca737d2c81b1d6c23cda80c982443d0192150fb7a9ee63179a5c974abab831ba6d3f674c64aea817b36207f743932271379184c56242a8e749405e4d4d4ed176fce6cf600f45dfd9a0b917fb0df7487d2883b7e0a1c4784973b470534f9ee0d12577a1fb267ecca96b9dd3e547746acd7d437dd5450ecbbf61ba2f7418eb92de25aad247332ebba5b81bef89a893e4616777c0d073f31958d7a58de564156c893ccd5a978cdb34e2e12c73ea772abb4acbb5ba7c316e88c58d82c16495ada69b33de85b3830e6b0c7ab43a8954b11f31392b3758c04451bd49e97c9898cffed8414a882dc51278b4747e5ecd42ec8c3c4396b7d037187c7b602e62bf317f9d6975c997cdad6acc1a11c8b5563000d54333042d479d44a92056b6b5b81f6325fa302b8c544fdae74a526bc3f05f137de0d8d0f91f45f8eadc154fd529a7825685391e4b99c04734c0588101345087dc02d8ecef41f6552ca23e37392c786b412cbec11998455a2713bf110ef07081988acec8c505a223dce8b3937322fef1de0f4345fe861d770e47c3feb83e4b5742e2880a7e9d0d4bc1826aa624a1ed75fa98705bf29c36b450434f7d77be1040da65f62ff1bb3ac61221760e16cfffc19fee24e4fac5c785255d3f550a1387ee3562a10b08836a1eeff9831a49cffbe8ddb92589286391e4511b64c2b9f34382589616b224907c0660ca97ec79acf539b2a714eba43aab6c35e9df0cf3e1be9db08e77d59df7bd920cc77e8f813e43226601a3699957b498f15f70279b93c340e53232fa8671018cfc6a37f91d77d4ece9487dd395f9551588d18191f20e832c7611c3d2449783ba9994f5ecb101aa9209039e0cdf5ceea756eedbb27ce1a6c1cf77273f85459bf2139f5fc195fbb3091212ee87545c8c97ae48d6210e67302d82c5e0cdce746a985aeda7b2207f1cbaafe8bdfe7914b74b3ad9a2bcab77273cb963e03b6d8337efac51e1249d8d26d5dfc42d278dadc8393b08c0891515ce858043e20db9dfba4a1eb275be0ec23b2fd077f9b09584ba21d8508c8d28efb6d98926513de3eb2accfc727daf1675f5d2dc9d6e1ad9517515d9c645543e9fcc985c2c2b7e3cd153a77bd7e2550d04c5dd7e4720b74c0450a1553cac0058f7ed093939c350cde11afeb9a8c52a582960b61c7a7489c919c41ccb8799f1d2610980f61f6036a3414eecea8b518c10990e4eea4abc63cbdddfcea4d6bc58c0092a6b56505ccb9efbdb54268571c742184bfeeeede3f197bc520c8a32d8d707656134532f6ef5883239104c1977ac1146ea2813e9349833a897c5b45acef36625a7d295889f45a7d44fa979f195e28a6c3b50dc4c31a618b09bafa5bd82a9adc1319cb03da4cdeb6d57c2a590dbeb73cf470548070d6a15c71fa82c21f6f156a2559beee458a23edc164ac0790049955a1fff7afe2e31ae4df272d7a1eaedcf32be975da90441ed1f0191dc1a17b46bfbb12ea78311ad51a0af0cf7461301efa6285834812a2fcf80f4b207c125b77b12c3d0525acf4a0914e2ed0639bb1e5723062a00790c33ef7ae52cfb968f242de68021276cd8178d1f972696082a1b376def2a5ecdbce0bb54ab402e8af1ccd0be0b5215cb7392d2421c794ba0e3695ca20e764d7f3b66b76541227e09463cbc821277633133d132234c2cd8f8576110d6c7c1fc5e3f9f515a4100a9c92355653a44123ff9ce750e0eca6dbbcbf7f6c497022b63b98144f77c42a5f15a3202073211605659e81d0e426e0ad3f9b8dd8e5b00ef3e64b67c5d3dae5f925ef401a336f448012050d3b9f4d3992a5f2a2c8ef7f850fa8d6ca1af881029ad8f2c5368d7b892f885ab14c280031a748a6b41a4db18d7dc57c89d09f8f8133cbb5073e45cf7c3aa9e16a2e95e263c8d764d78bb4e28ab94c4c2fb392c63d83951864e28a4918d2f75bf21df1053366f0cec922e4c606a2f122038448ef89a2f56efa0f4461f5a7f81ebb0f6c1767fa2c30d51a7d58063a90216372e53b39882be6a53eceaaa0180190a8e7775768173cf5f0c14a16aa28f1ca104a0f1cb4137c81c680f66f1e85dfef14e2266b7ca2607bec4f16a1736d548b93fa0e2629a2361ae4b9b150f8d28a179ee3b528a87af75c64789a97df7427bbd62158e410bb9af667728120a3219e82e5a48c4e612ad8cc76173e106318639214f779527901c5bf45e33f38d3cd461d9c6414dfba02b2c948ffc89b83c74165ba5c72f40665efee9478a2abff93cc227b54f48a6815d019c30d398e2a8bc4d73ced6097f5d452505a6f6502aba18b0482ca0d871ecc79be0b66dd438f0815f20282d13281dc798a31584a28b9e20ae5ab8017b61005febac857444409acbcb780817c59ed971e92bd5cc660f7a4cf6bfba6cee49240c000f661b04317da8722203ffdbbda995c5125afa6fb9b9d2959d70f91bc13ba796c0365dcb0b76d2939d6cfa6a735c38631a8129f2a44844046e43aceee6d00b4fa8fc3bf3be8dd3ecb9669cae5714670c1191e8dddedce144f03a20abf64bd7f0d2d46a593b1477b3c3f30ecb0551bb968523df484b7d257c2c7800b2db468dd04311f4b2a633a7dcb4a6873ec1ed2b59fb74e698d7af35964365417744377bd0ae3e095ff26e45131d39707bf9a9dbf3652ecb86f784c152943073e7996031a1c6739b14a3348a55181e67eeccfcc3e26623b913d4294a29c8734f86cb7d304b72e47fe5da8614a425b2c84357f8fb241d30050a34e4ac2eca287565342a70d343bc7e9b4b9bbb7854de7111f143c2375b8aba017461806a6d3bc3cf7f1c0ac85cbc43fde423c02f3a7afe8df35b2e602a2fb66143b6d268e0dc24bd50eee03bcca211d005bcfd7d8de2ba632b61fddaa42cf48c6c1d3e83fb19ef9aec3f5864f7f89ecb5bfab9300fcd3bb8fa32815b68fbc9ece01488f1059fa78127f37a733a2c62a2a2f55287c2bf4f1ebe4aa595d5cd281ec2763c7de0d748d632fa1b6e83eb688be46d5fec0fb73828cccc4607fb92093633b77fb92227bd5ed6f5676d30039d54f047c4c1249bdf3f48c0ea2002057de451cdd19311388b2e8586c46f6ba6baa5d0992c5acea30c4f599d20bd3cb3ab83288e09aa86f8a2eb5ee9b556770fed8d7872ad7a2eabad405d5d500968150d588baa15623fd2c4821618650ecabe4fff29bf114907294b870924ce11ea8104043be5d93aa7a756ecd65188b90c408c4ff5578ff2a96b7692a91d34eeefed77b7e37b51dd1a0987fae7250e90999cc9a2f8c1ba1f1ba1d47acd01e408cfe95edb9aab18ccfb348765bf0182a0e3af614e840b4bf1507f008dcdbf9e96602742eef069c59ea7f79d4c2ed2f8b79258754cb454df02634e0697a8bd99add438a358115e948</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-wave">
-      <input class="hbe hbe-input-field hbe-input-field-wave" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-wave" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-wave">Hey, password is required here.</span>
-      </label>
-      <svg class="hbe hbe-graphic hbe-graphic-wave" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
-        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
-      </svg>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/chantmoon/lib/hbe.js"></script><link href="/chantmoon/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>日常</category>
-      </categories>
-      <tags>
-        <tag>有感而發</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>可憐啊</title>
-    <url>/chantmoon/diary/20220523/1088011992/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密碼錯了~" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="f8c15ceef572e6c57b99fbdda587702155e39beee20b09024ed7742df6d2218e">10d79030e8222445804370796b90fca137368a758ff1e0290f9ccb56396bdfee95e1bf84b597c1ef5cf506f233f67fa99ab486debfa2da38526ab09f8cbfed214215ef58be0e53bdd6f8bb6c507a955acadbbb9fb0fc9ce1339ab88274cbf78ae3b2847de5d193e5cb8965e5b87a1b2966b603e110464e48ae9e6380ab44b6b7bd1233bef94ee7d0b689e63c4577786e0a1728a1f441fd5f003235f0fa725c1a807f34c87dc3c0bfd4eb79c680743eeefded143ff60f2c1f6d359ca435592fa5ea74291aa664c919eb7cfd5045d80b6239e477c6c2b9c6e129723a9ea8e1def9355f82ac01f4a05942f81615f93f558808b0d1e6d0d7a267f5b053e1c0649a8f5cff2d3d21e5243b3e4ddbfd13d3ba94f9fdbe5406f5ebc7b86c78e14728554d6b16b191412f5f1fe0209e5da827c464722f36889ad79278abbe8c40b06f05b6024520c4aaddc5ce70f3b55750a943cb37596e06591f525de73181f9a30003ad88fc46ec6fd03d8baba99b799af2dbde6f539b7945acda0d53fa264d3d079aba19c0e4707b3fed8b43a6af362365efff7ade97ef6f527e034c4b16ec8f2effe3516bbae102dcc65cbabed8019bf4a92a78e030c432d7a82a06805242313510f1377359a3df0240b618c554d6d550d87c7f5968477df739e513c70551ca1aa294a4a5e5756f4ce2cc628013f625c16e1206ee683828c11c4088289cd15908757362f2be2272cd7e57aaab780619171405e35365f26ee2ecd4f78ed78553bb3d83f9916a8bebefedfed825ddbfea7e8f2fdadfe682125af56986feee14f07adb65d383abecd23d0537b75057e2705ff490036a656c1a919f8c47fb3f7b11698901b80377a078090d784d269a998c5fee4eee2ba3f78b3ac8d6bbfb1b29872c23482c7fdeba39607475472e3e80e44454a2ab8b44fe318111cd475ee532b53c9d9ceb9a33fa290b03aa40ede82cdfe424557ee2e7b6a38adf682008beb5a9de1c7b2e6fe3daf6ee7665ec4941b79d02a64868a14ca5967dd0ad21e6c409d8f738d373dd474868732d476ddb071eb7df50aef0a7d54ab48401de83741b31440ba7b5683cc5d590c0f0a0eba7d6383c83dac6e67c12abff10d7f0a2d9a861dd6593255fdd096a0a0cf2975720de668a06c6ebf645a26abc9a8abcff78e88f47c1ded63e5c95cb11d2f997061df8738a0a3499f2051e971236588b9a7945255988e33518a89ff079735b18c4e8f7450b1eca2a4a01f6177601cc236a3ed3ddd223ee35b95fb1745420c3d04dd30ed7065cea86f8d4751bdc1510bcc867c9e55a32d80d4ff3d6d83c16af32e0c54cb062b2bcb6bdd6db2db6d3e6e8456d46ab59df22f51cb095110d89e4176ea117002ddd18bdc9cb879170c7be56b33535a36bef4055ce3c517c2abffd4596ba8351b602f2a963caaff27618099eeb80a59f6e89d77e4f35341bbd7eba2d05cbdf058430954fea05fd2a5545fedd187bf8aa05db9236a171ad3d9acf12c77e562f7e80997bc286e30850789b7dc0683eb4aeffed0a020172dee5b2922b34fe944ff19b8e70bbc082b730d9778bc0b506fe64247e48c39748b114e61387db0b617f39bebadde189a16706c4f05dbd738cc2fc7014b73f66652a3aa36ca9ab0c3f0c91bcfc4d9fcd2ebeb5d5d069c0a706e025a1d57c54566acd0e90d76cea5d23df49b19dc52d191910846d86f0fabd314b43c57be750e635ab9dbf4869f7bf08b2cad31df8ca7c671e1580616c39b8ee8d9819936080cf97d20cc29d4dcab1db4e00137d4bdbec5a43f108454344ad5e88eb38f90e847b7041bbbd67febd0d1b6b6a3577372f2ce6a6532b49da72f49b642eaf29cf0f553cf37af688ef232a5934efc30b2b3f15a3bf09514bf4f93e8dd8ce939504d1740820d9afad252b73e62e02016b9a970efd74a8fa993830c1904395e19a65f845a43e0c11a047523039ee5c34c75e2951cd5af1d775cac8aa57cf09ce2671eced4443dd65decb9969f56a021b57f9717cf16dd99de715ee4b787e59ecbd38bc605472f8f1059bd0ac0d966abe6a0b5205633f1f3ebbafceaac91852219ed12b4cb400525d86cb3843e8268e35f08420a529d235053d833d58a14b7739ea6079f0e110be3be688193d99ffb40d5a5cb76a4aab0b31a3b8f985b871bbfe48fb1fd4562087d07eb620eb22fdc43b7ba5d2807f15f8fa74cb237d4a8592787d53695dbf55c6af99437496fd27a0e93ba7792f5e0eb0a452edad4b40b11b808d231b1b93b409ae6b5e64ecc5cb219a3a295a3dd11e58dd449c8b675a9301ae166cbe1e708ba3498b0d4bf770af0c8f548553f5677063890ac0604cad0dc8a64f2b907b31d3da6ac871bcc43972a40daee353080d863293eb3cc9736343eb0a41bd798ff418fa5493fd2045a797db15681c443d934b98399359408e2ecf19f82730fdee9647e37ad5da541a1166618affeaf44240f737b82eaad4c3d268043ab93e69019f4f6e994fbae77d85f916b0e6a9f306fca20521f6120735016d1d2d711fb6bbe6349eaa7ce2244ef58654befadad8dd69886acc6fd81c5f38ff642fd5b35772524cbd2c0eb0aef6ffa4c612462a98755c83f6767f8551fb38329765150263132757c7beb35067208048c2c9145e4849ca75934ccfab2f21ecd644f9bd0a6a9fb618a1d38928cc1be9cf35b1e135ef</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-wave">
-      <input class="hbe hbe-input-field hbe-input-field-wave" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-wave" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-wave">Hey, password is required here.</span>
-      </label>
-      <svg class="hbe hbe-graphic hbe-graphic-wave" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
-        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
-      </svg>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/chantmoon/lib/hbe.js"></script><link href="/chantmoon/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>日常</category>
-      </categories>
-      <tags>
-        <tag>202205</tag>
-        <tag>工作</tag>
       </tags>
   </entry>
   <entry>
@@ -424,6 +369,86 @@
       </tags>
   </entry>
   <entry>
+    <title>討厭的傢伙</title>
+    <url>/chantmoon/politics/20220513/65909004/</url>
+    <content><![CDATA[<h2 id="政治話題"><a href="#政治話題" class="headerlink" title="政治話題"></a>政治話題</h2><p>我個人非常討厭一種人，就是柯粉，或者另外一種是他意識形態討厭DPP又討厭KMT，可是他對DPP支持者的態度跟KMT差不多。</p>
+<p>如果有人染疫過世或者突破感染，只有一種疫苗會被寫在標題上，那就是高端疫苗。<br>而其他比如說二十多歲女性3劑BNT突破性感染不幸過世，聯合報標題本來曾寫上，後來又編輯數次被改掉。<br>如果是高端肯定被大書特書，以斗大標題放在焦點文章，這就是許多人所謂的媒體被DPP把持。</p>
+<span id="more"></span>
+
+<p>但對這群人來說，媒體、經濟學人雜誌、英國倫敦政經學院等，都是被民進黨政府把持，完全無視黨國體制下台灣媒體留存至今的裙帶關係，直接將道德拉到最高點輕率地感嘆著，啊，眾人皆醉我獨醒。</p>
+<h2 id="難聽的綽號"><a href="#難聽的綽號" class="headerlink" title="難聽的綽號"></a>難聽的綽號</h2><p>從我有印象起，人們總是會對討厭的政治人物取很難聽的綽號。<br>而討厭DPP的這群人起的綽號更是難聽至極。</p>
+<p>從我所知道的政治人物綽號開始，<br>藍營政治人物，前總統馬英九綽號是我記得的綽號中最難聽的，有馬娘、馬英狗(台語)等。<br>其餘政治人無比方韓國瑜的綽號不乏帶著揶揄成分的，常見的比方韓總機、韓總、KOREA FISH等，對於藍營支持者較難聽的綽號，常見的是把投票形容為智力測驗或者將韓粉稱呼為憨粉。</p>
+<p>反之對於綠營支持者進行人身攻擊的綽號，隨便想就一堆。<br>綠營支持者的鄙視稱呼，據我所知就有數個，比較好聽的是1450，隨便列舉都非常難聽</p>
+<ol>
+<li><strong>綠衛兵</strong><br> <a href="https://www.storm.mg/article/1160093?mode=whole">石之瑜觀點：覺醒青年不是「紅衛兵」或「綠衛兵」</a></li>
+<li>塔綠班</li>
+<li>綠畜</li>
+</ol>
+<p>使用這些綽號徹底體現使用者知識匱乏，熱愛錯誤類比、對歷史也沒有絲毫了解，其目的就是掀起對立，比起對岸的敵人更想消滅不同陣營的支持者，有夠逼哀。</p>
+<p>我國現任總統蔡英文女士，最難聽的綽號屬蔡陰魂，受到藍營支持者也廣泛使用。<br>我不知道而沒有收錄的可以參考 <a href="https://pttpedia.fandom.com/zh/wiki/PTT%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%E7%B6%BD%E8%99%9F%E5%88%97%E8%A1%A8">這篇文章</a>，從中可以看出這些人的口德，認為這樣的品德值得學習與效法，實在令人遺憾。</p>
+<h2 id="智力測驗"><a href="#智力測驗" class="headerlink" title="智力測驗"></a>智力測驗</h2><p>過去投票時曾有綠營支持者將投票稱為智力測驗，選擇綠營首長等於通過智力測驗。<br>當時就曾看過雙方支持者激戰，有許多綠營支持者亦強烈反對此稱呼，之後類似形容就陸續減少。<br>唯有對於綠營支持者的詆毀歷久彌新，並且從未看過任何非綠支持者反對此稱呼，樂此不疲。</p>
+<p>這做法令人想到PTT當時將求偶焦慮推給台灣女性稱呼台灣女性為母豬與台女，連總統蔡英文也曾遭殃被稱作蔡母豬，引起眾怒之後再輕率地為自己辯解，兩者在做法上有許多共同之處。</p>
+<h2 id="政黨偏好"><a href="#政黨偏好" class="headerlink" title="政黨偏好"></a>政黨偏好</h2><p>人有政黨偏好實屬正常，如果自詡為能夠獨立思考、有品味的現代青年，面對反感的政治人物時，請在挑選政治人物綽號時選擇那些不具有人身攻擊與錯誤類比的稱呼，以免降低了自己格調。</p>
+]]></content>
+      <categories>
+        <category>政治</category>
+      </categories>
+      <tags>
+        <tag>202205</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我就是搞曖昧但你不准講同事/大概是最終季 EP3</title>
+    <url>/chantmoon/diary/20220519/1490650007/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密碼錯了~" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="b0db20adfabaad7797b219dee06bffba55b64b84430830af607c2c2ce36ee1c7">10d79030e8222445804370796b90fca1148ad48f4dfbfc79ba61320143e96ce0a9e69c396af7fba0682fa87eaa334426374f2c609ca7a329e25e36030532c265dfda35ba46ba19860138e1a18c82bb05f4aaead411a0d536b2d2a1e12c2f0aa7ee40e0e71844b06543359f2ef2fb823ce0d925e5af72d0cc1ca6e1a0d41f8b54b9b53331b42892ebc6e7d062ce4559d3481f7e4355a5d875abe6b81cd1afe8e481eb44253a9fc91004cb8d9bd3dc573afea3e79b4fdcd79d11e988e7ab9c573e264971d59fabfb9db5fcda602a18c5dc94164271a6af3f80265820c5f908c6c6f6ae576b1b621d7a76e59d0a4221d9b1c6f90831ed589ce285e84371b91f13b2ea10551b01a3e9691329e70594cefd93b2d0ec458900ae4709edfd8342e5b7ddcbf92a4c6010fa55a2826c250683fd8a642aa64d33787ea2b64038684c78ee76e1a46eb33a98d92e83c3997b6e1d9589c87ce19e859e930fe88f98dcd4952142419bfa4d1d8e25ec317dce9f6dd226bb9214ff32aea90d47015c89578346838a77fc80eb71fead39cb62ef339f5b6e249ff595eec8165dab8791dc8713d05c842eef6c92d534b089ca700d748347a163046dc9490e61d7d024bf50ca2764498936cf6bf9540354fe436b4893a2236066b6ede7b639602f08aada18b422c633ff20e0a97db0e500c2baebb12feef6ba713aac18b76ae806be0f4c89af315902962edb59d73bd5b505adf3df703819ca13361aeac0fc0c862c2213d303693a466549dbdb2e7da0c1be36c5fe974fd67381eb8ede4569e5c13c49d7735dbcd7d5f034f9b529fa15554657a5896e3058ce4f6d9891d0f961fad7247da788a01ebf59d2e5d2c99a56e8cc9ccfb664e815d67691af1516071e87e3d11e9bd69bc41a2fb2d2f6427bd1ddae5a3001d2f55edd9e75405731c2a4ba838eb770f452eb9e1feb5215041ad9309d7e16103ff031eb604691942ce14b9e49453dcdd8b9b484e192b1143ad644a66ecf76472d7883b2aae3d6516ea5d0a070dabbd7106d6f8f34a19bd0ef277d0032dcc2a5352d54df1ee0ecf4f61314b4a106df81e1edb1480f548bb2f0555048f42f7e60065a96ad79b36459ded9f3d7803800e2126cf0a0f68026b1d35e142d27485bede4516b65ee7b06f3bfa1a11f183f52c50a2b7aeb1910ba97cf71fb784461416f8d6606f0978fe68f30f97b285bdf0557ce0d4675c9390ca29ad6db473864e8a23f56535c95adf048de9f3b0cb0887d1ab00486f51cfeb6a4932de00b391d679460ccc67a9fe21e96cedff5f1522a81646b9e13dbb91061c5c577a6015b7bdb70b436f00f423bee9bd70eb7e20f2e54b16d0744cf5c3d1a3653d8af6dca81f3390ea888c2703589516e8bd047ff210e8a50088c40a9b5df05ed3df77208cff904b3bcdfe1e5b1cf6f9eb244ebd0ad54822d9aabb26687b5b76838c07677445db3d1b470c444c4fed075a86c41b21928cc507ab169a70b7414ba4d6d5ae93574bd32b50878ca5e38977a47a07a3427d72106076cbb5d2d0f1e7bf8b9e16020b7361bd22ed0caa62238b9cf8f55d2bc392f732bc7cce801772b859f44270d869ba192eabaf9793934433a2bbad45b0076d3d75e00819b350ee1c3f9d9d8976d51f089eef191b969abbf37eff2e3d004838702998f58d25e4e423810f66d802af5a49cd9d314ea87b3f74d6a598e5fa14b1dd5559114dec573127fbe7378b69a20440029419dee7ff9bdc20392a13c01a7ec85ba6227dd0307b333ec95b765dbaa0f71a52478f830780a0a1fd821190e100ac447e375ac1c1dbd27f3ca18a53cf66928d4307d4673180dde740d1fa86a77a08e09f0e07b4cfeb0896328ea1b8c7bc3c8d36260389d152b64d34d7481882f7348fe53abffb40ba037e1fd4debb3b87eff96691716e1127aff4edd2a0e5d222a0b41a97fadee674d24e63362852f53740fb573a6666a132f7e788516289c6eebc0dbc264781e28c6a767ea3907ddf12afaa15b87eac7c309a6a30f1ea158eb4c86f55a9d7868ebd440f8af30b2237af89c93d31f7a5eb8bd23b0ecd08ee30d697d7a08d26823bf56acfdcc5ff9be26e5964a704067f3b536d45c5388339f59b9c8668f4d57b9961281d90f4e39ea7e1c53a0bf448bea433d261b248e5d4f8d63c794921d6a118c65be7b99e405539effc52b6f91d6b306b3f06b4692ae7c0a8d9fa2ba0ea91fefd12ea83bc6d810c46ccc3a4918e7df2c8206e74e7e48cb2f9bc194fb6cd867d1a1963be5cb3b47304efd1c1d5ea0ceeb42122a33d4c9b4e9d1d684cce21f176780f7b8af8de37be44fd2e832586275ffd4b120bb4d3f0c117ffe4e5c9af1e793402d8328c51f80fcad80d4f132d5dd1f8bc777d387e3f435bc2bf2213191040e2a3144ce8ca30a37cfc1cbb73abca4cc477b6b2037e1adc8aa0b27685ce7471e5f1a9c6a834a3402d52a12f59cf1fdde5191c0db68808d3845f379a68404a6caa5186af5a4060bbdb366c5d3df1326d3909d3ee6ffe7331d8a46d35e2a7682994fb0f0bbabc64952f32a901a7d7e0bdb42686d37652fc75692d67749148054a204dc4dec4429b526afa90c5c19ca8ac6889475b155eb52cf47ab0f65f1ee10e87ad692e8cbc75426dbf9e1bb326fff4cffd229dfa587fe94f740acc2bf54c2c1287c5396e2d65773edaff5ca20b31f122c1f8ddb8444082f171c3e3c2d08eec4674b4cab1ea678870a4fb118fe6043e9a4eb8da01ec2a57cbed51a8082701a9f24fcb42a952f5ab8a772d2d30c19a798c61193d592943903fa979157c1e784b83545b7f01b720f440eadd41f2f161d09cad1b37730efc02cb9e359acde9647d468bb5741e8d7f6ed820610512d909492bafc598e275a392e45613cc8a3cd824da020591b812c9c14df3be5fc70911a887a952469b5df12cb6033896f9f158f0a57bbe2ee2a4d1214bfd4f3a08e60a0eea15def1acfbfdce468790cafb468a7736436c69ac2975564e1db0f0b826b371cbb9c34ad5f5bd598f742228e666b6ed911c29c36933ba925b48277160a0367fd833f8d365d6c4af587a2acb3a1814cfd55bd888fda7bc6f00fd72095ea60117904cb5a6a2200dde558cc80a5a2a7fdb6053670605287ef6fde2479b6e477a6ffb286209198d83e43e09223163d500a8740417b732457230e0937b7a186f855b18b0619e109d2e47e2a279e3352cc768335127f3870326c4d24842cbb8b363a145767293a978bbe614424a9395b395eb2cbe5508e2c16f38355f61cd3f8f55cf153ed1330b8c21d2ed9550ebfb3e0293d18d9407cacdd0392e1dd44799f0e6fa30c7a28917176a6ca2af259d9e5f4a1e74d844a67972735f67d0a60acb6e145fda87fe219569ba0c48b28c9238a248aac2b8e1b5aa599a43051b036226c863621bf6aad5ccae344a96a0f7c5f27a57c2a7f39401d2d7cecc5643527e6a02f98f97a5a190a913f006220df3c31fcce0dd037ba42d22fc0c52bc4446744f778c7ff73e579e17073a689869e0d89431bdd06f3d5496f4b0d7c2164f592877755d4cf33b9c82649c7434c2dd488c3bbcf9bdd5138e5a46caee8e1fdd2ff28bc2aa61423c3f579d7feb671f90ae36dc07c567447db9b7082b3d398ca7aaa164b34016dd330c7b0a3574710108dddefa2c7461d2c38ccbf7ec17db76e7bcc7a0e3bdd3eeda23663c70ec7a5eb64cea13272b40f69117d1b99759b7133ff30f6b4254b7a7e0ab94176be132149458a3915b91f52bfd8e886e3b0f66feda9db99a2585125b4121bed5c2b403f2242a4239bf5e081377b609f5cb68e21f8aea9c58e02d089c53202c7257e33f1502509547f47d7b7037e50b36f4c11cdbed16c199e3003cbb89933937a4715cca1396512197f67e46bb4fc5f90ebfcfaf4f47ad318bc0d16ff3ea1871bab9e3112e962caa8a9a33514ce095cae0d531750bb5be4a251510c976bc50228f36533b57d53beb6966cd353daa5f3204354cc6e7b5f80775e4d0f67861157cdead4ac7c5242a8dc4625a60aca0e728d0e425fbc79fa4d1f7d3891a1eac00c26ecd45e6f9a53de42cdd93764c595e4c6f5dbe859de691cd4cbaf52be9ec170f471d57e48ce49659aeca86bb1f9937ce30d3af8e4d149c3251188284602d5a2d74544c9bc67981499ab5e2e8413bbbe70613a9e9a6722ba6cc307c487fd83fb13f8731b7e26a0aced6c4afb23e41bb850c1a4c4d1ad5e16a1c198e0ea428105dd8141ff4b9bad83b7bc1df826dc832e34613b5c3fddec502942e8df54f00078bb0dfd20d61ba0e7e62d440f28c285a886e3b58dde253100661d3c793098838e1e74066711e564ba468174dda75f64ff1ee3a7e1a6be509c1c2848cb65287d8598a38dadbafeb601a44d67972cb65820b2a1d67bdf2ce2ea7d5a0715a3b759a22453a2b1dd56674116450cc8d962641236d8dc85f5b4febbc94f5790fc551e82adb2bd0928a9463f392379177378ab2411a78ad6400f07a38665b61c65f5b5210ce2cf57e2420f0278f14c2871d3390aa56c2d6dc87adf5d763e0bf2741f4352d8d129a8db49e96e864a9908483d76720a1cadf1524a2674aaee7b2f7b08efc955bf5da966601a0d728c47f0683aa81271c4b7074066f561eb7c4ca737d2c81b1d6c23cda80c982443d0192150fb7a9ee63179a5c974abab831ba6d3f674c64aea817b36207f743932271379184c56242a8e749405e4d4d4ed176fce6cf600f45dfd9a0b917fb0df7487d2883b7e0a1c4784973b470534f9ee0d12577a1fb267ecca96b9dd3e547746acd7d437dd5450ecbbf61ba2f7418eb92de25aad247332ebba5b81bef89a893e4616777c0d073f31958d7a58de564156c893ccd5a978cdb34e2e12c73ea772abb4acbb5ba7c316e88c58d82c16495ada69b33de85b3830e6b0c7ab43a8954b11f31392b3758c04451bd49e97c9898cffed8414a882dc51278b4747e5ecd42ec8c3c4396b7d037187c7b602e62bf317f9d6975c997cdad6acc1a11c8b5563000d54333042d479d44a92056b6b5b81f6325fa302b8c544fdae74a526bc3f05f137de0d8d0f91f45f8eadc154fd529a7825685391e4b99c04734c0588101345087dc02d8ecef41f6552ca23e37392c786b412cbec11998455a2713bf110ef07081988acec8c505a223dce8b3937322fef1de0f4345fe861d770e47c3feb83e4b5742e2880a7e9d0d4bc1826aa624a1ed75fa98705bf29c36b450434f7d77be1040da65f62ff1bb3ac61221760e16cfffc19fee24e4fac5c785255d3f550a1387ee3562a10b08836a1eeff9831a49cffbe8ddb92589286391e4511b64c2b9f34382589616b224907c0660ca97ec79acf539b2a714eba43aab6c35e9df0cf3e1be9db08e77d59df7bd920cc77e8f813e43226601a3699957b498f15f70279b93c340e53232fa8671018cfc6a37f91d77d4ece9487dd395f9551588d18191f20e832c7611c3d2449783ba9994f5ecb101aa9209039e0cdf5ceea756eedbb27ce1a6c1cf77273f85459bf2139f5fc195fbb3091212ee87545c8c97ae48d6210e67302d82c5e0cdce746a985aeda7b2207f1cbaafe8bdfe7914b74b3ad9a2bcab77273cb963e03b6d8337efac51e1249d8d26d5dfc42d278dadc8393b08c0891515ce858043e20db9dfba4a1eb275be0ec23b2fd077f9b09584ba21d8508c8d28efb6d98926513de3eb2accfc727daf1675f5d2dc9d6e1ad9517515d9c645543e9fcc985c2c2b7e3cd153a77bd7e2550d04c5dd7e4720b74c0450a1553cac0058f7ed093939c350cde11afeb9a8c52a582960b61c7a7489c919c41ccb8799f1d2610980f61f6036a3414eecea8b518c10990e4eea4abc63cbdddfcea4d6bc58c0092a6b56505ccb9efbdb54268571c742184bfeeeede3f197bc520c8a32d8d707656134532f6ef5883239104c1977ac1146ea2813e9349833a897c5b45acef36625a7d295889f45a7d44fa979f195e28a6c3b50dc4c31a618b09bafa5bd82a9adc1319cb03da4cdeb6d57c2a590dbeb73cf470548070d6a15c71fa82c21f6f156a2559beee458a23edc164ac0790049955a1fff7afe2e31ae4df272d7a1eaedcf32be975da90441ed1f0191dc1a17b46bfbb12ea78311ad51a0af0cf7461301efa6285834812a2fcf80f4b207c125b77b12c3d0525acf4a0914e2ed0639bb1e5723062a00790c33ef7ae52cfb968f242de68021276cd8178d1f972696082a1b376def2a5ecdbce0bb54ab402e8af1ccd0be0b5215cb7392d2421c794ba0e3695ca20e764d7f3b66b76541227e09463cbc821277633133d132234c2cd8f8576110d6c7c1fc5e3f9f515a4100a9c92355653a44123ff9ce750e0eca6dbbcbf7f6c497022b63b98144f77c42a5f15a3202073211605659e81d0e426e0ad3f9b8dd8e5b00ef3e64b67c5d3dae5f925ef401a336f448012050d3b9f4d3992a5f2a2c8ef7f850fa8d6ca1af881029ad8f2c5368d7b892f885ab14c280031a748a6b41a4db18d7dc57c89d09f8f8133cbb5073e45cf7c3aa9e16a2e95e263c8d764d78bb4e28ab94c4c2fb392c63d83951864e28a4918d2f75bf21df1053366f0cec922e4c606a2f122038448ef89a2f56efa0f4461f5a7f81ebb0f6c1767fa2c30d51a7d58063a90216372e53b39882be6a53eceaaa0180190a8e7775768173cf5f0c14a16aa28f1ca104a0f1cb4137c81c680f66f1e85dfef14e2266b7ca2607bec4f16a1736d548b93fa0e2629a2361ae4b9b150f8d28a179ee3b528a87af75c64789a97df7427bbd62158e410bb9af667728120a3219e82e5a48c4e612ad8cc76173e106318639214f779527901c5bf45e33f38d3cd461d9c6414dfba02b2c948ffc89b83c74165ba5c72f40665efee9478a2abff93cc227b54f48a6815d019c30d398e2a8bc4d73ced6097f5d452505a6f6502aba18b0482ca0d871ecc79be0b66dd438f0815f20282d13281dc798a31584a28b9e20ae5ab8017b61005febac857444409acbcb780817c59ed971e92bd5cc660f7a4cf6bfba6cee49240c000f661b04317da8722203ffdbbda995c5125afa6fb9b9d2959d70f91bc13ba796c0365dcb0b76d2939d6cfa6a735c38631a8129f2a44844046e43aceee6d00b4fa8fc3bf3be8dd3ecb9669cae5714670c1191e8dddedce144f03a20abf64bd7f0d2d46a593b1477b3c3f30ecb0551bb968523df484b7d257c2c7800b2db468dd04311f4b2a633a7dcb4a6873ec1ed2b59fb74e698d7af35964365417744377bd0ae3e095ff26e45131d39707bf9a9dbf3652ecb86f784c152943073e7996031a1c6739b14a3348a55181e67eeccfcc3e26623b913d4294a29c8734f86cb7d304b72e47fe5da8614a425b2c84357f8fb241d30050a34e4ac2eca287565342a70d343bc7e9b4b9bbb7854de7111f143c2375b8aba017461806a6d3bc3cf7f1c0ac85cbc43fde423c02f3a7afe8df35b2e602a2fb66143b6d268e0dc24bd50eee03bcca211d005bcfd7d8de2ba632b61fddaa42cf48c6c1d3e83fb19ef9aec3f5864f7f89ecb5bfab9300fcd3bb8fa32815b68fbc9ece01488f1059fa78127f37a733a2c62a2a2f55287c2bf4f1ebe4aa595d5cd281ec2763c7de0d748d632fa1b6e83eb688be46d5fec0fb73828cccc4607fb92093633b77fb92227bd5ed6f5676d30039d54f047c4c1249bdf3f48c0ea2002057de451cdd19311388b2e8586c46f6ba6baa5d0992c5acea30c4f599d20bd3cb3ab83288e09aa86f8a2eb5ee9b556770fed8d7872ad7a2eabad405d5d500968150d588baa15623fd2c4821618650ecabe4fff29bf114907294b870924ce11ea8104043be5d93aa7a756ecd65188b90c408c4ff5578ff2a96b7692a91d34eeefed77b7e37b51dd1a0987fae7250e90999cc9a2f8c1ba1f1ba1d47acd01e408cfe95edb9aab18ccfb348765bf0182a0e3af614e840b4bf1507f008dcdbf9e96602742eef069c59ea7f79d4c2ed2f8b79258754cb454df02634e0697a8bd99add438a358115e948</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-wave">
+      <input class="hbe hbe-input-field hbe-input-field-wave" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-wave" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-wave">Hey, password is required here.</span>
+      </label>
+      <svg class="hbe hbe-graphic hbe-graphic-wave" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
+        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
+      </svg>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/chantmoon/lib/hbe.js"></script><link href="/chantmoon/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>日常</category>
+      </categories>
+      <tags>
+        <tag>有感而發</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>可憐啊</title>
+    <url>/chantmoon/diary/20220523/1088011992/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密碼錯了~" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="f8c15ceef572e6c57b99fbdda587702155e39beee20b09024ed7742df6d2218e">10d79030e8222445804370796b90fca137368a758ff1e0290f9ccb56396bdfee95e1bf84b597c1ef5cf506f233f67fa99ab486debfa2da38526ab09f8cbfed214215ef58be0e53bdd6f8bb6c507a955acadbbb9fb0fc9ce1339ab88274cbf78ae3b2847de5d193e5cb8965e5b87a1b2966b603e110464e48ae9e6380ab44b6b7bd1233bef94ee7d0b689e63c4577786e0a1728a1f441fd5f003235f0fa725c1a807f34c87dc3c0bfd4eb79c680743eeefded143ff60f2c1f6d359ca435592fa5ea74291aa664c919eb7cfd5045d80b6239e477c6c2b9c6e129723a9ea8e1def9355f82ac01f4a05942f81615f93f558808b0d1e6d0d7a267f5b053e1c0649a8f5cff2d3d21e5243b3e4ddbfd13d3ba94f9fdbe5406f5ebc7b86c78e14728554d6b16b191412f5f1fe0209e5da827c464722f36889ad79278abbe8c40b06f05b6024520c4aaddc5ce70f3b55750a943cb37596e06591f525de73181f9a30003ad88fc46ec6fd03d8baba99b799af2dbde6f539b7945acda0d53fa264d3d079aba19c0e4707b3fed8b43a6af362365efff7ade97ef6f527e034c4b16ec8f2effe3516bbae102dcc65cbabed8019bf4a92a78e030c432d7a82a06805242313510f1377359a3df0240b618c554d6d550d87c7f5968477df739e513c70551ca1aa294a4a5e5756f4ce2cc628013f625c16e1206ee683828c11c4088289cd15908757362f2be2272cd7e57aaab780619171405e35365f26ee2ecd4f78ed78553bb3d83f9916a8bebefedfed825ddbfea7e8f2fdadfe682125af56986feee14f07adb65d383abecd23d0537b75057e2705ff490036a656c1a919f8c47fb3f7b11698901b80377a078090d784d269a998c5fee4eee2ba3f78b3ac8d6bbfb1b29872c23482c7fdeba39607475472e3e80e44454a2ab8b44fe318111cd475ee532b53c9d9ceb9a33fa290b03aa40ede82cdfe424557ee2e7b6a38adf682008beb5a9de1c7b2e6fe3daf6ee7665ec4941b79d02a64868a14ca5967dd0ad21e6c409d8f738d373dd474868732d476ddb071eb7df50aef0a7d54ab48401de83741b31440ba7b5683cc5d590c0f0a0eba7d6383c83dac6e67c12abff10d7f0a2d9a861dd6593255fdd096a0a0cf2975720de668a06c6ebf645a26abc9a8abcff78e88f47c1ded63e5c95cb11d2f997061df8738a0a3499f2051e971236588b9a7945255988e33518a89ff079735b18c4e8f7450b1eca2a4a01f6177601cc236a3ed3ddd223ee35b95fb1745420c3d04dd30ed7065cea86f8d4751bdc1510bcc867c9e55a32d80d4ff3d6d83c16af32e0c54cb062b2bcb6bdd6db2db6d3e6e8456d46ab59df22f51cb095110d89e4176ea117002ddd18bdc9cb879170c7be56b33535a36bef4055ce3c517c2abffd4596ba8351b602f2a963caaff27618099eeb80a59f6e89d77e4f35341bbd7eba2d05cbdf058430954fea05fd2a5545fedd187bf8aa05db9236a171ad3d9acf12c77e562f7e80997bc286e30850789b7dc0683eb4aeffed0a020172dee5b2922b34fe944ff19b8e70bbc082b730d9778bc0b506fe64247e48c39748b114e61387db0b617f39bebadde189a16706c4f05dbd738cc2fc7014b73f66652a3aa36ca9ab0c3f0c91bcfc4d9fcd2ebeb5d5d069c0a706e025a1d57c54566acd0e90d76cea5d23df49b19dc52d191910846d86f0fabd314b43c57be750e635ab9dbf4869f7bf08b2cad31df8ca7c671e1580616c39b8ee8d9819936080cf97d20cc29d4dcab1db4e00137d4bdbec5a43f108454344ad5e88eb38f90e847b7041bbbd67febd0d1b6b6a3577372f2ce6a6532b49da72f49b642eaf29cf0f553cf37af688ef232a5934efc30b2b3f15a3bf09514bf4f93e8dd8ce939504d1740820d9afad252b73e62e02016b9a970efd74a8fa993830c1904395e19a65f845a43e0c11a047523039ee5c34c75e2951cd5af1d775cac8aa57cf09ce2671eced4443dd65decb9969f56a021b57f9717cf16dd99de715ee4b787e59ecbd38bc605472f8f1059bd0ac0d966abe6a0b5205633f1f3ebbafceaac91852219ed12b4cb400525d86cb3843e8268e35f08420a529d235053d833d58a14b7739ea6079f0e110be3be688193d99ffb40d5a5cb76a4aab0b31a3b8f985b871bbfe48fb1fd4562087d07eb620eb22fdc43b7ba5d2807f15f8fa74cb237d4a8592787d53695dbf55c6af99437496fd27a0e93ba7792f5e0eb0a452edad4b40b11b808d231b1b93b409ae6b5e64ecc5cb219a3a295a3dd11e58dd449c8b675a9301ae166cbe1e708ba3498b0d4bf770af0c8f548553f5677063890ac0604cad0dc8a64f2b907b31d3da6ac871bcc43972a40daee353080d863293eb3cc9736343eb0a41bd798ff418fa5493fd2045a797db15681c443d934b98399359408e2ecf19f82730fdee9647e37ad5da541a1166618affeaf44240f737b82eaad4c3d268043ab93e69019f4f6e994fbae77d85f916b0e6a9f306fca20521f6120735016d1d2d711fb6bbe6349eaa7ce2244ef58654befadad8dd69886acc6fd81c5f38ff642fd5b35772524cbd2c0eb0aef6ffa4c612462a98755c83f6767f8551fb38329765150263132757c7beb35067208048c2c9145e4849ca75934ccfab2f21ecd644f9bd0a6a9fb618a1d38928cc1be9cf35b1e135ef</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-wave">
+      <input class="hbe hbe-input-field hbe-input-field-wave" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-wave" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-wave">Hey, password is required here.</span>
+      </label>
+      <svg class="hbe hbe-graphic hbe-graphic-wave" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
+        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
+      </svg>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/chantmoon/lib/hbe.js"></script><link href="/chantmoon/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>日常</category>
+      </categories>
+      <tags>
+        <tag>202205</tag>
+        <tag>工作</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>關於翻舊帳的一些事</title>
     <url>/chantmoon/diary/20220607/1290794374/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密碼錯了~" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -446,123 +471,6 @@
       </categories>
       <tags>
         <tag>有感而發</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>韓漫感想001-010</title>
-    <url>/chantmoon/uncategorized/20220725/823208757/</url>
-    <content><![CDATA[<h2 id="韓漫"><a href="#韓漫" class="headerlink" title="韓漫"></a>韓漫</h2><h3 id="001-多餘的妻子"><a href="#001-多餘的妻子" class="headerlink" title="001-多餘的妻子"></a>001-多餘的妻子</h3><p>TAG: 綠茶, 外遇, 宅鬥？</p>
-<p>後再看封面心情複雜，以女主角的角度來說簡直是恐怖漫畫，看的過程其實不是很愉快。</p>
-<p>故事劇情從女主角發現妹妹跟丈夫外遇開始，一開始丈夫只展現出愚蠢無能的面向，但最後他故意讓妹妹懷孕的劇情實在讓人……心情愉快？</p>
-<span id="more"></span>
-
-<p>比起看女主角修理丈夫跟妹妹，看他們兩人互咬才讓人心情愉快。</p>
-<p>這部與其說是戀愛故事，不如說是家庭倫理劇吧？</p>
-<p>我對皇帝的臉跟神諭這兩部分都沒興趣，這部為了讓劇情刺激常常會讓綠茶佔上風，常常看得心情相當不爽。</p>
-<p>目前劇情妹妹也用計成為皇妃，正打算勾引皇帝。</p>
-<p>說真的綠茶味太重我有點受不了。</p>
-<h3 id="002-我奪走了公爵的初夜"><a href="#002-我奪走了公爵的初夜" class="headerlink" title="002-我奪走了公爵的初夜"></a>002-我奪走了公爵的初夜</h3><p>TAG: 戀愛, 完結, 穿書</p>
-<p>標題看來r18，實際上劇情發展非常純情。</p>
-<p>作品起始與作為路人角色女主穿越進入故事並且跟原本故事的男主談起了戀愛。</p>
-<p>雖然認為公爵對喝醉的人下手太微妙了，但看到後面當日的回想，覺得很有說服力XD</p>
-<p>對此感到混亂的主角一直試圖讓原本故事的女主跟男主戀愛，反而確認了彼此的心意。</p>
-<p>女主角性格很有趣，讓人看了就覺得很有意思，除此之外就是上色比較淺，沒有很花俏的東西但用色滿舒服。</p>
-<p>對了，原本故事的女主最後跟男二在一起了，真是可喜可賀。</p>
-<p>故事不長，算是可愛的小品。有時間可以一讀。</p>
-<h3 id="003-我靠美食升級"><a href="#003-我靠美食升級" class="headerlink" title="003-我靠美食升級"></a>003-我靠美食升級</h3><p>TAG: 冒險, 美食</p>
-<p>因為病症而過度進食的主角，為了治療自己的身體、減少攝入熱量，決定進入可以感受到食物口感的線上遊戲。故事主線很簡單，執著食物的主角享受著遊戲，並與其他玩家走出截然不同的道路，取得少見的武器、獲得NPC的友誼，目前劇情看到跟失聯的朋友們在遊戲內重逢。</p>
-<p>我對故事劇情興趣一般，而且重點其實是因為主角太愛吃辣，喜歡的菜色是韓國口味，而我實在不喜歡。</p>
-<p>整體來說故事還是頗有可看性。</p>
-<p>加上主角職業是廚神，可以看到其他冒險故事比較少見的發展，算是可看的小品。</p>
-<h3 id="004-重啟地下城"><a href="#004-重啟地下城" class="headerlink" title="004-重啟地下城"></a>004-重啟地下城</h3><p>TAG: 冒險, 地下城</p>
-<p>本作屬於莫名被拉入地下城，然後有奇怪生物設下各種邪惡關卡逼迫玩家挑戰否則就會死掉的那種類型。</p>
-<p>主角是非戰鬥職業，在挑戰地下城時因為一次意外成為了足以破壞機制的BUG玩家。</p>
-<p>韓漫的黑暗情感總是可以講得很好，剩下部分大概就是看故事走向跟角色電波有沒有街上。</p>
-<p>這部角色我比較喜歡，特別是看兔子變成同伴覺得特別好笑。</p>
-<p>主角作為BUG玩家，在遊戲中前進的方式頗有特色。</p>
-<p>目前進度主角收集了各地下城的小BOSS成為強大的一方勢力 (模糊的印象)</p>
-<h3 id="005-奈米魔神"><a href="#005-奈米魔神" class="headerlink" title="005-奈米魔神"></a>005-奈米魔神</h3><p>TAG: 武俠</p>
-<p>本作是長到不行的正統武俠劇情，可以推薦喜歡武俠+爽文的人閱讀，主角自從成長換髮型之後我興趣大概就-80。</p>
-<p>主角做為某邪教教主的私生子，出生以來一直被禁止學習武功，直到某次瀕死之前與奈米機器人相遇，在他的幫助下逐漸成神 (?) 的過程。</p>
-<p>武俠類的繪師基本功都特別好，這部也完全沒有例外。</p>
-<p>故事進展基本都是主角強度蹭蹭往上，但過久了有點疲乏，會想累積很久偶爾才回來看或者放棄也無妨。</p>
-<p><a href="https://www.webtoons.com/zh-hant/martial-arts/nanomasin/list?title_no=2085">https://www.webtoons.com/zh-hant/martial-arts/nanomasin/list?title_no=2085</a></p>
-<h3 id="006-SSS級自殺獵人"><a href="#006-SSS級自殺獵人" class="headerlink" title="006-SSS級自殺獵人"></a>006-SSS級自殺獵人</h3><p>TAG: 冒險, 地下城</p>
-<p>本作屬於世界變成現實地下城的套路，雖然標題這麼明顯，但是實際上看到主角的操作還真是嚇了一跳。</p>
-<p>作者把自殺技能這部分的設定使用得很不錯，很多地方都變成可以靠著自殺讀檔的感覺。</p>
-<p>雖然嘴上說著很簡單，實際上操作其實還挺可怕的，主角是意志堅強的超級理想主義者。</p>
-<p>故事很奇妙的是，女主角是烏克蘭人，然後還發表討厭共產黨的言論，但女主角性格還算討喜。<br>(我猜原本是韓國人用烏克蘭暗喻討厭共產黨，算是反對北韓？)</p>
-<p>主要角色目前各有特色，故事看點大概是看主角這個超級理想主義者如何靠著讀檔創造新的未來。</p>
-<p>偶爾會想撿回來看的作品。</p>
-<h3 id="007-全知讀者視角"><a href="#007-全知讀者視角" class="headerlink" title="007-全知讀者視角"></a>007-全知讀者視角</h3><p>TAG: 冒險</p>
-<p>非常出名的作品，但我在第一回被無聊到退出3-4次，上次看到排行榜才從第二話還第三話看就一路看到進度。</p>
-<p>故事主線很單純，主角金獨子是唯一一個讀完作品知小世界未來的人，並打算充分使用自己讀過作品得到的「未來的知識」活下去。</p>
-<p>特別的是不只金獨子，就連這本書（滅活法）的主角也是穿越多次的人……</p>
-<p>作者很擅長敘述性詭計，很多時候會放出錯誤訊息誘導讀者，在技能設計跟限制上也相當出色。</p>
-<p>但我其實不太喜歡這種多次穿越造成的複雜狀態，因為只要有穿越技能就很容易設計出「世上最後一個人」、「只有我記得你」的絕望感。</p>
-<p>全知我介於想看完跟不想看完這個範疇，主要原因除了不斷穿越回去這種路線很容易設計出一種求而不得的痛苦，其次就是兩部作品（滅活跟全知兩部）的主角我都不喜歡以及讀者幾乎都是走腐向路線這點。</p>
-<p>除此之外另一個設定就是「星座」。</p>
-<p>我覺得看著主角們的星座幾乎就是作為讀者的我們，這部分我不會特別想要反思什麼啦。</p>
-<p>大概的感想是：這是部好作品，就如他的知名度那樣非常優秀，可惜我並不喜歡。</p>
-<p><a href="https://www.webtoons.com/zh-hant/fantasy/duzhe/list?title_no=2089">https://www.webtoons.com/zh-hant/fantasy/duzhe/list?title_no=2089</a></p>
-<h3 id="008-終極小帳"><a href="#008-終極小帳" class="headerlink" title="008-終極小帳"></a>008-終極小帳</h3><p>TAG: 冒險</p>
-<p>本作屬於世界變成現實地下城的套路，比較神奇的是主角脫胎換骨變成另一個人，而且其他的「玩家」也會。</p>
-<p>對我來說這作品的特色在職業很有特色，但問題就是現在故事流行冒險走地下城都要動腦</p>
-<p>反正我就是不想動腦啦這種認真設計的劇情就看過去好了</p>
-<p><a href="https://www.webtoons.com/zh-hant/fantasy/ultra-alternate-character/list?title_no=4422">https://www.webtoons.com/zh-hant/fantasy/ultra-alternate-character/list?title_no=4422</a></p>
-<h3 id="009-今生我要成為家主"><a href="#009-今生我要成為家主" class="headerlink" title="009-今生我要成為家主"></a>009-今生我要成為家主</h3><p>TAG: 重生, 經營, 一點點戀愛, 75</p>
-<p>同樣是重生流但沒有穿越，光是這點就讓我感到莫名欣慰<br>分類大概是經商跟……權謀? XD</p>
-<p>這部很特別的是家族是類似開國元老的特別貴族，即使在王族之前也地位特殊，有許多特權。<br>主角是家族老三的私生子，因此不受承認。</p>
-<p>最後在前代家主過世新任家主搞壞家族產業傾頹時肩負家族職務，最後被馬車撞死。</p>
-<p>重生後的主角決定要嶄露頭角開始廣納賢士。</p>
-<p>這故事的是件很多而且環環相扣，戀愛並不是特別重要的內容。  </p>
-<p>故事看點就是看主角如何利用預先知道的未來，增加自己在家族的地位並且暗中支援父親與家主爺爺做出更正確的決定。  </p>
-<p>這部很多地方頗為現實，主角雖然嶄露了自己的能力與智慧，但她很多時候是用撒嬌或者暗示的方式讓成年人發覺並且解決問題。  </p>
-<p>主角父親是學識淵博但有點懦弱不喜與人爭的性格，主角在過去父親與爺爺相繼因病過世後在家裡的地位非常悽慘。  </p>
-<p>故事中，主角的地位甚至家族僕役的態度明顯因為後期父親經商成功而提高。雖然故事前期本來就可以看出主角受到家主重視，但是我特別喜歡這種很現實的地方。</p>
-<p>看起來覺得這很像養成系的小說，雖然主角是類似團寵身分，但看她待人其實可以理解為什麼她會受人喜愛  。</p>
-<p>後期主角為了避免家族毀滅，陸續解決人生中碰到的災難，比方提早救了二皇子、避免父親死亡、提早搶奪鑽石、發覺姑丈的陰謀，很多事情因為主角雖在家族，但是並不是開金手指所以知道的東西有限，有時候必續靠智慧跟經驗去猜測過去的發展，這比直接穿書有趣不少。</p>
-<p>目前漫畫的劇情還在前面三分之一，小說已經完結  。</p>
-<p>我看到的進度比漫畫稍微往後一點  ，一般狀況我看到戀愛超級少會略過。</p>
-<p>問題是這部主角解決各種事件很有趣，而且不是瘋狂談戀愛而是靠能力跟性格讓周遭的人逐漸改觀<br>唯一一個比較神奇的是這個世界的婚姻概念，皇子們直到過了二十歲都沒有未婚妻，主角身為大家族的女兒也一直不需要聯姻，而且也有女性家主存在。</p>
-<p>在這方面很現代XD</p>
-<p>最新進度二皇子幫找花的地方真的好感度++。</p>
-<h3 id="010-8級魔法師再臨"><a href="#010-8級魔法師再臨" class="headerlink" title="010-8級魔法師再臨"></a>010-8級魔法師再臨</h3><p>TAG: 重生, 奇幻, 48</p>
-<p>漫畫重生流中還有一種套路是酷霸跩的主角因為各種原因 (背叛、覺得無聊、壽終正寢) 重生或者是轉生到百年後的世界，本作屬於被主上背叛的路線。</p>
-<p>這部我會追下去，原因是主角小時候跟長大的臉都是我的菜。</p>
-<p>雖然膚淺但是現實。</p>
-<p>功高震主的主角，在侍奉的君主將其視為眼中釘下毒殺死後，瀕死之際使用重生魔法回到少年時代，尋求夥伴與改變自己過去的遺憾。</p>
-<p>不過說真的主角的母親也畫得太美了吧！！！！</p>
-<p>這部路線跟今生我要成為家主有點類似，雖然知道未來但是並不是全知全能，我比較喜歡摸著鋼索過河的故事，雖然我很懷念少年時代的主角但這畢竟是復活故事QQ</p>
-<p><a href="https://tw.kakaowebtoon.com/viewer/8%E7%B4%9A%E9%AD%94%E6%B3%95%E5%B8%AB%E5%86%8D%E8%87%A8001/11459">https://tw.kakaowebtoon.com/viewer/8%E7%B4%9A%E9%AD%94%E6%B3%95%E5%B8%AB%E5%86%8D%E8%87%A8001/11459</a></p>
-]]></content>
-      <tags>
-        <tag>漫畫感想</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>[Hexo] Themes Stellar</title>
-    <url>/chantmoon/notebook/20220325/414986548/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密碼錯了~" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="6a2c54848b9a114339e56ee4e8f6e4e50e472d012f315d2081bf3c8ccf0d18b8">ec1e43005ea035b672c45a7d4a32ac40b920960b132305c51b6339150e992387033e445e715ae63b4356511996eda92f20f724f557e2161d9e3660fdd6305d2bf623396f430e92793ccd0b4adbfffb06ca13527e56d956dca140cf413bf3ffedeaa60ab0fd9ef95a660437e2b896e28a11a2057abcfddb624f204cd717a0c9de5debdbba31ce2807504df50e34727ede08ac5e19307396899b5a5fe4ea57a40b7483a63d1aab3fd699a96912dede30ea59a6143e163d5a1e8f5a7df59e9972ebc2d78b4c2f24c3f35d4ecd2c7ceca8c4be1f6b205eb31dfb301f193f5a2d713046a76812f5d33cc29740f722cd3ae061f65431a42a1bd8b3d99d86124bb894b5b17a75be4052cace258e1d1b525297279eb3a3f0fe77b36110da68bd65e0eb78f68dc96920d68f2ce19331a201b8dbcfb699c71c9285f25ad1fff012a25d8617138cb90d7c30691e4c6243996fb9cc042e12cc0b7caba550fd2f7282b604026eb561c65a3274a1442e05bcb16ddafce272320a27f45283fae0280eae6aabd5026db4677057a30e82a493fa597bc15baf526dfed759b0b3e41d3336fba4ac2a6990305159c85ca982f432e6ab09c0e6760bfd024970b225deb64fda9949a8d0aa24df874291dd71a819cdf229b29a9d105823a0fe7e24ae37f537fae61dfc4c9b13f5f4d8de945f48c9c7577720f675e7e8653a237442bf595f530170c771ced2dad88a4d7c5b4a8bb3091dc4ee298858622be92d074150c77a63b9d8617efaa8bb30fa9869d3459c646270da622d0e366755c02d7dba341fe54d713e2d748eba3b680ef794c7366615f8765e9d05bce12565b14abf872d16ede087d71af722d6892cc4afefe743d3a45a19fac0e5d4159e9a319b5e97ac31c569b6e4c30f2b2d97a8f89602ce657801c365799ef18b2414e210b4b0be093aec3477f55a2d73b66bfa738ccfbed12ae43cbf6b59127e71d31bcfb0f554dc5d34221f3fddfa73c1cf870bda8b860fca2d7f2bca9e0f662753e407d3b885ccad8b2848fb11c4e00a704b54e1cdbd8d1474070c145812016fe2e8b3a8fe8998f6135dcbfefdf38045fa5f483e0a433be200b4e96de3526781646cb475cb8601b24d37a84e398f57fb78bb5cb3eed2124fe8a52fb24d138e5fda52a8c559467fdb218a2603a116dab23aa506695b0ebd19f1f0aca90c3d809ccb51ba802cd81996111056de034477e09ea1c5f48c8633537d0a7568cc14a3b8dd2f8d571ec5a0990d19da86d41672a937122b94bca2d1cfa5fe822b0b97abcf6bf6db44357cf895907e280b5df4f65dd82cc1b83e3b9d53e3bd7aa111fa361105c2be3776d2dd0b8b208d36d790745410b897a066aaf537639a743cd15ce442a8103142c4421a0ce30888d3c4e946c0778fcea0c4dec18bf2ea87269d6a683586fb8b594c675dca9ec5984c27f2cc4c1e41578b95a9febbd4874ae036ea227dabb58bb2a879b828fa7c51855cd52d0fcb4b4581314be2bc24fb907b8622588f189b72155aae12d288cb3f284b615a3c3acc663692c411d23bca5c9a00000ab877594439f2ba174e698e02e3d827b86303d12aaf3aa85edf5b9123fda8cc706e1eebf8e5e0b776bc68b87ba711a8cd9fa45b71285e581d327c6a3ccefe006c000f50c8232ab647bf0f222d9b8eb3e5a096e254f3d96c8c14ac2ecf903433796ec81ba70177f2fa69e25f9c129ad560fcf6f40392a98b97eb06266776682cc2f7705f50374c287f0b586815192ed33bd03fca9d1aa3b2594707f3b870325a8d24c6293a590f7fb0a723658d941ef2659ef9a5767bdaaafb8ef91b9d0e23408158bc3e9fb23f21113d9151b1b8a1db1c1145b7f661424e8cd0bfd5d71be2f37e4cfc9251f449a32fcd82c661c4f556aef6ba7a718dd6b93c50781c611c7c432b62ca3e1baad78d61e06927f654fdec7a763ca915d53f99ca5c44b17aadfc66d0c52c3545545a58bbf7a8bb3edbe18a463657e1de8e8da38e9c5b6f6d5c670a20f219cf70d8f3eb214391eb9a7bd7d7a196e3fd046ce8925eedb6d84b1952c1de2eeab6bfd1bddc71a6d58e88c124b2394ee78208eb8f6fcdb3dace40cde327bc6b827e817e61ba54a622f4b24cb9ac861f21ca8885efc9e144e19e4ebb4c824de5cc8799c3a5de50e61682b99f7f6828ade005d4b987f885ec008ba8df735fc28f91f1107f975d80c10f49b304596f99760c2c2e2f1460398e460afd92c9f65e882f7167dc073314a18221462888d47ffeec60890b0f6410d204c4ac5b2020d7262c94384791b955e1efe97cf795788796937e4002e7871162993a6efc1ce26ceddfbae9532f3bec77c29dbc0d7f6f9a6b909f8a63a91e7b56f6327f2a36c9ac476b264db220a025fe533dd2e430c97b1147803cd9175602f18fd54631c8aae4f1891a3b13fdd90d2d5168a82738695e1a6ca6dffb3dacce500d5e78f59a2f330d4637e29427fdd0afd69206ff07c7acf312cd1b1620a9465b7f042ebf4a839addc850624058f573ef511d218a600265ae2f01299e27c753e69c72f387b6e9c79b3b1ecd70035ecf9f6bb5159c88541e9ae93525d4a198056da2399409a532b35ad271dc5f287fbd35317db6d2f9ca0945e976d882428949e248c24d0f97540fbd055d8008eee06b1f12c41cd8ea906e397237abd1e0068c3ae74922af1d774deb3e1ff436dcafbe54de43f652a612a055edc17d99a68cb6067f2c36ada8026f56154fb179dcd387c1ec1f2f65765b8226788941fa568a21762e5aaf3f96fe38c3bcc690013dc926b99c1553f597d6f8332618dfe94f10e2262571f3ac9b115b9d8d4c57e4758d4edea09a9d110908551bb4ccd9481f7a8b8ce84ea26ede881ede1f1559c76d3f92809c7f77445f4d30999729336f48fac625fc1c94c3d7669148e992f8e8246b4de6b58eb0b5c01337387f33c4bc5326436b7b8a7b2eccab7b3a9fe456fe789c9bf6220c2bb8c7db7b181f4825ed4c6066590d5b462a1af8c7fc0c913425ba00695216ad43e61a38d61350744c74b3945ad3bd5a86e85c05117fcb6dc6766a5bccfa950c5d1155c753230c5c5af44d0e04c56c75a883795739be247b75e96cb949befbe1bcea18eb3f513b2cfecb832538af27ad8cd9cc4f73c8f166750aad1cf7ad88ca77d89fdfc0a858da80650824a0ac777f1bab19ecc356b2a2adf141266cf58c6e9e21a75ea0b39b84d6e8c0a9c7ac160db0c643074589eb293dd4765fd97ad3240e29a26491734ea2079f78bd403e951c06437f13b2c3c8fbffa06b8479db3b134d77c7283989f53cfd9f53c1a806019d5b422cf03962345c9e98176022dd53d54a50703e41d4ad4c24c410d3012abeccc69809c0b0c0a90f8cf0cf53c3ee3c303c7b64b4407a8f11001ee6db62e0c1c240f3a04c77844770a9ba2055f075fa490508f007ff00ec68fdd3b52673efe7ab49a3665298ef2877c8c0b86aa4e462ae35b2598ec177ecba94bd1500d8c202fd87dccd895c005bd68ed75800045ddfff063acb1a583e692774ab001991ef607c740f1c279c15aa4d4ab7ad76121a75426647a462e11e728770bb31b39b7659ccc131c5203c7395e1fb6229a8660618e2d3bcbb0fa3fa2561eca4d5cf3bf5764438c622481760e5b8b2c1f4ff547edfbd42c1d26d8341f89d6c7b5b434e56182d147dc82114a49ed33e8ca7aaa421fd6d16dfa887f61139bd1c4ade03b33f574dffdd6f2e287273b872384f2c0c7a7baba103ac7093035ab92392047c3804e9abfef02ac61bfe09303a78c0b1ddaa2d1a88ecdead0fe4fc97e5ae546c44c0c3c8781c61b1b80dfd3e01e2e444628022077bc260a87c7a2695e493b0e4774d237b1efd7176e79421b1ffe1dc6acff2e049d4fc8d2b4c8f785d5fa3b7138e9eef08425ed891b8555562ac01a37d131f5f051f6216f1f3c0e0348c921c183c6d80a8699e92199cba27a51721a54057ebcd477c933874285466ef31f2e44d04cbd567ed283f186f0d2e82559bccca3fd5412b0b270736ac8b0781272b7c600133bbb2012f8a3dd46e0c93b62bdad71b6bc1597dc4291a95c69c59de9e4a2811d46e93041fd6aa454ff0e17444ba790de9db49159848a30502e8e3051581b7c7793930efc982d0c017a992f8fd2eee8ee3edecc0b3dbf927cd3bd5e1153e2c2a72dea82f4ed7078684d9d1ae29c89d9f59c84a58b79dc11394cae5f0b5406a915ebde172938c019464818ebba07c9335a5eae6269e7ee84e6ac498bc7a97e1692e199e4a7556488ade4d4971d3ddbc865637db5c58fce8a9dad3be1f288ea4b3c3b5f44922e60e8555b62b3504d1319fc14e00c435280d6c1019d5e52b5e010a34bd03066acf49b11895ddc80f31acd9a7f5b765fdd015e70f1d558066d4d87929baffa98a4474bf052fff5264aa1bc8ddf29d41bb4d80cb42ab7e9d1c5c78932a3ef99aa17eda8bc715a5669d291a9629a0bce940ab9ea03f1eae96eb40f1ffc65226d467f7ef942e9d2c17c6b32a4d1e59ff0b3ba5fa117c7ea9a612534d80c41b4b214ee90fc2ec0f0b36ceea1fc3404c58013d088d2a57de0c26169b91b3830da0a46d7ab4d24dea272f73e53c7f9b151a5aff26bc305e558903c5df52a94c853292383949560f4ef82055c57aa78f6cddc4da56f0a9d96f1b36b62bf6fae2b802dc473c2a15ab41f396e33746bce2fcf6b2dcb29e04550cf804b245e3fd6b3520e35d43db30a1c5aa3bb75911b36b0a7d7da1605e92306624576b12cc932daf416771a11a43e4f312d82a2ec731c0a3b486029dc018a2b6aebf6a09c945e098eac11775105c974f0f698a788703daa9e3205fabaad19464933f0235c8f5b41e4582f7cc7f3c47a3bedee0cb8dcffc40d3af4ce8f63cc4</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-wave">
-      <input class="hbe hbe-input-field hbe-input-field-wave" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-wave" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-wave">Hey, password is required here.</span>
-      </label>
-      <svg class="hbe hbe-graphic hbe-graphic-wave" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
-        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
-      </svg>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/chantmoon/lib/hbe.js"></script><link href="/chantmoon/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>技術</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -689,6 +597,101 @@
       </categories>
       <tags>
         <tag>2022</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>韓漫感想001-010</title>
+    <url>/chantmoon/%E6%BC%AB%E7%95%AB%E6%84%9F%E6%83%B3/20220725/823208757/</url>
+    <content><![CDATA[<h2 id="韓漫"><a href="#韓漫" class="headerlink" title="韓漫"></a>韓漫</h2><h3 id="001-多餘的妻子"><a href="#001-多餘的妻子" class="headerlink" title="001-多餘的妻子"></a>001-多餘的妻子</h3><p>TAG: 綠茶, 外遇, 宅鬥？</p>
+<p>後再看封面心情複雜，以女主角的角度來說簡直是恐怖漫畫，看的過程其實不是很愉快。</p>
+<p>故事劇情從女主角發現妹妹跟丈夫外遇開始，一開始丈夫只展現出愚蠢無能的面向，但最後他故意讓妹妹懷孕的劇情實在讓人……心情愉快？</p>
+<span id="more"></span>
+
+<p>比起看女主角修理丈夫跟妹妹，看他們兩人互咬才讓人心情愉快。</p>
+<p>這部與其說是戀愛故事，不如說是家庭倫理劇吧？</p>
+<p>我對皇帝的臉跟神諭這兩部分都沒興趣，這部為了讓劇情刺激常常會讓綠茶佔上風，常常看得心情相當不爽。</p>
+<p>目前劇情妹妹也用計成為皇妃，正打算勾引皇帝。</p>
+<p>說真的綠茶味太重我有點受不了。</p>
+<h3 id="002-我奪走了公爵的初夜"><a href="#002-我奪走了公爵的初夜" class="headerlink" title="002-我奪走了公爵的初夜"></a>002-我奪走了公爵的初夜</h3><p>TAG: 戀愛, 完結, 穿書</p>
+<p>標題看來r18，實際上劇情發展非常純情。</p>
+<p>作品起始與作為路人角色女主穿越進入故事並且跟原本故事的男主談起了戀愛。</p>
+<p>雖然認為公爵對喝醉的人下手太微妙了，但看到後面當日的回想，覺得很有說服力XD</p>
+<p>對此感到混亂的主角一直試圖讓原本故事的女主跟男主戀愛，反而確認了彼此的心意。</p>
+<p>女主角性格很有趣，讓人看了就覺得很有意思，除此之外就是上色比較淺，沒有很花俏的東西但用色滿舒服。</p>
+<p>對了，原本故事的女主最後跟男二在一起了，真是可喜可賀。</p>
+<p>故事不長，算是可愛的小品。有時間可以一讀。</p>
+<h3 id="003-我靠美食升級"><a href="#003-我靠美食升級" class="headerlink" title="003-我靠美食升級"></a>003-我靠美食升級</h3><p>TAG: 冒險, 美食</p>
+<p>因為病症而過度進食的主角，為了治療自己的身體、減少攝入熱量，決定進入可以感受到食物口感的線上遊戲。故事主線很簡單，執著食物的主角享受著遊戲，並與其他玩家走出截然不同的道路，取得少見的武器、獲得NPC的友誼，目前劇情看到跟失聯的朋友們在遊戲內重逢。</p>
+<p>我對故事劇情興趣一般，而且重點其實是因為主角太愛吃辣，喜歡的菜色是韓國口味，而我實在不喜歡。</p>
+<p>整體來說故事還是頗有可看性。</p>
+<p>加上主角職業是廚神，可以看到其他冒險故事比較少見的發展，算是可看的小品。</p>
+<h3 id="004-重啟地下城"><a href="#004-重啟地下城" class="headerlink" title="004-重啟地下城"></a>004-重啟地下城</h3><p>TAG: 冒險, 地下城</p>
+<p>本作屬於莫名被拉入地下城，然後有奇怪生物設下各種邪惡關卡逼迫玩家挑戰否則就會死掉的那種類型。</p>
+<p>主角是非戰鬥職業，在挑戰地下城時因為一次意外成為了足以破壞機制的BUG玩家。</p>
+<p>韓漫的黑暗情感總是可以講得很好，剩下部分大概就是看故事走向跟角色電波有沒有街上。</p>
+<p>這部角色我比較喜歡，特別是看兔子變成同伴覺得特別好笑。</p>
+<p>主角作為BUG玩家，在遊戲中前進的方式頗有特色。</p>
+<p>目前進度主角收集了各地下城的小BOSS成為強大的一方勢力 (模糊的印象)</p>
+<h3 id="005-奈米魔神"><a href="#005-奈米魔神" class="headerlink" title="005-奈米魔神"></a>005-奈米魔神</h3><p>TAG: 武俠</p>
+<p>本作是長到不行的正統武俠劇情，可以推薦喜歡武俠+爽文的人閱讀，主角自從成長換髮型之後我興趣大概就-80。</p>
+<p>主角做為某邪教教主的私生子，出生以來一直被禁止學習武功，直到某次瀕死之前與奈米機器人相遇，在他的幫助下逐漸成神 (?) 的過程。</p>
+<p>武俠類的繪師基本功都特別好，這部也完全沒有例外。</p>
+<p>故事進展基本都是主角強度蹭蹭往上，但過久了有點疲乏，會想累積很久偶爾才回來看或者放棄也無妨。</p>
+<p><a href="https://www.webtoons.com/zh-hant/martial-arts/nanomasin/list?title_no=2085">https://www.webtoons.com/zh-hant/martial-arts/nanomasin/list?title_no=2085</a></p>
+<h3 id="006-SSS級自殺獵人"><a href="#006-SSS級自殺獵人" class="headerlink" title="006-SSS級自殺獵人"></a>006-SSS級自殺獵人</h3><p>TAG: 冒險, 地下城</p>
+<p>本作屬於世界變成現實地下城的套路，雖然標題這麼明顯，但是實際上看到主角的操作還真是嚇了一跳。</p>
+<p>作者把自殺技能這部分的設定使用得很不錯，很多地方都變成可以靠著自殺讀檔的感覺。</p>
+<p>雖然嘴上說著很簡單，實際上操作其實還挺可怕的，主角是意志堅強的超級理想主義者。</p>
+<p>故事很奇妙的是，女主角是烏克蘭人，然後還發表討厭共產黨的言論，但女主角性格還算討喜。<br>(我猜原本是韓國人用烏克蘭暗喻討厭共產黨，算是反對北韓？)</p>
+<p>主要角色目前各有特色，故事看點大概是看主角這個超級理想主義者如何靠著讀檔創造新的未來。</p>
+<p>偶爾會想撿回來看的作品。</p>
+<h3 id="007-全知讀者視角"><a href="#007-全知讀者視角" class="headerlink" title="007-全知讀者視角"></a>007-全知讀者視角</h3><p>TAG: 冒險</p>
+<p>非常出名的作品，但我在第一回被無聊到退出3-4次，上次看到排行榜才從第二話還第三話看就一路看到進度。</p>
+<p>故事主線很單純，主角金獨子是唯一一個讀完作品知小世界未來的人，並打算充分使用自己讀過作品得到的「未來的知識」活下去。</p>
+<p>特別的是不只金獨子，就連這本書（滅活法）的主角也是穿越多次的人……</p>
+<p>作者很擅長敘述性詭計，很多時候會放出錯誤訊息誘導讀者，在技能設計跟限制上也相當出色。</p>
+<p>但我其實不太喜歡這種多次穿越造成的複雜狀態，因為只要有穿越技能就很容易設計出「世上最後一個人」、「只有我記得你」的絕望感。</p>
+<p>全知我介於想看完跟不想看完這個範疇，主要原因除了不斷穿越回去這種路線很容易設計出一種求而不得的痛苦，其次就是兩部作品（滅活跟全知兩部）的主角我都不喜歡以及讀者幾乎都是走腐向路線這點。</p>
+<p>除此之外另一個設定就是「星座」。</p>
+<p>我覺得看著主角們的星座幾乎就是作為讀者的我們，這部分我不會特別想要反思什麼啦。</p>
+<p>大概的感想是：這是部好作品，就如他的知名度那樣非常優秀，可惜我並不喜歡。</p>
+<p><a href="https://www.webtoons.com/zh-hant/fantasy/duzhe/list?title_no=2089">https://www.webtoons.com/zh-hant/fantasy/duzhe/list?title_no=2089</a></p>
+<h3 id="008-終極小帳"><a href="#008-終極小帳" class="headerlink" title="008-終極小帳"></a>008-終極小帳</h3><p>TAG: 冒險</p>
+<p>本作屬於世界變成現實地下城的套路，比較神奇的是主角脫胎換骨變成另一個人，而且其他的「玩家」也會。</p>
+<p>對我來說這作品的特色在職業很有特色，但問題就是現在故事流行冒險走地下城都要動腦</p>
+<p>反正我就是不想動腦啦這種認真設計的劇情就看過去好了</p>
+<p><a href="https://www.webtoons.com/zh-hant/fantasy/ultra-alternate-character/list?title_no=4422">https://www.webtoons.com/zh-hant/fantasy/ultra-alternate-character/list?title_no=4422</a></p>
+<h3 id="009-今生我要成為家主"><a href="#009-今生我要成為家主" class="headerlink" title="009-今生我要成為家主"></a>009-今生我要成為家主</h3><p>TAG: 重生, 經營, 一點點戀愛, 75</p>
+<p>同樣是重生流但沒有穿越，光是這點就讓我感到莫名欣慰<br>分類大概是經商跟……權謀? XD</p>
+<p>這部很特別的是家族是類似開國元老的特別貴族，即使在王族之前也地位特殊，有許多特權。<br>主角是家族老三的私生子，因此不受承認。</p>
+<p>最後在前代家主過世新任家主搞壞家族產業傾頹時肩負家族職務，最後被馬車撞死。</p>
+<p>重生後的主角決定要嶄露頭角開始廣納賢士。</p>
+<p>這故事的是件很多而且環環相扣，戀愛並不是特別重要的內容。  </p>
+<p>故事看點就是看主角如何利用預先知道的未來，增加自己在家族的地位並且暗中支援父親與家主爺爺做出更正確的決定。  </p>
+<p>這部很多地方頗為現實，主角雖然嶄露了自己的能力與智慧，但她很多時候是用撒嬌或者暗示的方式讓成年人發覺並且解決問題。  </p>
+<p>主角父親是學識淵博但有點懦弱不喜與人爭的性格，主角在過去父親與爺爺相繼因病過世後在家裡的地位非常悽慘。  </p>
+<p>故事中，主角的地位甚至家族僕役的態度明顯因為後期父親經商成功而提高。雖然故事前期本來就可以看出主角受到家主重視，但是我特別喜歡這種很現實的地方。</p>
+<p>看起來覺得這很像養成系的小說，雖然主角是類似團寵身分，但看她待人其實可以理解為什麼她會受人喜愛  。</p>
+<p>後期主角為了避免家族毀滅，陸續解決人生中碰到的災難，比方提早救了二皇子、避免父親死亡、提早搶奪鑽石、發覺姑丈的陰謀，很多事情因為主角雖在家族，但是並不是開金手指所以知道的東西有限，有時候必續靠智慧跟經驗去猜測過去的發展，這比直接穿書有趣不少。</p>
+<p>目前漫畫的劇情還在前面三分之一，小說已經完結  。</p>
+<p>我看到的進度比漫畫稍微往後一點  ，一般狀況我看到戀愛超級少會略過。</p>
+<p>問題是這部主角解決各種事件很有趣，而且不是瘋狂談戀愛而是靠能力跟性格讓周遭的人逐漸改觀<br>唯一一個比較神奇的是這個世界的婚姻概念，皇子們直到過了二十歲都沒有未婚妻，主角身為大家族的女兒也一直不需要聯姻，而且也有女性家主存在。</p>
+<p>在這方面很現代XD</p>
+<p>最新進度二皇子幫找花的地方真的好感度++。</p>
+<h3 id="010-8級魔法師再臨"><a href="#010-8級魔法師再臨" class="headerlink" title="010-8級魔法師再臨"></a>010-8級魔法師再臨</h3><p>TAG: 重生, 奇幻, 48</p>
+<p>漫畫重生流中還有一種套路是酷霸跩的主角因為各種原因 (背叛、覺得無聊、壽終正寢) 重生或者是轉生到百年後的世界，本作屬於被主上背叛的路線。</p>
+<p>這部我會追下去，原因是主角小時候跟長大的臉都是我的菜。</p>
+<p>雖然膚淺但是現實。</p>
+<p>功高震主的主角，在侍奉的君主將其視為眼中釘下毒殺死後，瀕死之際使用重生魔法回到少年時代，尋求夥伴與改變自己過去的遺憾。</p>
+<p>不過說真的主角的母親也畫得太美了吧！！！！</p>
+<p>這部路線跟今生我要成為家主有點類似，雖然知道未來但是並不是全知全能，我比較喜歡摸著鋼索過河的故事，雖然我很懷念少年時代的主角但這畢竟是復活故事QQ</p>
+<p><a href="https://tw.kakaowebtoon.com/viewer/8%E7%B4%9A%E9%AD%94%E6%B3%95%E5%B8%AB%E5%86%8D%E8%87%A8001/11459">https://tw.kakaowebtoon.com/viewer/8%E7%B4%9A%E9%AD%94%E6%B3%95%E5%B8%AB%E5%86%8D%E8%87%A8001/11459</a></p>
+]]></content>
+      <categories>
+        <category>漫畫感想</category>
+      </categories>
+      <tags>
+        <tag>韓漫</tag>
       </tags>
   </entry>
 </search>
